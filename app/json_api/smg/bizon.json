@@ -1,0 +1,2280 @@
+[
+  {
+    "id": "skin-1703948",
+    "name": "PP-Bizon | Candy Apple",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "so_red",
+      "name": "Candy Apple"
+    },
+    "min_float": 0,
+    "max_float": 0.3,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "3",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-inferno-2",
+        "name": "The 2018 Inferno Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_inferno_2.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4540",
+        "name": "London 2018 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_inferno.07dbf5526d87ab866da5af57682ffcdfd59362a5.png"
+      },
+      {
+        "id": "crate-4590",
+        "name": "Katowice 2019 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_inferno.d5b7d5c77ba7cf4e7f9296f8693e5cfae42f2644.png"
+      },
+      {
+        "id": "crate-4660",
+        "name": "Berlin 2019 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_inferno.00a259328607042322ca7cbc5fe16b2d4162f553.png"
+      },
+      {
+        "id": "crate-4809",
+        "name": "Stockholm 2021 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_inferno.db7770ae6dbb5369e8301eae1941fbaf342f9413.png"
+      },
+      {
+        "id": "crate-4835",
+        "name": "Antwerp 2022 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_inferno.bbafa6dc6366b53b52fe2e5505063c3d22a9d5e8.png"
+      },
+      {
+        "id": "crate-4860",
+        "name": "Rio 2022 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_inferno.8436644b919dfd7b507765755a2c6d947aa043bd.png"
+      },
+      {
+        "id": "crate-4893",
+        "name": "Paris 2023 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_inferno.6b9e8ab53a451035b0f38e60f64a531a64d83352.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_so_red_light.png"
+  },
+  {
+    "id": "skin-1703988",
+    "name": "PP-Bizon | Blue Streak",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "hy_splatter",
+      "name": "Blue Streak"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "13",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-esports-iii",
+        "name": "The eSports 2014 Summer Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_esports_iii.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4019",
+        "name": "eSports 2014 Summer Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2014_summer.e579e3f7ca004fd9b51aa0f597590c936bb9f67c.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_hy_splatter_light.png"
+  },
+  {
+    "id": "skin-1704036",
+    "name": "PP-Bizon | Forest Leaves",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_leaves",
+      "name": "Forest Leaves"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "25",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-militia",
+        "name": "The Militia Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_militia.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_sp_leaves_light.png"
+  },
+  {
+    "id": "skin-1704216",
+    "name": "PP-Bizon | Carbon Fiber",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_carbon_fiber",
+      "name": "Carbon Fiber"
+    },
+    "min_float": 0,
+    "max_float": 0.12,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "70",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-vertigo",
+        "name": "The Vertigo Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_vertigo.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4666",
+        "name": "Berlin 2019 Vertigo Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_vertigo.764d7a1f455a32f6f28561dc22cbf835def7b481.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_am_carbon_fiber_light.png"
+  },
+  {
+    "id": "skin-1704528",
+    "name": "PP-Bizon | Sand Dashed",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_tape_short_sand",
+      "name": "Sand Dashed"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "148",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-italy",
+        "name": "The Italy Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_italy.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_sp_tape_short_sand_light.png"
+  },
+  {
+    "id": "skin-1704532",
+    "name": "PP-Bizon | Urban Dashed",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_tape_short_urban",
+      "name": "Urban Dashed"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "149",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-train",
+        "name": "The Train Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_train.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4137",
+        "name": "ESL One Cologne 2015 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslcologne2015_promo_de_train.a7f35dc2af6523bae268f2d289f8e2401cc93418.png"
+      },
+      {
+        "id": "crate-4182",
+        "name": "DreamHack Cluj-Napoca 2015 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cluj2015_promo_de_train.0d90a1abb8c5a7a925c964993fbe5fc491dbef7f.png"
+      },
+      {
+        "id": "crate-4231",
+        "name": "MLG Columbus 2016 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_columbus2016_promo_de_train.8e6d7a5c7031a0f374d5671ef2c3430521443813.png"
+      },
+      {
+        "id": "crate-4279",
+        "name": "Cologne 2016 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cologne2016_promo_de_train.9d07311ba0f80e6f9765fc0ce4e2198ed46d3c62.png"
+      },
+      {
+        "id": "crate-4349",
+        "name": "Atlanta 2017 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_atlanta2017_promo_de_train.094d87e1e59c1186ce31cc361215e93dbac5d68d.png"
+      },
+      {
+        "id": "crate-4401",
+        "name": "Krakow 2017 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_krakow2017_promo_de_train.218a403b03c551d7b4b33e9a921f705710959c4d.png"
+      },
+      {
+        "id": "crate-4468",
+        "name": "Boston 2018 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_boston2018_promo_de_train.43b502d91d47c530d5f2dc028c31ba42ec509b6f.png"
+      },
+      {
+        "id": "crate-4545",
+        "name": "London 2018 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_train.b4d9de3fe319af138e2406a878ac4618dabee907.png"
+      },
+      {
+        "id": "crate-4595",
+        "name": "Katowice 2019 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_train.7cea24a20f8bd7e630a8c13bd7f932ec3f2cbb01.png"
+      },
+      {
+        "id": "crate-4664",
+        "name": "Berlin 2019 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_train.ad635359a453056a3e8da96bbc1cf4dac74d3387.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_sp_tape_short_urban_light.png"
+  },
+  {
+    "id": "skin-1704572",
+    "name": "PP-Bizon | Brass",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_brass",
+      "name": "Brass"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "159",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-dust-2",
+        "name": "The Dust 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4022",
+        "name": "ESL One Cologne 2014 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_dust2.df8e342f4a1dcae65825ee67238c8c7319d35316.png"
+      },
+      {
+        "id": "crate-4031",
+        "name": "DreamHack 2014 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_dhw14_promo_de_dust2.1c381563a79ad42c2e10da7313f6b97242e97d2c.png"
+      },
+      {
+        "id": "crate-4079",
+        "name": "ESL One Katowice 2015 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslkatowice2015_promo_de_dust2.fdd533379af9f88b554611acfb06c49717109b3b.png"
+      },
+      {
+        "id": "crate-4131",
+        "name": "ESL One Cologne 2015 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslcologne2015_promo_de_dust2.ecdaa935c5df5e374878003893bb4ffec789aed3.png"
+      },
+      {
+        "id": "crate-4176",
+        "name": "DreamHack Cluj-Napoca 2015 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cluj2015_promo_de_dust2.d21a63669620383248e5ee41eae07233f60ba381.png"
+      },
+      {
+        "id": "crate-4225",
+        "name": "MLG Columbus 2016 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_columbus2016_promo_de_dust2.cf28c5c9360806999509a6adce1c02bf30421bf8.png"
+      },
+      {
+        "id": "crate-4274",
+        "name": "Cologne 2016 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cologne2016_promo_de_dust2.a2a6c0bfb1bedb62cab626eb18f3cabad99bd55c.png"
+      },
+      {
+        "id": "crate-4344",
+        "name": "Atlanta 2017 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_atlanta2017_promo_de_dust2.81f02d867347bef8e3b3148b212fa449f1ba135c.png"
+      },
+      {
+        "id": "crate-4542",
+        "name": "London 2018 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_dust2.1da791ddf20df4175cdaaedc1c45c174ac0fb0b1.png"
+      },
+      {
+        "id": "crate-4592",
+        "name": "Katowice 2019 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_dust2.612588f56092dad67e7ec82305d5e77bd3b11712.png"
+      },
+      {
+        "id": "crate-4662",
+        "name": "Berlin 2019 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_dust2.453710acd555cc42301fcfc948a5bd53f08b2ce5.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_aq_brass_light.png"
+  },
+  {
+    "id": "skin-1704592",
+    "name": "PP-Bizon | Modern Hunter",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "hy_hunter_modern",
+      "name": "Modern Hunter"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "164",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-militia",
+        "name": "The Militia Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_militia.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_hy_hunter_modern_light.png"
+  },
+  {
+    "id": "skin-1704620",
+    "name": "PP-Bizon | Irradiated Alert",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_nukestripe_brown",
+      "name": "Irradiated Alert"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "171",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-nuke",
+        "name": "The Nuke Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_nuke.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4025",
+        "name": "ESL One Cologne 2014 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_nuke.0f12d84b7859a10f2d54353bb93bad94a17a97ce.png"
+      },
+      {
+        "id": "crate-4034",
+        "name": "DreamHack 2014 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_dhw14_promo_de_nuke.5385c040bab29517b9cbaefb0f63af525f2fb04e.png"
+      },
+      {
+        "id": "crate-4082",
+        "name": "ESL One Katowice 2015 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslkatowice2015_promo_de_nuke.7c963862e4c4a2b783ac45893601dbf4520b0cab.png"
+      },
+      {
+        "id": "crate-4232",
+        "name": "MLG Columbus 2016 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_columbus2016_promo_de_nuke.7a231ae8e8be1de61cc92ee5d6ce6d7cd9e3e9c6.png"
+      },
+      {
+        "id": "crate-4280",
+        "name": "Cologne 2016 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cologne2016_promo_de_nuke.7f36906aa5ad77f39c0a17a9bcc0988b95d76157.png"
+      },
+      {
+        "id": "crate-4350",
+        "name": "Atlanta 2017 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_atlanta2017_promo_de_nuke.f9c3a5c9125a951181c52d43b6b123e21d867440.png"
+      },
+      {
+        "id": "crate-4402",
+        "name": "Krakow 2017 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_krakow2017_promo_de_nuke.e65a7276a2c7120a936a28fd620c8ad293b8d715.png"
+      },
+      {
+        "id": "crate-4469",
+        "name": "Boston 2018 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_boston2018_promo_de_nuke.9d83d9e841a7a06e01c0c7ce41b6af70026e6342.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_sp_nukestripe_brown_light.png"
+  },
+  {
+    "id": "skin-1704748",
+    "name": "PP-Bizon | Rust Coat",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aq_steel_bravo",
+      "name": "Rust Coat"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "203",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-bravo-ii",
+        "name": "The Alpha Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_bravo_ii.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_aq_steel_bravo_light.png"
+  },
+  {
+    "id": "skin-1704832",
+    "name": "PP-Bizon | Water Sigil",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "hy_water_crest",
+      "name": "Water Sigil"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "224",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-esports-ii",
+        "name": "The eSports 2013 Winter Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_esports_ii.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4005",
+        "name": "eSports 2013 Winter Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013_14.a83d1976bb20db8b4a64e7acad93aac87127ddd5.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_hy_water_crest_light.png"
+  },
+  {
+    "id": "skin-1704880",
+    "name": "PP-Bizon | Night Ops",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "hy_varicamo_night",
+      "name": "Night Ops"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "236",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-lake",
+        "name": "The Lake Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_lake.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_hy_varicamo_night_light.png"
+  },
+  {
+    "id": "skin-1705004",
+    "name": "PP-Bizon | Cobalt Halftone",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_turqoise_halftone",
+      "name": "Cobalt Halftone"
+    },
+    "min_float": 0.05,
+    "max_float": 0.45,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "267",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-1",
+        "name": "The Winter Offensive Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_1.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4009",
+        "name": "Winter Offensive Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_1.b176b8ca60249d0a2e7c6d72ec7d2d1a9632bd06.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_am_turqoise_halftone_light.png"
+  },
+  {
+    "id": "skin-1705108",
+    "name": "PP-Bizon | Death Rattle",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "hy_nerodia",
+      "name": "Death Rattle"
+    },
+    "min_float": 0.08,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "293",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-op10-t",
+        "name": "The Havoc Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_op10_t.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_hy_nerodia_light.png"
+  },
+  {
+    "id": "skin-1705160",
+    "name": "PP-Bizon | Antique",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_bizon_antique",
+      "name": "Antique"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "306",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-3",
+        "name": "The Huntsman Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_3.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4017",
+        "name": "Huntsman Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_3.ce832a92f9fc329dc87d7a802374b918b07cdb84.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_cu_bizon_antique_light.png"
+  },
+  {
+    "id": "skin-1705332",
+    "name": "PP-Bizon | Osiris",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_bizon-osiris",
+      "name": "Osiris"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "349",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-4",
+        "name": "The Breakout Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_4.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4018",
+        "name": "Operation Breakout Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_4.f0d23848527b7be0f1fc9556b1f3ecfb1193ee40.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_cu_bizon-osiris_light.png"
+  },
+  {
+    "id": "skin-1705440",
+    "name": "PP-Bizon | Chemical Green",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "so_grey_nuclear_green_bizon",
+      "name": "Chemical Green"
+    },
+    "min_float": 0,
+    "max_float": 0.9,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "376",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-cache",
+        "name": "The Cache Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_cache.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4026",
+        "name": "ESL One Cologne 2014 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_cache.374ca6f8841a65c1890fc6f24f2a084c523ea9f8.png"
+      },
+      {
+        "id": "crate-4035",
+        "name": "DreamHack 2014 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_dhw14_promo_de_cache.191893690c5fd8c410daf933071e9ffe22b655e4.png"
+      },
+      {
+        "id": "crate-4083",
+        "name": "ESL One Katowice 2015 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslkatowice2015_promo_de_cache.e3d4caa342c69142c0fb59c11b1bea091f5bc441.png"
+      },
+      {
+        "id": "crate-4136",
+        "name": "ESL One Cologne 2015 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslcologne2015_promo_de_cache.c9cea9d03c09a923524379c6706f3851ccc750df.png"
+      },
+      {
+        "id": "crate-4181",
+        "name": "DreamHack Cluj-Napoca 2015 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cluj2015_promo_de_cache.3bf78784a8d6b49ba2d1d95917b2edd167ef577a.png"
+      },
+      {
+        "id": "crate-4230",
+        "name": "MLG Columbus 2016 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_columbus2016_promo_de_cache.f0f2c5b00fca82486aa0dccf8b3c2200db618289.png"
+      },
+      {
+        "id": "crate-4278",
+        "name": "Cologne 2016 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cologne2016_promo_de_cache.6233f9fc52acf0956b23dc4b168f8d611d9ac8c7.png"
+      },
+      {
+        "id": "crate-4348",
+        "name": "Atlanta 2017 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_atlanta2017_promo_de_cache.6ec62b0923e3347faef891d0acff28ae37b1c1ae.png"
+      },
+      {
+        "id": "crate-4400",
+        "name": "Krakow 2017 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_krakow2017_promo_de_cache.d2e97ade896a42adbb7f16920cdeb9ce71281022.png"
+      },
+      {
+        "id": "crate-4467",
+        "name": "Boston 2018 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_boston2018_promo_de_cache.5b3feaa264381bb5eed8f06bf8a8df5ef6d59313.png"
+      },
+      {
+        "id": "crate-4544",
+        "name": "London 2018 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_cache.ecbdd69c85012fe6f09b83484572fcd430990571.png"
+      },
+      {
+        "id": "crate-4594",
+        "name": "Katowice 2019 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_cache.f450df7d0dd77551d2e8a4758737603919dc8582.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_so_grey_nuclear_green_bizon_light.png"
+  },
+  {
+    "id": "skin-1705764",
+    "name": "PP-Bizon | Bamboo Print",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "hy_bamboo_jungle_ink",
+      "name": "Bamboo Print"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "457",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-kimono",
+        "name": "The Rising Sun Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_kimono.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_hy_bamboo_jungle_ink_light.png"
+  },
+  {
+    "id": "skin-1705968",
+    "name": "PP-Bizon | Fuel Rod",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_bizon_noxious",
+      "name": "Fuel Rod"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "508",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-10",
+        "name": "The Revolver Case Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_10.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4186",
+        "name": "Revolver Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_10.a7a2e0b4f6ee7a99b25c531b2d3bdef5147200f7.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_cu_bizon_noxious_light.png"
+  },
+  {
+    "id": "skin-1706040",
+    "name": "PP-Bizon | Photic Zone",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_bizon_citizen",
+      "name": "Photic Zone"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "526",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-11",
+        "name": "The Wildfire Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_11.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4187",
+        "name": "Operation Wildfire Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_11.4839d78c3416c2036da2ed42111df77177828399.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_cu_bizon_citizen_light.png"
+  },
+  {
+    "id": "skin-1706104",
+    "name": "PP-Bizon | Judgement of Anubis",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_bizon_curse",
+      "name": "Judgement of Anubis"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "542",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-12",
+        "name": "The Chroma 3 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_12.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_12.7555fc0b45c4d1e0ff1c117af393463f29f20f66.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_cu_bizon_curse_light.png"
+  },
+  {
+    "id": "skin-1706312",
+    "name": "PP-Bizon | Harvester",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "gs_pp_bizon_harvester",
+      "name": "Harvester"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "594",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-13",
+        "name": "The Gamma Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_13.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4236",
+        "name": "Gamma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_13.9a7d2f757ddbdc915aa005def74ac186a457346a.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_gs_pp_bizon_harvester_light.png"
+  },
+  {
+    "id": "skin-1706500",
+    "name": "PP-Bizon | Jungle Slipstream",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "hy_bizon_torn_green",
+      "name": "Jungle Slipstream"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "641",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-16",
+        "name": "The Spectrum Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_16.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4351",
+        "name": "Spectrum Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_16.a2ec6a235e52612fa82e5858af3751b6e77f4ec2.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_hy_bizon_torn_green_light.png"
+  },
+  {
+    "id": "skin-1706640",
+    "name": "PP-Bizon | High Roller",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_bizon_all_in",
+      "name": "High Roller"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "676",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-18",
+        "name": "The Spectrum 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_18.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4403",
+        "name": "Spectrum 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_18.4255d9e03d5dad034bbe868622733deeb81434c1.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_cu_bizon_all_in_light.png"
+  },
+  {
+    "id": "skin-1706704",
+    "name": "PP-Bizon | Night Riot",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_bizon_riot",
+      "name": "Night Riot"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "692",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-19",
+        "name": "The Clutch Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_19.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_19.982c3a44362ee65b192b359c12d3d3af9ecb56b2.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_cu_bizon_riot_light.png"
+  },
+  {
+    "id": "skin-1707036",
+    "name": "PP-Bizon | Facility Sketch",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "hy_blueprint_white",
+      "name": "Facility Sketch"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "775",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-nuke-2",
+        "name": "The 2018 Nuke Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_nuke_2.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4546",
+        "name": "London 2018 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_nuke.c5a435706f7a023e26c27c4b44ecd5467a6a0751.png"
+      },
+      {
+        "id": "crate-4596",
+        "name": "Katowice 2019 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_nuke.11aecd5c30f7ff4a7e5633e11c1f92c7436f7238.png"
+      },
+      {
+        "id": "crate-4665",
+        "name": "Berlin 2019 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_nuke.d5ccbe093d09b47d2007ec613d1043debece329b.png"
+      },
+      {
+        "id": "crate-4814",
+        "name": "Stockholm 2021 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_nuke.1fe24dddabe5b67b42dc78fe9a4b05bbca5129ce.png"
+      },
+      {
+        "id": "crate-4840",
+        "name": "Antwerp 2022 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_nuke.4429df1cdac6206b27343c1b2187ddd17c1f735b.png"
+      },
+      {
+        "id": "crate-4865",
+        "name": "Rio 2022 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_nuke.77e9c0952c566be48bfe22d15fe1f19f4c975a22.png"
+      },
+      {
+        "id": "crate-4898",
+        "name": "Paris 2023 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_nuke.a486bc5278ce6d21c7dd9a41740af49e74c15726.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_hy_blueprint_white_light.png"
+  },
+  {
+    "id": "skin-1707252",
+    "name": "PP-Bizon | Anolis",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "hy_lizard_skin",
+      "name": "Anolis"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "829",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-mirage-2021",
+        "name": "The 2021 Mirage Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_mirage_2021.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4810",
+        "name": "Stockholm 2021 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_mirage.bc6d1bdc42baa20b92469f4e88c5d19f1db2f3a4.png"
+      },
+      {
+        "id": "crate-4836",
+        "name": "Antwerp 2022 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_mirage.6fd89e7b1aa99b499085b3ee4d1bc9babe9f0149.png"
+      },
+      {
+        "id": "crate-4861",
+        "name": "Rio 2022 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_mirage.090f18086981df3dbebc2e851f7902f6b9238c3c.png"
+      },
+      {
+        "id": "crate-4894",
+        "name": "Paris 2023 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_mirage.0e826d4e643335cc00448f83a61f68ed1f877bfe.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_hy_lizard_skin_light.png"
+  },
+  {
+    "id": "skin-1707428",
+    "name": "PP-Bizon | Seabird",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "so_aqua_stmarc",
+      "name": "Seabird"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "873",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-stmarc",
+        "name": "The St. Marc Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_stmarc.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_so_aqua_stmarc_light.png"
+  },
+  {
+    "id": "skin-1707472",
+    "name": "PP-Bizon | Embargo",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_bizon_road_warrior",
+      "name": "Embargo"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "884",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-23",
+        "name": "The Shattered Web Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_23.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4620",
+        "name": "Shattered Web Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_23.3248a20393f5e73c0ee99448b994e89381565353.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_cu_bizon_road_warrior_light.png"
+  },
+  {
+    "id": "skin-1707828",
+    "name": "PP-Bizon | Runic",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "gs_bizon_hellraider",
+      "name": "Runic"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "973",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-26",
+        "name": "The Fracture Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_26.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4698",
+        "name": "Fracture Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_26.b25098af5a4285004052786e261be43dec5b89cf.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_gs_bizon_hellraider_light.png"
+  },
+  {
+    "id": "skin-1708268",
+    "name": "PP-Bizon | Breaker Box",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aa_wiring",
+      "name": "Breaker Box"
+    },
+    "min_float": 0,
+    "max_float": 0.44,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "1083",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-vertigo-2021",
+        "name": "The 2021 Vertigo Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_vertigo_2021.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4815",
+        "name": "Stockholm 2021 Vertigo Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_vertigo.7080d66022a7ae14944279c0e0d3e1670bd94d9c.png"
+      },
+      {
+        "id": "crate-4841",
+        "name": "Antwerp 2022 Vertigo Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_vertigo.b6852a54ab50c53059d8d7a90998e500682d30be.png"
+      },
+      {
+        "id": "crate-4866",
+        "name": "Rio 2022 Vertigo Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_vertigo.7c239e2541a763caf8314bd1630b57fc59b9b18d.png"
+      },
+      {
+        "id": "crate-4899",
+        "name": "Paris 2023 Vertigo Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_vertigo.da26ce2a8461ef92d71ba5aa0a6502a9646fb336.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_aa_wiring_light.png"
+  },
+  {
+    "id": "skin-1708332",
+    "name": "PP-Bizon | Lumen",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "gs_bizon_flasher",
+      "name": "Lumen"
+    },
+    "min_float": 0,
+    "max_float": 0.77,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1099",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-29",
+        "name": "The Operation Riptide Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_29.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4790",
+        "name": "Operation Riptide Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_29.9b830067732b4de110c01fb24cd067a3061b43a8.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_gs_bizon_flasher_light.png"
+  },
+  {
+    "id": "skin-1708436",
+    "name": "PP-Bizon | Space Cat",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
+    "weapon": {
+      "id": "weapon_bizon",
+      "name": "PP-Bizon"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_bizon_spacecat",
+      "name": "Space Cat"
+    },
+    "min_float": 0,
+    "max_float": 0.67,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1125",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-30",
+        "name": "The Dreams & Nightmares Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_30.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4818",
+        "name": "Dreams & Nightmares Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_30.c471a3f74a254c80754f7deec19adaf0df266e23.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_bizon_cu_bizon_spacecat_light.png"
+  }
+]

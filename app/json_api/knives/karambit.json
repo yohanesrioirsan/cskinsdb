@@ -1,0 +1,2522 @@
+[
+  {
+    "id": "skin-33226772",
+    "name": "★ Karambit | Forest DDPAT",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_ddpat",
+      "name": "Forest DDPAT"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "5",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4001",
+        "name": "CS:GO Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_1.23c783d005b446a1004c97057cfb5ac2d8dae186.png"
+      },
+      {
+        "id": "crate-4002",
+        "name": "eSports 2013 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013.c4fd3c71742688383914a7ef7127652764f4567c.png"
+      },
+      {
+        "id": "crate-4003",
+        "name": "Operation Bravo Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_operation_ii.5e5104a6291741c5693a1e78bd6ecc9560b51f0a.png"
+      },
+      {
+        "id": "crate-4004",
+        "name": "CS:GO Weapon Case 2",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_2.912031176f2320d2d39f449ab3e27c41f5ec7faa.png"
+      },
+      {
+        "id": "crate-4005",
+        "name": "eSports 2013 Winter Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013_14.a83d1976bb20db8b4a64e7acad93aac87127ddd5.png"
+      },
+      {
+        "id": "crate-4009",
+        "name": "Winter Offensive Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_1.b176b8ca60249d0a2e7c6d72ec7d2d1a9632bd06.png"
+      },
+      {
+        "id": "crate-4010",
+        "name": "CS:GO Weapon Case 3",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_3.b49dc22a06991946e849c7b364b7d5876534ef61.png"
+      },
+      {
+        "id": "crate-4011",
+        "name": "Operation Phoenix Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_2.49174abddcccb6519b83d27d0cff476e1c44cc57.png"
+      },
+      {
+        "id": "crate-4019",
+        "name": "eSports 2014 Summer Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2014_summer.e579e3f7ca004fd9b51aa0f597590c936bb9f67c.png"
+      },
+      {
+        "id": "crate-4029",
+        "name": "Operation Vanguard Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_5.49a38d2d3afff918ae3b5c5bc2ba2f99b02888f3.png"
+      },
+      {
+        "id": "crate-4186",
+        "name": "Revolver Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_10.a7a2e0b4f6ee7a99b25c531b2d3bdef5147200f7.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_hy_ddpat_light.png"
+  },
+  {
+    "id": "skin-33226800",
+    "name": "★ Karambit | Crimson Web",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_webs",
+      "name": "Crimson Web"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "12",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4001",
+        "name": "CS:GO Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_1.23c783d005b446a1004c97057cfb5ac2d8dae186.png"
+      },
+      {
+        "id": "crate-4002",
+        "name": "eSports 2013 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013.c4fd3c71742688383914a7ef7127652764f4567c.png"
+      },
+      {
+        "id": "crate-4003",
+        "name": "Operation Bravo Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_operation_ii.5e5104a6291741c5693a1e78bd6ecc9560b51f0a.png"
+      },
+      {
+        "id": "crate-4004",
+        "name": "CS:GO Weapon Case 2",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_2.912031176f2320d2d39f449ab3e27c41f5ec7faa.png"
+      },
+      {
+        "id": "crate-4005",
+        "name": "eSports 2013 Winter Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013_14.a83d1976bb20db8b4a64e7acad93aac87127ddd5.png"
+      },
+      {
+        "id": "crate-4009",
+        "name": "Winter Offensive Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_1.b176b8ca60249d0a2e7c6d72ec7d2d1a9632bd06.png"
+      },
+      {
+        "id": "crate-4010",
+        "name": "CS:GO Weapon Case 3",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_3.b49dc22a06991946e849c7b364b7d5876534ef61.png"
+      },
+      {
+        "id": "crate-4011",
+        "name": "Operation Phoenix Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_2.49174abddcccb6519b83d27d0cff476e1c44cc57.png"
+      },
+      {
+        "id": "crate-4019",
+        "name": "eSports 2014 Summer Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2014_summer.e579e3f7ca004fd9b51aa0f597590c936bb9f67c.png"
+      },
+      {
+        "id": "crate-4029",
+        "name": "Operation Vanguard Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_5.49a38d2d3afff918ae3b5c5bc2ba2f99b02888f3.png"
+      },
+      {
+        "id": "crate-4186",
+        "name": "Revolver Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_10.a7a2e0b4f6ee7a99b25c531b2d3bdef5147200f7.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_hy_webs_light.png"
+  },
+  {
+    "id": "skin-33226904",
+    "name": "★ Karambit | Fade",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "aa_fade",
+      "name": "Fade"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "38",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4001",
+        "name": "CS:GO Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_1.23c783d005b446a1004c97057cfb5ac2d8dae186.png"
+      },
+      {
+        "id": "crate-4002",
+        "name": "eSports 2013 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013.c4fd3c71742688383914a7ef7127652764f4567c.png"
+      },
+      {
+        "id": "crate-4003",
+        "name": "Operation Bravo Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_operation_ii.5e5104a6291741c5693a1e78bd6ecc9560b51f0a.png"
+      },
+      {
+        "id": "crate-4004",
+        "name": "CS:GO Weapon Case 2",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_2.912031176f2320d2d39f449ab3e27c41f5ec7faa.png"
+      },
+      {
+        "id": "crate-4005",
+        "name": "eSports 2013 Winter Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013_14.a83d1976bb20db8b4a64e7acad93aac87127ddd5.png"
+      },
+      {
+        "id": "crate-4009",
+        "name": "Winter Offensive Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_1.b176b8ca60249d0a2e7c6d72ec7d2d1a9632bd06.png"
+      },
+      {
+        "id": "crate-4010",
+        "name": "CS:GO Weapon Case 3",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_3.b49dc22a06991946e849c7b364b7d5876534ef61.png"
+      },
+      {
+        "id": "crate-4011",
+        "name": "Operation Phoenix Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_2.49174abddcccb6519b83d27d0cff476e1c44cc57.png"
+      },
+      {
+        "id": "crate-4019",
+        "name": "eSports 2014 Summer Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2014_summer.e579e3f7ca004fd9b51aa0f597590c936bb9f67c.png"
+      },
+      {
+        "id": "crate-4029",
+        "name": "Operation Vanguard Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_5.49a38d2d3afff918ae3b5c5bc2ba2f99b02888f3.png"
+      },
+      {
+        "id": "crate-4186",
+        "name": "Revolver Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_10.a7a2e0b4f6ee7a99b25c531b2d3bdef5147200f7.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_aa_fade_light.png"
+  },
+  {
+    "id": "skin-33226912",
+    "name": "★ Karambit | Night",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "so_night",
+      "name": "Night"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "40",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4001",
+        "name": "CS:GO Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_1.23c783d005b446a1004c97057cfb5ac2d8dae186.png"
+      },
+      {
+        "id": "crate-4002",
+        "name": "eSports 2013 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013.c4fd3c71742688383914a7ef7127652764f4567c.png"
+      },
+      {
+        "id": "crate-4003",
+        "name": "Operation Bravo Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_operation_ii.5e5104a6291741c5693a1e78bd6ecc9560b51f0a.png"
+      },
+      {
+        "id": "crate-4004",
+        "name": "CS:GO Weapon Case 2",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_2.912031176f2320d2d39f449ab3e27c41f5ec7faa.png"
+      },
+      {
+        "id": "crate-4005",
+        "name": "eSports 2013 Winter Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013_14.a83d1976bb20db8b4a64e7acad93aac87127ddd5.png"
+      },
+      {
+        "id": "crate-4009",
+        "name": "Winter Offensive Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_1.b176b8ca60249d0a2e7c6d72ec7d2d1a9632bd06.png"
+      },
+      {
+        "id": "crate-4010",
+        "name": "CS:GO Weapon Case 3",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_3.b49dc22a06991946e849c7b364b7d5876534ef61.png"
+      },
+      {
+        "id": "crate-4011",
+        "name": "Operation Phoenix Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_2.49174abddcccb6519b83d27d0cff476e1c44cc57.png"
+      },
+      {
+        "id": "crate-4019",
+        "name": "eSports 2014 Summer Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2014_summer.e579e3f7ca004fd9b51aa0f597590c936bb9f67c.png"
+      },
+      {
+        "id": "crate-4029",
+        "name": "Operation Vanguard Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_5.49a38d2d3afff918ae3b5c5bc2ba2f99b02888f3.png"
+      },
+      {
+        "id": "crate-4186",
+        "name": "Revolver Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_10.a7a2e0b4f6ee7a99b25c531b2d3bdef5147200f7.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_so_night_light.png"
+  },
+  {
+    "id": "skin-33226920",
+    "name": "★ Karambit | Blue Steel",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "aq_blued",
+      "name": "Blue Steel"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "42",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4001",
+        "name": "CS:GO Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_1.23c783d005b446a1004c97057cfb5ac2d8dae186.png"
+      },
+      {
+        "id": "crate-4002",
+        "name": "eSports 2013 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013.c4fd3c71742688383914a7ef7127652764f4567c.png"
+      },
+      {
+        "id": "crate-4003",
+        "name": "Operation Bravo Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_operation_ii.5e5104a6291741c5693a1e78bd6ecc9560b51f0a.png"
+      },
+      {
+        "id": "crate-4004",
+        "name": "CS:GO Weapon Case 2",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_2.912031176f2320d2d39f449ab3e27c41f5ec7faa.png"
+      },
+      {
+        "id": "crate-4005",
+        "name": "eSports 2013 Winter Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013_14.a83d1976bb20db8b4a64e7acad93aac87127ddd5.png"
+      },
+      {
+        "id": "crate-4009",
+        "name": "Winter Offensive Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_1.b176b8ca60249d0a2e7c6d72ec7d2d1a9632bd06.png"
+      },
+      {
+        "id": "crate-4010",
+        "name": "CS:GO Weapon Case 3",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_3.b49dc22a06991946e849c7b364b7d5876534ef61.png"
+      },
+      {
+        "id": "crate-4011",
+        "name": "Operation Phoenix Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_2.49174abddcccb6519b83d27d0cff476e1c44cc57.png"
+      },
+      {
+        "id": "crate-4019",
+        "name": "eSports 2014 Summer Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2014_summer.e579e3f7ca004fd9b51aa0f597590c936bb9f67c.png"
+      },
+      {
+        "id": "crate-4029",
+        "name": "Operation Vanguard Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_5.49a38d2d3afff918ae3b5c5bc2ba2f99b02888f3.png"
+      },
+      {
+        "id": "crate-4186",
+        "name": "Revolver Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_10.a7a2e0b4f6ee7a99b25c531b2d3bdef5147200f7.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_aq_blued_light.png"
+  },
+  {
+    "id": "skin-33226924",
+    "name": "★ Karambit | Stained",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "aq_forced",
+      "name": "Stained"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "43",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4001",
+        "name": "CS:GO Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_1.23c783d005b446a1004c97057cfb5ac2d8dae186.png"
+      },
+      {
+        "id": "crate-4002",
+        "name": "eSports 2013 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013.c4fd3c71742688383914a7ef7127652764f4567c.png"
+      },
+      {
+        "id": "crate-4003",
+        "name": "Operation Bravo Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_operation_ii.5e5104a6291741c5693a1e78bd6ecc9560b51f0a.png"
+      },
+      {
+        "id": "crate-4004",
+        "name": "CS:GO Weapon Case 2",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_2.912031176f2320d2d39f449ab3e27c41f5ec7faa.png"
+      },
+      {
+        "id": "crate-4005",
+        "name": "eSports 2013 Winter Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013_14.a83d1976bb20db8b4a64e7acad93aac87127ddd5.png"
+      },
+      {
+        "id": "crate-4009",
+        "name": "Winter Offensive Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_1.b176b8ca60249d0a2e7c6d72ec7d2d1a9632bd06.png"
+      },
+      {
+        "id": "crate-4010",
+        "name": "CS:GO Weapon Case 3",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_3.b49dc22a06991946e849c7b364b7d5876534ef61.png"
+      },
+      {
+        "id": "crate-4011",
+        "name": "Operation Phoenix Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_2.49174abddcccb6519b83d27d0cff476e1c44cc57.png"
+      },
+      {
+        "id": "crate-4019",
+        "name": "eSports 2014 Summer Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2014_summer.e579e3f7ca004fd9b51aa0f597590c936bb9f67c.png"
+      },
+      {
+        "id": "crate-4029",
+        "name": "Operation Vanguard Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_5.49a38d2d3afff918ae3b5c5bc2ba2f99b02888f3.png"
+      },
+      {
+        "id": "crate-4186",
+        "name": "Revolver Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_10.a7a2e0b4f6ee7a99b25c531b2d3bdef5147200f7.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_aq_forced_light.png"
+  },
+  {
+    "id": "skin-33226928",
+    "name": "★ Karambit | Case Hardened",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "aq_oiled",
+      "name": "Case Hardened"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "44",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4001",
+        "name": "CS:GO Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_1.23c783d005b446a1004c97057cfb5ac2d8dae186.png"
+      },
+      {
+        "id": "crate-4002",
+        "name": "eSports 2013 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013.c4fd3c71742688383914a7ef7127652764f4567c.png"
+      },
+      {
+        "id": "crate-4003",
+        "name": "Operation Bravo Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_operation_ii.5e5104a6291741c5693a1e78bd6ecc9560b51f0a.png"
+      },
+      {
+        "id": "crate-4004",
+        "name": "CS:GO Weapon Case 2",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_2.912031176f2320d2d39f449ab3e27c41f5ec7faa.png"
+      },
+      {
+        "id": "crate-4005",
+        "name": "eSports 2013 Winter Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013_14.a83d1976bb20db8b4a64e7acad93aac87127ddd5.png"
+      },
+      {
+        "id": "crate-4009",
+        "name": "Winter Offensive Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_1.b176b8ca60249d0a2e7c6d72ec7d2d1a9632bd06.png"
+      },
+      {
+        "id": "crate-4010",
+        "name": "CS:GO Weapon Case 3",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_3.b49dc22a06991946e849c7b364b7d5876534ef61.png"
+      },
+      {
+        "id": "crate-4011",
+        "name": "Operation Phoenix Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_2.49174abddcccb6519b83d27d0cff476e1c44cc57.png"
+      },
+      {
+        "id": "crate-4019",
+        "name": "eSports 2014 Summer Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2014_summer.e579e3f7ca004fd9b51aa0f597590c936bb9f67c.png"
+      },
+      {
+        "id": "crate-4029",
+        "name": "Operation Vanguard Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_5.49a38d2d3afff918ae3b5c5bc2ba2f99b02888f3.png"
+      },
+      {
+        "id": "crate-4186",
+        "name": "Revolver Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_10.a7a2e0b4f6ee7a99b25c531b2d3bdef5147200f7.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_aq_oiled_light.png"
+  },
+  {
+    "id": "skin-33226988",
+    "name": "★ Karambit | Slaughter",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_zebra",
+      "name": "Slaughter"
+    },
+    "min_float": 0.01,
+    "max_float": 0.26,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "59",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4001",
+        "name": "CS:GO Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_1.23c783d005b446a1004c97057cfb5ac2d8dae186.png"
+      },
+      {
+        "id": "crate-4002",
+        "name": "eSports 2013 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013.c4fd3c71742688383914a7ef7127652764f4567c.png"
+      },
+      {
+        "id": "crate-4003",
+        "name": "Operation Bravo Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_operation_ii.5e5104a6291741c5693a1e78bd6ecc9560b51f0a.png"
+      },
+      {
+        "id": "crate-4004",
+        "name": "CS:GO Weapon Case 2",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_2.912031176f2320d2d39f449ab3e27c41f5ec7faa.png"
+      },
+      {
+        "id": "crate-4005",
+        "name": "eSports 2013 Winter Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013_14.a83d1976bb20db8b4a64e7acad93aac87127ddd5.png"
+      },
+      {
+        "id": "crate-4009",
+        "name": "Winter Offensive Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_1.b176b8ca60249d0a2e7c6d72ec7d2d1a9632bd06.png"
+      },
+      {
+        "id": "crate-4010",
+        "name": "CS:GO Weapon Case 3",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_3.b49dc22a06991946e849c7b364b7d5876534ef61.png"
+      },
+      {
+        "id": "crate-4011",
+        "name": "Operation Phoenix Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_2.49174abddcccb6519b83d27d0cff476e1c44cc57.png"
+      },
+      {
+        "id": "crate-4019",
+        "name": "eSports 2014 Summer Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2014_summer.e579e3f7ca004fd9b51aa0f597590c936bb9f67c.png"
+      },
+      {
+        "id": "crate-4029",
+        "name": "Operation Vanguard Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_5.49a38d2d3afff918ae3b5c5bc2ba2f99b02888f3.png"
+      },
+      {
+        "id": "crate-4186",
+        "name": "Revolver Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_10.a7a2e0b4f6ee7a99b25c531b2d3bdef5147200f7.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_am_zebra_light.png"
+  },
+  {
+    "id": "skin-33227040",
+    "name": "★ Karambit | Safari Mesh",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_mesh_tan",
+      "name": "Safari Mesh"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "72",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4001",
+        "name": "CS:GO Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_1.23c783d005b446a1004c97057cfb5ac2d8dae186.png"
+      },
+      {
+        "id": "crate-4002",
+        "name": "eSports 2013 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013.c4fd3c71742688383914a7ef7127652764f4567c.png"
+      },
+      {
+        "id": "crate-4003",
+        "name": "Operation Bravo Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_operation_ii.5e5104a6291741c5693a1e78bd6ecc9560b51f0a.png"
+      },
+      {
+        "id": "crate-4004",
+        "name": "CS:GO Weapon Case 2",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_2.912031176f2320d2d39f449ab3e27c41f5ec7faa.png"
+      },
+      {
+        "id": "crate-4005",
+        "name": "eSports 2013 Winter Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013_14.a83d1976bb20db8b4a64e7acad93aac87127ddd5.png"
+      },
+      {
+        "id": "crate-4009",
+        "name": "Winter Offensive Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_1.b176b8ca60249d0a2e7c6d72ec7d2d1a9632bd06.png"
+      },
+      {
+        "id": "crate-4010",
+        "name": "CS:GO Weapon Case 3",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_3.b49dc22a06991946e849c7b364b7d5876534ef61.png"
+      },
+      {
+        "id": "crate-4011",
+        "name": "Operation Phoenix Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_2.49174abddcccb6519b83d27d0cff476e1c44cc57.png"
+      },
+      {
+        "id": "crate-4019",
+        "name": "eSports 2014 Summer Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2014_summer.e579e3f7ca004fd9b51aa0f597590c936bb9f67c.png"
+      },
+      {
+        "id": "crate-4029",
+        "name": "Operation Vanguard Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_5.49a38d2d3afff918ae3b5c5bc2ba2f99b02888f3.png"
+      },
+      {
+        "id": "crate-4186",
+        "name": "Revolver Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_10.a7a2e0b4f6ee7a99b25c531b2d3bdef5147200f7.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_sp_mesh_tan_light.png"
+  },
+  {
+    "id": "skin-33227060",
+    "name": "★ Karambit | Boreal Forest",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_forest_boreal",
+      "name": "Boreal Forest"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "77",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4001",
+        "name": "CS:GO Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_1.23c783d005b446a1004c97057cfb5ac2d8dae186.png"
+      },
+      {
+        "id": "crate-4002",
+        "name": "eSports 2013 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013.c4fd3c71742688383914a7ef7127652764f4567c.png"
+      },
+      {
+        "id": "crate-4003",
+        "name": "Operation Bravo Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_operation_ii.5e5104a6291741c5693a1e78bd6ecc9560b51f0a.png"
+      },
+      {
+        "id": "crate-4004",
+        "name": "CS:GO Weapon Case 2",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_2.912031176f2320d2d39f449ab3e27c41f5ec7faa.png"
+      },
+      {
+        "id": "crate-4005",
+        "name": "eSports 2013 Winter Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013_14.a83d1976bb20db8b4a64e7acad93aac87127ddd5.png"
+      },
+      {
+        "id": "crate-4009",
+        "name": "Winter Offensive Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_1.b176b8ca60249d0a2e7c6d72ec7d2d1a9632bd06.png"
+      },
+      {
+        "id": "crate-4010",
+        "name": "CS:GO Weapon Case 3",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_3.b49dc22a06991946e849c7b364b7d5876534ef61.png"
+      },
+      {
+        "id": "crate-4011",
+        "name": "Operation Phoenix Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_2.49174abddcccb6519b83d27d0cff476e1c44cc57.png"
+      },
+      {
+        "id": "crate-4019",
+        "name": "eSports 2014 Summer Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2014_summer.e579e3f7ca004fd9b51aa0f597590c936bb9f67c.png"
+      },
+      {
+        "id": "crate-4029",
+        "name": "Operation Vanguard Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_5.49a38d2d3afff918ae3b5c5bc2ba2f99b02888f3.png"
+      },
+      {
+        "id": "crate-4186",
+        "name": "Revolver Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_10.a7a2e0b4f6ee7a99b25c531b2d3bdef5147200f7.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_hy_forest_boreal_light.png"
+  },
+  {
+    "id": "skin-33227144",
+    "name": "★ Karambit | Ultraviolet",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "so_purple",
+      "name": "Ultraviolet"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "98",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_6.4a84ff42a0e0149973c8580dd23f8ba6e7c68142.png"
+      },
+      {
+        "id": "crate-4089",
+        "name": "Chroma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_7.57286f710260d1a8eb4e93c4795ae7ca980ea981.png"
+      },
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_12.7555fc0b45c4d1e0ff1c117af393463f29f20f66.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_so_purple_light.png"
+  },
+  {
+    "id": "skin-33227324",
+    "name": "★ Karambit | Urban Masked",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_tape_urban",
+      "name": "Urban Masked"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "143",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4001",
+        "name": "CS:GO Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_1.23c783d005b446a1004c97057cfb5ac2d8dae186.png"
+      },
+      {
+        "id": "crate-4002",
+        "name": "eSports 2013 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013.c4fd3c71742688383914a7ef7127652764f4567c.png"
+      },
+      {
+        "id": "crate-4003",
+        "name": "Operation Bravo Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_operation_ii.5e5104a6291741c5693a1e78bd6ecc9560b51f0a.png"
+      },
+      {
+        "id": "crate-4004",
+        "name": "CS:GO Weapon Case 2",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_2.912031176f2320d2d39f449ab3e27c41f5ec7faa.png"
+      },
+      {
+        "id": "crate-4005",
+        "name": "eSports 2013 Winter Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013_14.a83d1976bb20db8b4a64e7acad93aac87127ddd5.png"
+      },
+      {
+        "id": "crate-4009",
+        "name": "Winter Offensive Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_1.b176b8ca60249d0a2e7c6d72ec7d2d1a9632bd06.png"
+      },
+      {
+        "id": "crate-4010",
+        "name": "CS:GO Weapon Case 3",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_3.b49dc22a06991946e849c7b364b7d5876534ef61.png"
+      },
+      {
+        "id": "crate-4011",
+        "name": "Operation Phoenix Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_2.49174abddcccb6519b83d27d0cff476e1c44cc57.png"
+      },
+      {
+        "id": "crate-4019",
+        "name": "eSports 2014 Summer Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2014_summer.e579e3f7ca004fd9b51aa0f597590c936bb9f67c.png"
+      },
+      {
+        "id": "crate-4029",
+        "name": "Operation Vanguard Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_5.49a38d2d3afff918ae3b5c5bc2ba2f99b02888f3.png"
+      },
+      {
+        "id": "crate-4186",
+        "name": "Revolver Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_10.a7a2e0b4f6ee7a99b25c531b2d3bdef5147200f7.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_sp_tape_urban_light.png"
+  },
+  {
+    "id": "skin-33227452",
+    "name": "★ Karambit | Scorched",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_dapple",
+      "name": "Scorched"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "175",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4001",
+        "name": "CS:GO Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_1.23c783d005b446a1004c97057cfb5ac2d8dae186.png"
+      },
+      {
+        "id": "crate-4002",
+        "name": "eSports 2013 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013.c4fd3c71742688383914a7ef7127652764f4567c.png"
+      },
+      {
+        "id": "crate-4003",
+        "name": "Operation Bravo Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_operation_ii.5e5104a6291741c5693a1e78bd6ecc9560b51f0a.png"
+      },
+      {
+        "id": "crate-4004",
+        "name": "CS:GO Weapon Case 2",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_2.912031176f2320d2d39f449ab3e27c41f5ec7faa.png"
+      },
+      {
+        "id": "crate-4005",
+        "name": "eSports 2013 Winter Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013_14.a83d1976bb20db8b4a64e7acad93aac87127ddd5.png"
+      },
+      {
+        "id": "crate-4009",
+        "name": "Winter Offensive Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_1.b176b8ca60249d0a2e7c6d72ec7d2d1a9632bd06.png"
+      },
+      {
+        "id": "crate-4010",
+        "name": "CS:GO Weapon Case 3",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_3.b49dc22a06991946e849c7b364b7d5876534ef61.png"
+      },
+      {
+        "id": "crate-4011",
+        "name": "Operation Phoenix Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_2.49174abddcccb6519b83d27d0cff476e1c44cc57.png"
+      },
+      {
+        "id": "crate-4019",
+        "name": "eSports 2014 Summer Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2014_summer.e579e3f7ca004fd9b51aa0f597590c936bb9f67c.png"
+      },
+      {
+        "id": "crate-4029",
+        "name": "Operation Vanguard Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_5.49a38d2d3afff918ae3b5c5bc2ba2f99b02888f3.png"
+      },
+      {
+        "id": "crate-4186",
+        "name": "Revolver Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_10.a7a2e0b4f6ee7a99b25c531b2d3bdef5147200f7.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_sp_dapple_light.png"
+  },
+  {
+    "id": "skin-33228388",
+    "name": "★ Karambit | Tiger Tooth",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "an_tiger_orange",
+      "name": "Tiger Tooth"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "409",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_6.4a84ff42a0e0149973c8580dd23f8ba6e7c68142.png"
+      },
+      {
+        "id": "crate-4089",
+        "name": "Chroma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_7.57286f710260d1a8eb4e93c4795ae7ca980ea981.png"
+      },
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_12.7555fc0b45c4d1e0ff1c117af393463f29f20f66.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_an_tiger_orange_light.png"
+  },
+  {
+    "id": "skin-33228392",
+    "name": "★ Karambit | Damascus Steel",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "aq_damascus",
+      "name": "Damascus Steel"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "410",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_6.4a84ff42a0e0149973c8580dd23f8ba6e7c68142.png"
+      },
+      {
+        "id": "crate-4089",
+        "name": "Chroma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_7.57286f710260d1a8eb4e93c4795ae7ca980ea981.png"
+      },
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_12.7555fc0b45c4d1e0ff1c117af393463f29f20f66.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_aq_damascus_light.png"
+  },
+  {
+    "id": "skin-33228404",
+    "name": "★ Karambit | Marble Fade",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_marble_fade",
+      "name": "Marble Fade"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "413",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_6.4a84ff42a0e0149973c8580dd23f8ba6e7c68142.png"
+      },
+      {
+        "id": "crate-4089",
+        "name": "Chroma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_7.57286f710260d1a8eb4e93c4795ae7ca980ea981.png"
+      },
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_12.7555fc0b45c4d1e0ff1c117af393463f29f20f66.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_am_marble_fade_light.png"
+  },
+  {
+    "id": "skin-33228408",
+    "name": "★ Karambit | Rust Coat",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "aq_steel_knife",
+      "name": "Rust Coat"
+    },
+    "min_float": 0.4,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "414",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_6.4a84ff42a0e0149973c8580dd23f8ba6e7c68142.png"
+      },
+      {
+        "id": "crate-4089",
+        "name": "Chroma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_7.57286f710260d1a8eb4e93c4795ae7ca980ea981.png"
+      },
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_12.7555fc0b45c4d1e0ff1c117af393463f29f20f66.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_aq_steel_knife_light.png"
+  },
+  {
+    "id": "skin-33228412",
+    "name": "★ Karambit | Doppler",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_ruby_marbleized",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "415",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_6.4a84ff42a0e0149973c8580dd23f8ba6e7c68142.png"
+      },
+      {
+        "id": "crate-4089",
+        "name": "Chroma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_7.57286f710260d1a8eb4e93c4795ae7ca980ea981.png"
+      },
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_12.7555fc0b45c4d1e0ff1c117af393463f29f20f66.png"
+      }
+    ],
+    "phase": "Ruby",
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_am_ruby_marbleized_light.png"
+  },
+  {
+    "id": "skin-33228416",
+    "name": "★ Karambit | Doppler",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_sapphire_marbleized",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "416",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_6.4a84ff42a0e0149973c8580dd23f8ba6e7c68142.png"
+      },
+      {
+        "id": "crate-4089",
+        "name": "Chroma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_7.57286f710260d1a8eb4e93c4795ae7ca980ea981.png"
+      },
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_12.7555fc0b45c4d1e0ff1c117af393463f29f20f66.png"
+      }
+    ],
+    "phase": "Sapphire",
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_am_sapphire_marbleized_light.png"
+  },
+  {
+    "id": "skin-33228420",
+    "name": "★ Karambit | Doppler",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_blackpearl_marbleized",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "417",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_6.4a84ff42a0e0149973c8580dd23f8ba6e7c68142.png"
+      },
+      {
+        "id": "crate-4089",
+        "name": "Chroma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_7.57286f710260d1a8eb4e93c4795ae7ca980ea981.png"
+      },
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_12.7555fc0b45c4d1e0ff1c117af393463f29f20f66.png"
+      }
+    ],
+    "phase": "Black Pearl",
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_am_blackpearl_marbleized_light.png"
+  },
+  {
+    "id": "skin-33228424",
+    "name": "★ Karambit | Doppler",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_doppler_phase1",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "418",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_6.4a84ff42a0e0149973c8580dd23f8ba6e7c68142.png"
+      },
+      {
+        "id": "crate-4089",
+        "name": "Chroma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_7.57286f710260d1a8eb4e93c4795ae7ca980ea981.png"
+      },
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_12.7555fc0b45c4d1e0ff1c117af393463f29f20f66.png"
+      }
+    ],
+    "phase": "Phase 1",
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_am_doppler_phase1_light.png"
+  },
+  {
+    "id": "skin-33228428",
+    "name": "★ Karambit | Doppler",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_doppler_phase2",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "419",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_6.4a84ff42a0e0149973c8580dd23f8ba6e7c68142.png"
+      },
+      {
+        "id": "crate-4089",
+        "name": "Chroma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_7.57286f710260d1a8eb4e93c4795ae7ca980ea981.png"
+      },
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_12.7555fc0b45c4d1e0ff1c117af393463f29f20f66.png"
+      }
+    ],
+    "phase": "Phase 2",
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_am_doppler_phase2_light.png"
+  },
+  {
+    "id": "skin-33228432",
+    "name": "★ Karambit | Doppler",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_doppler_phase3",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "420",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_6.4a84ff42a0e0149973c8580dd23f8ba6e7c68142.png"
+      },
+      {
+        "id": "crate-4089",
+        "name": "Chroma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_7.57286f710260d1a8eb4e93c4795ae7ca980ea981.png"
+      },
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_12.7555fc0b45c4d1e0ff1c117af393463f29f20f66.png"
+      }
+    ],
+    "phase": "Phase 3",
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_am_doppler_phase3_light.png"
+  },
+  {
+    "id": "skin-33228436",
+    "name": "★ Karambit | Doppler",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_doppler_phase4",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "421",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_6.4a84ff42a0e0149973c8580dd23f8ba6e7c68142.png"
+      },
+      {
+        "id": "crate-4089",
+        "name": "Chroma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_7.57286f710260d1a8eb4e93c4795ae7ca980ea981.png"
+      },
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_12.7555fc0b45c4d1e0ff1c117af393463f29f20f66.png"
+      }
+    ],
+    "phase": "Phase 4",
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_am_doppler_phase4_light.png"
+  },
+  {
+    "id": "skin-33228996",
+    "name": "★ Karambit | Lore",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "cu_karam_lore",
+      "name": "Lore"
+    },
+    "min_float": 0,
+    "max_float": 0.65,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "561",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4236",
+        "name": "Gamma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_13.9a7d2f757ddbdc915aa005def74ac186a457346a.png"
+      },
+      {
+        "id": "crate-4281",
+        "name": "Gamma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_gamma_2.ab916b78e7093039642cc7538466bf87cf314363.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_cu_karam_lore_light.png"
+  },
+  {
+    "id": "skin-33229016",
+    "name": "★ Karambit | Black Laminate",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "cu_karam_stonewash",
+      "name": "Black Laminate"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "566",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4236",
+        "name": "Gamma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_13.9a7d2f757ddbdc915aa005def74ac186a457346a.png"
+      },
+      {
+        "id": "crate-4281",
+        "name": "Gamma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_gamma_2.ab916b78e7093039642cc7538466bf87cf314363.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_cu_karam_stonewash_light.png"
+  },
+  {
+    "id": "skin-33229024",
+    "name": "★ Karambit | Gamma Doppler",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_emerald_marbleized",
+      "name": "Gamma Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "568",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4236",
+        "name": "Gamma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_13.9a7d2f757ddbdc915aa005def74ac186a457346a.png"
+      },
+      {
+        "id": "crate-4281",
+        "name": "Gamma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_gamma_2.ab916b78e7093039642cc7538466bf87cf314363.png"
+      }
+    ],
+    "phase": "Emerald",
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_am_emerald_marbleized_light.png"
+  },
+  {
+    "id": "skin-33229028",
+    "name": "★ Karambit | Gamma Doppler",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_gamma_doppler_phase1",
+      "name": "Gamma Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "569",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4236",
+        "name": "Gamma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_13.9a7d2f757ddbdc915aa005def74ac186a457346a.png"
+      },
+      {
+        "id": "crate-4281",
+        "name": "Gamma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_gamma_2.ab916b78e7093039642cc7538466bf87cf314363.png"
+      }
+    ],
+    "phase": "Phase 1",
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_am_gamma_doppler_phase1_light.png"
+  },
+  {
+    "id": "skin-33229032",
+    "name": "★ Karambit | Gamma Doppler",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_gamma_doppler_phase2",
+      "name": "Gamma Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "570",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4236",
+        "name": "Gamma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_13.9a7d2f757ddbdc915aa005def74ac186a457346a.png"
+      },
+      {
+        "id": "crate-4281",
+        "name": "Gamma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_gamma_2.ab916b78e7093039642cc7538466bf87cf314363.png"
+      }
+    ],
+    "phase": "Phase 2",
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_am_gamma_doppler_phase2_light.png"
+  },
+  {
+    "id": "skin-33229036",
+    "name": "★ Karambit | Gamma Doppler",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_gamma_doppler_phase3",
+      "name": "Gamma Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "571",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4236",
+        "name": "Gamma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_13.9a7d2f757ddbdc915aa005def74ac186a457346a.png"
+      },
+      {
+        "id": "crate-4281",
+        "name": "Gamma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_gamma_2.ab916b78e7093039642cc7538466bf87cf314363.png"
+      }
+    ],
+    "phase": "Phase 3",
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_am_gamma_doppler_phase3_light.png"
+  },
+  {
+    "id": "skin-33229040",
+    "name": "★ Karambit | Gamma Doppler",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_gamma_doppler_phase4",
+      "name": "Gamma Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "572",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4236",
+        "name": "Gamma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_13.9a7d2f757ddbdc915aa005def74ac186a457346a.png"
+      },
+      {
+        "id": "crate-4281",
+        "name": "Gamma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_gamma_2.ab916b78e7093039642cc7538466bf87cf314363.png"
+      }
+    ],
+    "phase": "Phase 4",
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_am_gamma_doppler_phase4_light.png"
+  },
+  {
+    "id": "skin-33229056",
+    "name": "★ Karambit | Autotronic",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "gs_karam_autotronic",
+      "name": "Autotronic"
+    },
+    "min_float": 0,
+    "max_float": 0.85,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "576",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4236",
+        "name": "Gamma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_13.9a7d2f757ddbdc915aa005def74ac186a457346a.png"
+      },
+      {
+        "id": "crate-4281",
+        "name": "Gamma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_gamma_2.ab916b78e7093039642cc7538466bf87cf314363.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_gs_karam_autotronic_light.png"
+  },
+  {
+    "id": "skin-33229064",
+    "name": "★ Karambit | Bright Water",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_ocean_knife",
+      "name": "Bright Water"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "578",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4236",
+        "name": "Gamma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_13.9a7d2f757ddbdc915aa005def74ac186a457346a.png"
+      },
+      {
+        "id": "crate-4281",
+        "name": "Gamma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_gamma_2.ab916b78e7093039642cc7538466bf87cf314363.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_hy_ocean_knife_light.png"
+  },
+  {
+    "id": "skin-33229080",
+    "name": "★ Karambit | Freehand",
+    "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger.",
+    "weapon": {
+      "id": "weapon_knife_karambit",
+      "name": "Karambit"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_marked_up_fine",
+      "name": "Freehand"
+    },
+    "min_float": 0,
+    "max_float": 0.48,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "582",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4236",
+        "name": "Gamma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_13.9a7d2f757ddbdc915aa005def74ac186a457346a.png"
+      },
+      {
+        "id": "crate-4281",
+        "name": "Gamma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_gamma_2.ab916b78e7093039642cc7538466bf87cf314363.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_karambit_am_marked_up_fine_light.png"
+  }
+]

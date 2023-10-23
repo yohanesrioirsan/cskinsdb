@@ -1,0 +1,37 @@
+[
+  {
+    "id": "skin-vanilla-weapon_knife_stiletto",
+    "name": "★ Stiletto Knife",
+    "description": "Historically a focal point of contention and even regulation, this Italian-style stiletto switchblade knife features a spring-loaded blade that can be deployed almost instantly with the push of a release catch.",
+    "weapon": {
+      "id": "sfui_wpnhud_knife_stiletto",
+      "name": "Stiletto Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {},
+    "min_float": {},
+    "max_float": {},
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "paint_index": {},
+    "crates": [
+      {
+        "id": "crate-4482",
+        "name": "Horizon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_20.efee8198ed2e0b6ab4b5bb1e99be04a1308b43fe.png"
+      },
+      {
+        "id": "crate-4548",
+        "name": "Danger Zone Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_21.0c6cec0c247809e291dea2fe514d46ea21607201.png"
+      }
+    ],
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_stiletto.1aefe4ca0e433fc8c3f924ba362283e0666b5f8d.png"
+  }
+]

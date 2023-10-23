@@ -1,0 +1,2322 @@
+[
+  {
+    "id": "skin-2228356",
+    "name": "MP9 | Hot Rod",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "an_red",
+      "name": "Hot Rod"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "33",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-mirage",
+        "name": "The Mirage Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_mirage.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4024",
+        "name": "ESL One Cologne 2014 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_mirage.9b14fdeb121fc012013496c6e78ff1f7212135bb.png"
+      },
+      {
+        "id": "crate-4033",
+        "name": "DreamHack 2014 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_dhw14_promo_de_mirage.f7fd41fa75f398759589c4a42981c67693738f30.png"
+      },
+      {
+        "id": "crate-4081",
+        "name": "ESL One Katowice 2015 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslkatowice2015_promo_de_mirage.3c168637f2a150e95b0bc786dc364128a627d5d1.png"
+      },
+      {
+        "id": "crate-4132",
+        "name": "ESL One Cologne 2015 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslcologne2015_promo_de_mirage.cd633c421896f165a2575204d9d5f908499a918a.png"
+      },
+      {
+        "id": "crate-4177",
+        "name": "DreamHack Cluj-Napoca 2015 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cluj2015_promo_de_mirage.4bd48ff1973049af65f5439ca4d08cd91fb2b0c9.png"
+      },
+      {
+        "id": "crate-4226",
+        "name": "MLG Columbus 2016 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_columbus2016_promo_de_mirage.bbb2b84e6d14d9d7634475dad482ada35977eaa3.png"
+      },
+      {
+        "id": "crate-4275",
+        "name": "Cologne 2016 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cologne2016_promo_de_mirage.22a4700e330b3fbc7161c1b98c13aee8edeb2ba3.png"
+      },
+      {
+        "id": "crate-4345",
+        "name": "Atlanta 2017 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_atlanta2017_promo_de_mirage.e4743d9aff1ac76c8bd57c24706eb9bb7684e5ec.png"
+      },
+      {
+        "id": "crate-4397",
+        "name": "Krakow 2017 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_krakow2017_promo_de_mirage.ce90364134b366b08ec65f0048ba32f354a89f07.png"
+      },
+      {
+        "id": "crate-4464",
+        "name": "Boston 2018 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_boston2018_promo_de_mirage.35c3e485b0f955511dac55d6f4a817a57ea3dbe5.png"
+      },
+      {
+        "id": "crate-4541",
+        "name": "London 2018 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_mirage.009d901f9a204073dddea7113a5577ef5a360fc7.png"
+      },
+      {
+        "id": "crate-4591",
+        "name": "Katowice 2019 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_mirage.a8b296d35c5d363b65c6ee39fe9bb3f8febea2d3.png"
+      },
+      {
+        "id": "crate-4661",
+        "name": "Berlin 2019 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_mirage.10c013a74e2c34c2c51cd7183897b1f3f9075b21.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_an_red_light.png"
+  },
+  {
+    "id": "skin-2228380",
+    "name": "MP9 | Bulldozer",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "so_yellow",
+      "name": "Bulldozer"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "39",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-assault",
+        "name": "The Assault Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_assault.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_so_yellow_light.png"
+  },
+  {
+    "id": "skin-2228468",
+    "name": "MP9 | Hypnotic",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aa_vertigo",
+      "name": "Hypnotic"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "61",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-weapons-ii",
+        "name": "The Arms Deal 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_weapons_ii.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4004",
+        "name": "CS:GO Weapon Case 2",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_2.912031176f2320d2d39f449ab3e27c41f5ec7faa.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_aa_vertigo_light.png"
+  },
+  {
+    "id": "skin-2228624",
+    "name": "MP9 | Storm",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "so_stormfront",
+      "name": "Storm"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "100",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-overpass",
+        "name": "The Overpass Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_overpass.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4028",
+        "name": "ESL One Cologne 2014 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_overpass.8e84964930bb3bcd01328e9ec9d18246b701d815.png"
+      },
+      {
+        "id": "crate-4037",
+        "name": "DreamHack 2014 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_dhw14_promo_de_overpass.e20120d2211c054e3341ec973e420b2536acdc9e.png"
+      },
+      {
+        "id": "crate-4085",
+        "name": "ESL One Katowice 2015 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslkatowice2015_promo_de_overpass.f518bda0e34a1a12346009a5d0a1c0acf8a6efd0.png"
+      },
+      {
+        "id": "crate-4135",
+        "name": "ESL One Cologne 2015 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslcologne2015_promo_de_overpass.cadbf695630fb527e72f6e2df689aa186fc3dba0.png"
+      },
+      {
+        "id": "crate-4180",
+        "name": "DreamHack Cluj-Napoca 2015 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cluj2015_promo_de_overpass.c1e292eef9daecb7e3a39cd32793909dade27c98.png"
+      },
+      {
+        "id": "crate-4229",
+        "name": "MLG Columbus 2016 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_columbus2016_promo_de_overpass.6ca6faaa7e9bd88599ac9fd566624b82a49253dc.png"
+      },
+      {
+        "id": "crate-4277",
+        "name": "Cologne 2016 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cologne2016_promo_de_overpass.ae687c6e4b521a9617e982915266157aee4c48bf.png"
+      },
+      {
+        "id": "crate-4347",
+        "name": "Atlanta 2017 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_atlanta2017_promo_de_overpass.59427cdda056ed154d4c29df6417a852f56a7a4b.png"
+      },
+      {
+        "id": "crate-4399",
+        "name": "Krakow 2017 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_krakow2017_promo_de_overpass.e4a6cab0326599c25b29135013c3b22aabe2e8b0.png"
+      },
+      {
+        "id": "crate-4466",
+        "name": "Boston 2018 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_boston2018_promo_de_overpass.0052a59731a791212ab021d5f6fbf839dbe70b3b.png"
+      },
+      {
+        "id": "crate-4543",
+        "name": "London 2018 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_overpass.951ad03c7109ed78658b951deb76bbc7808042a0.png"
+      },
+      {
+        "id": "crate-4593",
+        "name": "Katowice 2019 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_overpass.cd9bd1317243c478c3a072621e83988b37ab1df1.png"
+      },
+      {
+        "id": "crate-4663",
+        "name": "Berlin 2019 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_overpass.002b0661e317dbac2a511b900ac0cf53fb9e2801.png"
+      },
+      {
+        "id": "crate-4812",
+        "name": "Stockholm 2021 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_overpass.a1416d178c57d616ece474e36881ac3952a1d865.png"
+      },
+      {
+        "id": "crate-4838",
+        "name": "Antwerp 2022 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_overpass.b49a0cf31d712111df1f242aba93847c9957625d.png"
+      },
+      {
+        "id": "crate-4863",
+        "name": "Rio 2022 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_overpass.de315f096687f04c68bd32fdd31ae255d3859ca6.png"
+      },
+      {
+        "id": "crate-4896",
+        "name": "Paris 2023 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_overpass.caf1a3fa2e5f02388268dbdc6b7ae9957ff3be0e.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_so_stormfront_light.png"
+  },
+  {
+    "id": "skin-2228788",
+    "name": "MP9 | Orange Peel",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_tape_orange",
+      "name": "Orange Peel"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "141",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-safehouse",
+        "name": "The Safehouse Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_safehouse.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_sp_tape_orange_light.png"
+  },
+  {
+    "id": "skin-2228816",
+    "name": "MP9 | Sand Dashed",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_tape_short_sand",
+      "name": "Sand Dashed"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "148",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-dust-2",
+        "name": "The Dust 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4022",
+        "name": "ESL One Cologne 2014 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_dust2.df8e342f4a1dcae65825ee67238c8c7319d35316.png"
+      },
+      {
+        "id": "crate-4031",
+        "name": "DreamHack 2014 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_dhw14_promo_de_dust2.1c381563a79ad42c2e10da7313f6b97242e97d2c.png"
+      },
+      {
+        "id": "crate-4079",
+        "name": "ESL One Katowice 2015 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslkatowice2015_promo_de_dust2.fdd533379af9f88b554611acfb06c49717109b3b.png"
+      },
+      {
+        "id": "crate-4131",
+        "name": "ESL One Cologne 2015 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslcologne2015_promo_de_dust2.ecdaa935c5df5e374878003893bb4ffec789aed3.png"
+      },
+      {
+        "id": "crate-4176",
+        "name": "DreamHack Cluj-Napoca 2015 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cluj2015_promo_de_dust2.d21a63669620383248e5ee41eae07233f60ba381.png"
+      },
+      {
+        "id": "crate-4225",
+        "name": "MLG Columbus 2016 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_columbus2016_promo_de_dust2.cf28c5c9360806999509a6adce1c02bf30421bf8.png"
+      },
+      {
+        "id": "crate-4274",
+        "name": "Cologne 2016 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cologne2016_promo_de_dust2.a2a6c0bfb1bedb62cab626eb18f3cabad99bd55c.png"
+      },
+      {
+        "id": "crate-4344",
+        "name": "Atlanta 2017 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_atlanta2017_promo_de_dust2.81f02d867347bef8e3b3148b212fa449f1ba135c.png"
+      },
+      {
+        "id": "crate-4542",
+        "name": "London 2018 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_dust2.1da791ddf20df4175cdaaedc1c45c174ac0fb0b1.png"
+      },
+      {
+        "id": "crate-4592",
+        "name": "Katowice 2019 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_dust2.612588f56092dad67e7ec82305d5e77bd3b11712.png"
+      },
+      {
+        "id": "crate-4662",
+        "name": "Berlin 2019 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_dust2.453710acd555cc42301fcfc948a5bd53f08b2ce5.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_sp_tape_short_sand_light.png"
+  },
+  {
+    "id": "skin-2229020",
+    "name": "MP9 | Dry Season",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_tape_dots_bravo",
+      "name": "Dry Season"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "199",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-bravo-ii",
+        "name": "The Alpha Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_bravo_ii.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_sp_tape_dots_bravo_light.png"
+  },
+  {
+    "id": "skin-2229272",
+    "name": "MP9 | Rose Iron",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_thorny_rose_mp9",
+      "name": "Rose Iron"
+    },
+    "min_float": 0,
+    "max_float": 0.3,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "262",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-1",
+        "name": "The Winter Offensive Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_1.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4009",
+        "name": "Winter Offensive Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_1.b176b8ca60249d0a2e7c6d72ec7d2d1a9632bd06.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_am_thorny_rose_mp9_light.png"
+  },
+  {
+    "id": "skin-2229416",
+    "name": "MP9 | Army Sheen",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_army_shine",
+      "name": "Army Sheen"
+    },
+    "min_float": 0,
+    "max_float": 0.3,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "298",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-op10-ct",
+        "name": "The Control Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_op10_ct.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_am_army_shine_light.png"
+  },
+  {
+    "id": "skin-2229540",
+    "name": "MP9 | Dark Age",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_metal_inlay",
+      "name": "Dark Age"
+    },
+    "min_float": 0,
+    "max_float": 0.22,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "329",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-cobblestone",
+        "name": "The Cobblestone Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_cobblestone.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4027",
+        "name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_cbble.5db3a4b745facff2db79a3ee6819f007bee736c0.png"
+      },
+      {
+        "id": "crate-4036",
+        "name": "DreamHack 2014 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_dhw14_promo_de_cbble.37d5c8d671c3e181ea9844cd8147e454ae28e2f9.png"
+      },
+      {
+        "id": "crate-4084",
+        "name": "ESL One Katowice 2015 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslkatowice2015_promo_de_cbble.8650a00e848d547b173076d5cde6882ec4441c31.png"
+      },
+      {
+        "id": "crate-4134",
+        "name": "ESL One Cologne 2015 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslcologne2015_promo_de_cbble.62138434ebaeb6ebdc4ddf09647bf9d173929048.png"
+      },
+      {
+        "id": "crate-4179",
+        "name": "DreamHack Cluj-Napoca 2015 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cluj2015_promo_de_cbble.1edc97df2f655873fcaccdee15afce42581cddbc.png"
+      },
+      {
+        "id": "crate-4228",
+        "name": "MLG Columbus 2016 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_columbus2016_promo_de_cbble.3cf5fe89e7edaca0acf314b67cdd18c29ac785d5.png"
+      },
+      {
+        "id": "crate-4276",
+        "name": "Cologne 2016 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cologne2016_promo_de_cbble.ebac6436d59545e869f193eabb5b704f62d27f30.png"
+      },
+      {
+        "id": "crate-4346",
+        "name": "Atlanta 2017 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_atlanta2017_promo_de_cbble.01be0f6fe6487065bc77a8f032920cc192d3348d.png"
+      },
+      {
+        "id": "crate-4398",
+        "name": "Krakow 2017 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_krakow2017_promo_de_cbble.6bc507231c3886467a928b363a029483daf6066e.png"
+      },
+      {
+        "id": "crate-4465",
+        "name": "Boston 2018 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_boston2018_promo_de_cbble.f4720b59277ab16da508f76845f85f5dfe0d9df6.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_am_metal_inlay_light.png"
+  },
+  {
+    "id": "skin-2229688",
+    "name": "MP9 | Green Plaid",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "hy_plaid2",
+      "name": "Green Plaid"
+    },
+    "min_float": 0,
+    "max_float": 0.58,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "366",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-baggage",
+        "name": "The Baggage Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_baggage.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_hy_plaid2_light.png"
+  },
+  {
+    "id": "skin-2229696",
+    "name": "MP9 | Setting Sun",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "hy_nuclear_pattern2_mp9",
+      "name": "Setting Sun"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "368",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-cache",
+        "name": "The Cache Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_cache.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4026",
+        "name": "ESL One Cologne 2014 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_cache.374ca6f8841a65c1890fc6f24f2a084c523ea9f8.png"
+      },
+      {
+        "id": "crate-4035",
+        "name": "DreamHack 2014 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_dhw14_promo_de_cache.191893690c5fd8c410daf933071e9ffe22b655e4.png"
+      },
+      {
+        "id": "crate-4083",
+        "name": "ESL One Katowice 2015 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslkatowice2015_promo_de_cache.e3d4caa342c69142c0fb59c11b1bea091f5bc441.png"
+      },
+      {
+        "id": "crate-4136",
+        "name": "ESL One Cologne 2015 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslcologne2015_promo_de_cache.c9cea9d03c09a923524379c6706f3851ccc750df.png"
+      },
+      {
+        "id": "crate-4181",
+        "name": "DreamHack Cluj-Napoca 2015 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cluj2015_promo_de_cache.3bf78784a8d6b49ba2d1d95917b2edd167ef577a.png"
+      },
+      {
+        "id": "crate-4230",
+        "name": "MLG Columbus 2016 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_columbus2016_promo_de_cache.f0f2c5b00fca82486aa0dccf8b3c2200db618289.png"
+      },
+      {
+        "id": "crate-4278",
+        "name": "Cologne 2016 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cologne2016_promo_de_cache.6233f9fc52acf0956b23dc4b168f8d611d9ac8c7.png"
+      },
+      {
+        "id": "crate-4348",
+        "name": "Atlanta 2017 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_atlanta2017_promo_de_cache.6ec62b0923e3347faef891d0acff28ae37b1c1ae.png"
+      },
+      {
+        "id": "crate-4400",
+        "name": "Krakow 2017 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_krakow2017_promo_de_cache.d2e97ade896a42adbb7f16920cdeb9ce71281022.png"
+      },
+      {
+        "id": "crate-4467",
+        "name": "Boston 2018 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_boston2018_promo_de_cache.5b3feaa264381bb5eed8f06bf8a8df5ef6d59313.png"
+      },
+      {
+        "id": "crate-4544",
+        "name": "London 2018 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_cache.ecbdd69c85012fe6f09b83484572fcd430990571.png"
+      },
+      {
+        "id": "crate-4594",
+        "name": "Katowice 2019 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_cache.f450df7d0dd77551d2e8a4758737603919dc8582.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_hy_nuclear_pattern2_mp9_light.png"
+  },
+  {
+    "id": "skin-2229768",
+    "name": "MP9 | Dart",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp9_chevron",
+      "name": "Dart"
+    },
+    "min_float": 0,
+    "max_float": 0.46,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "386",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-5",
+        "name": "The Vanguard Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_5.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4029",
+        "name": "Operation Vanguard Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_5.49a38d2d3afff918ae3b5c5bc2ba2f99b02888f3.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_cu_mp9_chevron_light.png"
+  },
+  {
+    "id": "skin-2229836",
+    "name": "MP9 | Deadly Poison",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp9_deadly_poison",
+      "name": "Deadly Poison"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "403",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-6",
+        "name": "The Chroma Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_6.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_6.4a84ff42a0e0149973c8580dd23f8ba6e7c68142.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_cu_mp9_deadly_poison_light.png"
+  },
+  {
+    "id": "skin-2230016",
+    "name": "MP9 | Pandora's Box",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aa_pandora",
+      "name": "Pandora's Box"
+    },
+    "min_float": 0,
+    "max_float": 0.3,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "448",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-gods-and-monsters",
+        "name": "The Gods and Monsters Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_gods_and_monsters.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_aa_pandora_light.png"
+  },
+  {
+    "id": "skin-2230152",
+    "name": "MP9 | Ruby Poison Dart",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_mp9_nitrogen",
+      "name": "Ruby Poison Dart"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "482",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-8",
+        "name": "The Falchion Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_8.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4091",
+        "name": "Falchion Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_8.3cd07b46c7bcb7577453816c5d2f8afdbee98234.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_am_mp9_nitrogen_light.png"
+  },
+  {
+    "id": "skin-2230420",
+    "name": "MP9 | Bioleak",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_mp9_bioleak",
+      "name": "Bioleak"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "549",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-12",
+        "name": "The Chroma 3 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_12.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_12.7555fc0b45c4d1e0ff1c117af393463f29f20f66.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_am_mp9_bioleak_light.png"
+  },
+  {
+    "id": "skin-2230660",
+    "name": "MP9 | Airlock",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp9_narcis",
+      "name": "Airlock"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "609",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-gamma-2",
+        "name": "The Gamma 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_gamma_2.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4281",
+        "name": "Gamma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_gamma_2.ab916b78e7093039642cc7538466bf87cf314363.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_cu_mp9_narcis_light.png"
+  },
+  {
+    "id": "skin-2230744",
+    "name": "MP9 | Sand Scale",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aa_hide-mp9",
+      "name": "Sand Scale"
+    },
+    "min_float": 0,
+    "max_float": 0.45,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "630",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-15",
+        "name": "The Glove Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_15.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_15.7dfa18f8f7ce3bc4e55aac0c566fe068e741bddf.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_aa_hide-mp9_light.png"
+  },
+  {
+    "id": "skin-2230940",
+    "name": "MP9 | Goo",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp9_goo",
+      "name": "Goo"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "679",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-18",
+        "name": "The Spectrum 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_18.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4403",
+        "name": "Spectrum 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_18.4255d9e03d5dad034bbe868622733deeb81434c1.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_cu_mp9_goo_light.png"
+  },
+  {
+    "id": "skin-2231012",
+    "name": "MP9 | Black Sand",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp9_black_sand",
+      "name": "Black Sand"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "697",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-19",
+        "name": "The Clutch Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_19.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_19.982c3a44362ee65b192b359c12d3d3af9ecb56b2.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_cu_mp9_black_sand_light.png"
+  },
+  {
+    "id": "skin-2231084",
+    "name": "MP9 | Capillary",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp9_vein",
+      "name": "Capillary"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "715",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-20",
+        "name": "The Horizon Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_20.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4482",
+        "name": "Horizon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_20.efee8198ed2e0b6ab4b5bb1e99be04a1308b43fe.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_cu_mp9_vein_light.png"
+  },
+  {
+    "id": "skin-2231160",
+    "name": "MP9 | Wild Lily",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp9_island_floral",
+      "name": "Wild Lily"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "734",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-stmarc",
+        "name": "The St. Marc Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_stmarc.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_cu_mp9_island_floral_light.png"
+  },
+  {
+    "id": "skin-2231244",
+    "name": "MP9 | Slide",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "hy_splatter3",
+      "name": "Slide"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "755",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-inferno-2",
+        "name": "The 2018 Inferno Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_inferno_2.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4540",
+        "name": "London 2018 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_inferno.07dbf5526d87ab866da5af57682ffcdfd59362a5.png"
+      },
+      {
+        "id": "crate-4590",
+        "name": "Katowice 2019 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_inferno.d5b7d5c77ba7cf4e7f9296f8693e5cfae42f2644.png"
+      },
+      {
+        "id": "crate-4660",
+        "name": "Berlin 2019 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_inferno.00a259328607042322ca7cbc5fe16b2d4162f553.png"
+      },
+      {
+        "id": "crate-4809",
+        "name": "Stockholm 2021 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_inferno.db7770ae6dbb5369e8301eae1941fbaf342f9413.png"
+      },
+      {
+        "id": "crate-4835",
+        "name": "Antwerp 2022 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_inferno.bbafa6dc6366b53b52fe2e5505063c3d22a9d5e8.png"
+      },
+      {
+        "id": "crate-4860",
+        "name": "Rio 2022 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_inferno.8436644b919dfd7b507765755a2c6d947aa043bd.png"
+      },
+      {
+        "id": "crate-4893",
+        "name": "Paris 2023 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_inferno.6b9e8ab53a451035b0f38e60f64a531a64d83352.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_hy_splatter3_light.png"
+  },
+  {
+    "id": "skin-2231440",
+    "name": "MP9 | Modest Threat",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "gs_mp9_colony01",
+      "name": "Modest Threat"
+    },
+    "min_float": 0,
+    "max_float": 0.75,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "804",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-21",
+        "name": "The Danger Zone Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_21.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4548",
+        "name": "Danger Zone Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_21.0c6cec0c247809e291dea2fe514d46ea21607201.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_gs_mp9_colony01_light.png"
+  },
+  {
+    "id": "skin-2231504",
+    "name": "MP9 | Music Box",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_mirage_flowers_metalic",
+      "name": "Music Box"
+    },
+    "min_float": 0,
+    "max_float": 0.55,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "820",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-mirage-2021",
+        "name": "The 2021 Mirage Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_mirage_2021.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4810",
+        "name": "Stockholm 2021 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_mirage.bc6d1bdc42baa20b92469f4e88c5d19f1db2f3a4.png"
+      },
+      {
+        "id": "crate-4836",
+        "name": "Antwerp 2022 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_mirage.6fd89e7b1aa99b499085b3ee4d1bc9babe9f0149.png"
+      },
+      {
+        "id": "crate-4861",
+        "name": "Rio 2022 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_mirage.090f18086981df3dbebc2e851f7902f6b9238c3c.png"
+      },
+      {
+        "id": "crate-4894",
+        "name": "Paris 2023 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_mirage.0e826d4e643335cc00448f83a61f68ed1f877bfe.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_am_mirage_flowers_metalic_light.png"
+  },
+  {
+    "id": "skin-2231692",
+    "name": "MP9 | Stained Glass",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_stained_glass",
+      "name": "Stained Glass"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "867",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-canals",
+        "name": "The Canals Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_canals.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_am_stained_glass_light.png"
+  },
+  {
+    "id": "skin-2231864",
+    "name": "MP9 | Hydra",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp9_hydra",
+      "name": "Hydra"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "910",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-24",
+        "name": "The CS20 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_24.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4669",
+        "name": "CS20 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_24.2b3bab86cb5b63a196342af58c0e4c82986ab54d.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_cu_mp9_hydra_light.png"
+  },
+  {
+    "id": "skin-2231948",
+    "name": "MP9 | Old Roots",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_moro_carving_yellow",
+      "name": "Old Roots"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "931",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-dust-2-2021",
+        "name": "The 2021 Dust 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2_2021.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4811",
+        "name": "Stockholm 2021 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_dust2.f63b1e6c0b61cbb091decd12b651c44b90952428.png"
+      },
+      {
+        "id": "crate-4837",
+        "name": "Antwerp 2022 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_dust2.34c2ad7fef5af8760c1b821cc291b2ae2aeaa46a.png"
+      },
+      {
+        "id": "crate-4862",
+        "name": "Rio 2022 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_dust2.f534f7ac83a32ec4917ec1fa488c5407b056b749.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_sp_moro_carving_yellow_light.png"
+  },
+  {
+    "id": "skin-2232372",
+    "name": "MP9 | Food Chain",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp9_food_chain",
+      "name": "Food Chain"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1037",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-28",
+        "name": "The Snakebite Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_28.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_28.1f6e656d8fc297c9f2b65f2c05b8552d1cc63082.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_cu_mp9_food_chain_light.png"
+  },
+  {
+    "id": "skin-2232600",
+    "name": "MP9 | Mount Fuji",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "aa_mp9_fuji_pink",
+      "name": "Mount Fuji"
+    },
+    "min_float": 0,
+    "max_float": 0.55,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1094",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-29",
+        "name": "The Operation Riptide Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_29.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4790",
+        "name": "Operation Riptide Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_29.9b830067732b4de110c01fb24cd067a3061b43a8.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_aa_mp9_fuji_pink_light.png"
+  },
+  {
+    "id": "skin-2232760",
+    "name": "MP9 | Starlight Protector",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "gs_mp9_starlight",
+      "name": "Starlight Protector"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1134",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-30",
+        "name": "The Dreams & Nightmares Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_30.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4818",
+        "name": "Dreams & Nightmares Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_30.c471a3f74a254c80754f7deec19adaf0df266e23.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_gs_mp9_starlight_light.png"
+  },
+  {
+    "id": "skin-2233124",
+    "name": "MP9 | Featherweight",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
+    "weapon": {
+      "id": "weapon_mp9",
+      "name": "MP9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp9_superlight",
+      "name": "Featherweight"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1225",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-32",
+        "name": "The Revolution Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_32.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_32.2d4bcc3d6832d2b4d1d11a273a4ff4bf55dc63a1.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp9_cu_mp9_superlight_light.png"
+  }
+]

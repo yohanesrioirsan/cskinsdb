@@ -1,0 +1,1053 @@
+[
+  {
+    "id": "skin-1510340",
+    "name": "MP5-SD | Dirt Drop",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet.",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "sp_tape_short_rally",
+      "name": "Dirt Drop"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "753",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-inferno-2",
+        "name": "The 2018 Inferno Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_inferno_2.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4540",
+        "name": "London 2018 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_inferno.07dbf5526d87ab866da5af57682ffcdfd59362a5.png"
+      },
+      {
+        "id": "crate-4590",
+        "name": "Katowice 2019 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_inferno.d5b7d5c77ba7cf4e7f9296f8693e5cfae42f2644.png"
+      },
+      {
+        "id": "crate-4660",
+        "name": "Berlin 2019 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_inferno.00a259328607042322ca7cbc5fe16b2d4162f553.png"
+      },
+      {
+        "id": "crate-4809",
+        "name": "Stockholm 2021 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_inferno.db7770ae6dbb5369e8301eae1941fbaf342f9413.png"
+      },
+      {
+        "id": "crate-4835",
+        "name": "Antwerp 2022 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_inferno.bbafa6dc6366b53b52fe2e5505063c3d22a9d5e8.png"
+      },
+      {
+        "id": "crate-4860",
+        "name": "Rio 2022 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_inferno.8436644b919dfd7b507765755a2c6d947aa043bd.png"
+      },
+      {
+        "id": "crate-4893",
+        "name": "Paris 2023 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_inferno.6b9e8ab53a451035b0f38e60f64a531a64d83352.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp5sd_sp_tape_short_rally_light.png"
+  },
+  {
+    "id": "skin-1510452",
+    "name": "MP5-SD | Co-Processor",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet.",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "am_circuitboard_aqua",
+      "name": "Co-Processor"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "781",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-nuke-2",
+        "name": "The 2018 Nuke Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_nuke_2.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4546",
+        "name": "London 2018 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_nuke.c5a435706f7a023e26c27c4b44ecd5467a6a0751.png"
+      },
+      {
+        "id": "crate-4596",
+        "name": "Katowice 2019 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_nuke.11aecd5c30f7ff4a7e5633e11c1f92c7436f7238.png"
+      },
+      {
+        "id": "crate-4665",
+        "name": "Berlin 2019 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_nuke.d5ccbe093d09b47d2007ec613d1043debece329b.png"
+      },
+      {
+        "id": "crate-4814",
+        "name": "Stockholm 2021 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_nuke.1fe24dddabe5b67b42dc78fe9a4b05bbca5129ce.png"
+      },
+      {
+        "id": "crate-4840",
+        "name": "Antwerp 2022 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_nuke.4429df1cdac6206b27343c1b2187ddd17c1f735b.png"
+      },
+      {
+        "id": "crate-4865",
+        "name": "Rio 2022 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_nuke.77e9c0952c566be48bfe22d15fe1f19f4c975a22.png"
+      },
+      {
+        "id": "crate-4898",
+        "name": "Paris 2023 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_nuke.a486bc5278ce6d21c7dd9a41740af49e74c15726.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp5sd_am_circuitboard_aqua_light.png"
+  },
+  {
+    "id": "skin-1510520",
+    "name": "MP5-SD | Nitro",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet.",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "so_orange_accents3",
+      "name": "Nitro"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "798",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-op10-ct",
+        "name": "The Control Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_op10_ct.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp5sd_so_orange_accents3_light.png"
+  },
+  {
+    "id": "skin-1510528",
+    "name": "MP5-SD | Lab Rats",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet.",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "hy_labrat_mp5",
+      "name": "Lab Rats"
+    },
+    "min_float": 0,
+    "max_float": 0.35,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "800",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-blacksite",
+        "name": "The Blacksite Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_blacksite.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp5sd_hy_labrat_mp5_light.png"
+  },
+  {
+    "id": "skin-1510568",
+    "name": "MP5-SD | Phosphor",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet.",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "gs_mp5_festival_drip",
+      "name": "Phosphor"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "810",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-21",
+        "name": "The Danger Zone Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_21.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4548",
+        "name": "Danger Zone Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_21.0c6cec0c247809e291dea2fe514d46ea21607201.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp5sd_gs_mp5_festival_drip_light.png"
+  },
+  {
+    "id": "skin-1510712",
+    "name": "MP5-SD | Gauss",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet.",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "gs_mp5sd_astromatic",
+      "name": "Gauss"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "846",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-22",
+        "name": "The Prisma Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_22.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4598",
+        "name": "Prisma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_22.f223dd42c8d4c3ecf5a03b27416cb523f493d8af.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp5sd_gs_mp5sd_astromatic_light.png"
+  },
+  {
+    "id": "skin-1510816",
+    "name": "MP5-SD | Bamboo Garden",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet.",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "hy_bamboo_stmarc",
+      "name": "Bamboo Garden"
+    },
+    "min_float": 0,
+    "max_float": 0.55,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "872",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-stmarc",
+        "name": "The St. Marc Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_stmarc.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp5sd_hy_bamboo_stmarc_light.png"
+  },
+  {
+    "id": "skin-1510880",
+    "name": "MP5-SD | Acid Wash",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet.",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "gs_mp5_etch",
+      "name": "Acid Wash"
+    },
+    "min_float": 0,
+    "max_float": 0.68,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "888",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-23",
+        "name": "The Shattered Web Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_23.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4620",
+        "name": "Shattered Web Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_23.3248a20393f5e73c0ee99448b994e89381565353.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp5sd_gs_mp5_etch_light.png"
+  },
+  {
+    "id": "skin-1510988",
+    "name": "MP5-SD | Agent",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet.",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "gs_mp5_fbi",
+      "name": "Agent"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "915",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-24",
+        "name": "The CS20 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_24.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4669",
+        "name": "CS20 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_24.2b3bab86cb5b63a196342af58c0e4c82986ab54d.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp5sd_gs_mp5_fbi_light.png"
+  },
+  {
+    "id": "skin-1511020",
+    "name": "MP5-SD | Oxide Oasis",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet.",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "gs_mp5_neon_flektarn",
+      "name": "Oxide Oasis"
+    },
+    "min_float": 0,
+    "max_float": 0.55,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "923",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-mirage-2021",
+        "name": "The 2021 Mirage Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_mirage_2021.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4810",
+        "name": "Stockholm 2021 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_mirage.bc6d1bdc42baa20b92469f4e88c5d19f1db2f3a4.png"
+      },
+      {
+        "id": "crate-4836",
+        "name": "Antwerp 2022 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_mirage.6fd89e7b1aa99b499085b3ee4d1bc9babe9f0149.png"
+      },
+      {
+        "id": "crate-4861",
+        "name": "Rio 2022 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_mirage.090f18086981df3dbebc2e851f7902f6b9238c3c.png"
+      },
+      {
+        "id": "crate-4894",
+        "name": "Paris 2023 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_mirage.0e826d4e643335cc00448f83a61f68ed1f877bfe.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp5sd_gs_mp5_neon_flektarn_light.png"
+  },
+  {
+    "id": "skin-1511124",
+    "name": "MP5-SD | Desert Strike",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet.",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp5_desert_strike",
+      "name": "Desert Strike"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "949",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-25",
+        "name": "The Prisma 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_25.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4695",
+        "name": "Prisma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_25.ef3b4b9eeb6cd8c29eb79e23ceb8205d40df4b55.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp5sd_cu_mp5_desert_strike_light.png"
+  },
+  {
+    "id": "skin-1511224",
+    "name": "MP5-SD | Kitbash",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet.",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "gs_mp5sd_wasteland_legacy",
+      "name": "Kitbash"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "974",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-26",
+        "name": "The Fracture Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_26.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4698",
+        "name": "Fracture Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_26.b25098af5a4285004052786e261be43dec5b89cf.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp5sd_gs_mp5sd_wasteland_legacy_light.png"
+  },
+  {
+    "id": "skin-1511272",
+    "name": "MP5-SD | Condition Zero",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet.",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "gs_mp5_conditionzero",
+      "name": "Condition Zero"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "986",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-27",
+        "name": "The Operation Broken Fang Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_27.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_27.410809461956f26e23d1268152af7bdea7875fb0.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp5sd_gs_mp5_conditionzero_light.png"
+  },
+  {
+    "id": "skin-1511572",
+    "name": "MP5-SD | Autumn Twilly",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet.",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "hy_trainarchitect",
+      "name": "Autumn Twilly"
+    },
+    "min_float": 0,
+    "max_float": 0.58,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1061",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-train-2021",
+        "name": "The 2021 Train Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_train_2021.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp5sd_hy_trainarchitect_light.png"
+  },
+  {
+    "id": "skin-1511876",
+    "name": "MP5-SD | Necro Jr.",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet.",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "gs_mp5_kid_necronomicon",
+      "name": "Necro Jr."
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1137",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-30",
+        "name": "The Dreams & Nightmares Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_30.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4818",
+        "name": "Dreams & Nightmares Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_30.c471a3f74a254c80754f7deec19adaf0df266e23.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp5sd_gs_mp5_kid_necronomicon_light.png"
+  },
+  {
+    "id": "skin-1512252",
+    "name": "MP5-SD | Liquidation",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet.",
+    "weapon": {
+      "id": "weapon_mp5sd",
+      "name": "MP5-SD"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_smgs",
+      "name": "SMGs"
+    },
+    "pattern": {
+      "id": "cu_mp5sd_quick_liquidation",
+      "name": "Liquidation"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1231",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-32",
+        "name": "The Revolution Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_32.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_32.2d4bcc3d6832d2b4d1d11a273a4ff4bf55dc63a1.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_mp5sd_cu_mp5sd_quick_liquidation_light.png"
+  }
+]

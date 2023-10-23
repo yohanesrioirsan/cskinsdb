@@ -1,0 +1,2313 @@
+[
+  {
+    "id": "skin-3997796",
+    "name": "USP-S | Forest Leaves",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "sp_leaves",
+      "name": "Forest Leaves"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "25",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-safehouse",
+        "name": "The Safehouse Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_safehouse.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_sp_leaves_light.png"
+  },
+  {
+    "id": "skin-3997936",
+    "name": "USP-S | Dark Water",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "am_zebra_dark",
+      "name": "Dark Water"
+    },
+    "min_float": 0.1,
+    "max_float": 0.26,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "60",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-weapons-i",
+        "name": "The Arms Deal Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_weapons_i.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4001",
+        "name": "CS:GO Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_1.23c783d005b446a1004c97057cfb5ac2d8dae186.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_am_zebra_dark_light.png"
+  },
+  {
+    "id": "skin-3998428",
+    "name": "USP-S | Overgrowth",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "hy_siege_bravo",
+      "name": "Overgrowth"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "183",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-bravo-i",
+        "name": "The Bravo Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_bravo_i.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4003",
+        "name": "Operation Bravo Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_operation_ii.5e5104a6291741c5693a1e78bd6ecc9560b51f0a.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_hy_siege_bravo_light.png"
+  },
+  {
+    "id": "skin-3998564",
+    "name": "USP-S | Blood Tiger",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "hy_redtiger",
+      "name": "Blood Tiger"
+    },
+    "min_float": 0,
+    "max_float": 0.3,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "217",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-esports-iii",
+        "name": "The eSports 2014 Summer Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_esports_iii.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4019",
+        "name": "eSports 2014 Summer Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2014_summer.e579e3f7ca004fd9b51aa0f597590c936bb9f67c.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_hy_redtiger_light.png"
+  },
+  {
+    "id": "skin-3998580",
+    "name": "USP-S | Serum",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "am_electric_red",
+      "name": "Serum"
+    },
+    "min_float": 0,
+    "max_float": 0.25,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "221",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-weapons-ii",
+        "name": "The Arms Deal 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_weapons_ii.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4004",
+        "name": "CS:GO Weapon Case 2",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_2.912031176f2320d2d39f449ab3e27c41f5ec7faa.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_am_electric_red_light.png"
+  },
+  {
+    "id": "skin-3998640",
+    "name": "USP-S | Night Ops",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "hy_varicamo_night",
+      "name": "Night Ops"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "236",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-lake",
+        "name": "The Lake Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_lake.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_hy_varicamo_night_light.png"
+  },
+  {
+    "id": "skin-3998804",
+    "name": "USP-S | Stainless",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "aq_usp_stainless",
+      "name": "Stainless"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "277",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-weapons-iii",
+        "name": "The Arms Deal 3 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_weapons_iii.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4010",
+        "name": "CS:GO Weapon Case 3",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_3.b49dc22a06991946e849c7b364b7d5876534ef61.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_aq_usp_stainless_light.png"
+  },
+  {
+    "id": "skin-3998856",
+    "name": "USP-S | Guardian",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_usp_elegant",
+      "name": "Guardian"
+    },
+    "min_float": 0,
+    "max_float": 0.38,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "290",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-2",
+        "name": "The Phoenix Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_2.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4011",
+        "name": "Operation Phoenix Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_2.49174abddcccb6519b83d27d0cff476e1c44cc57.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_cu_usp_elegant_light.png"
+  },
+  {
+    "id": "skin-3998948",
+    "name": "USP-S | Orion",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_usp_spitfire",
+      "name": "Orion"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "313",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-3",
+        "name": "The Huntsman Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_3.png"
+      }
+    ],
+    "crates": [],
+    "special_notes": [
+      {
+        "source": "https://steamcommunity.com/games/CSGO/announcements/detail/1751086783896069815",
+        "text": "It was removed because one of its creators was also involved with the M4A4 Howl art theft. This is no longer obtainable from the Huntsman Weapon Case, but remains part of The Huntsman Collection and still works with trade-up contracts."
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_cu_usp_spitfire_light.png"
+  },
+  {
+    "id": "skin-3998968",
+    "name": "USP-S | Road Rash",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_usp_sandpapered",
+      "name": "Road Rash"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "318",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-overpass",
+        "name": "The Overpass Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_overpass.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4028",
+        "name": "ESL One Cologne 2014 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_overpass.8e84964930bb3bcd01328e9ec9d18246b701d815.png"
+      },
+      {
+        "id": "crate-4037",
+        "name": "DreamHack 2014 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_dhw14_promo_de_overpass.e20120d2211c054e3341ec973e420b2536acdc9e.png"
+      },
+      {
+        "id": "crate-4085",
+        "name": "ESL One Katowice 2015 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslkatowice2015_promo_de_overpass.f518bda0e34a1a12346009a5d0a1c0acf8a6efd0.png"
+      },
+      {
+        "id": "crate-4135",
+        "name": "ESL One Cologne 2015 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslcologne2015_promo_de_overpass.cadbf695630fb527e72f6e2df689aa186fc3dba0.png"
+      },
+      {
+        "id": "crate-4180",
+        "name": "DreamHack Cluj-Napoca 2015 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cluj2015_promo_de_overpass.c1e292eef9daecb7e3a39cd32793909dade27c98.png"
+      },
+      {
+        "id": "crate-4229",
+        "name": "MLG Columbus 2016 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_columbus2016_promo_de_overpass.6ca6faaa7e9bd88599ac9fd566624b82a49253dc.png"
+      },
+      {
+        "id": "crate-4277",
+        "name": "Cologne 2016 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cologne2016_promo_de_overpass.ae687c6e4b521a9617e982915266157aee4c48bf.png"
+      },
+      {
+        "id": "crate-4347",
+        "name": "Atlanta 2017 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_atlanta2017_promo_de_overpass.59427cdda056ed154d4c29df6417a852f56a7a4b.png"
+      },
+      {
+        "id": "crate-4399",
+        "name": "Krakow 2017 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_krakow2017_promo_de_overpass.e4a6cab0326599c25b29135013c3b22aabe2e8b0.png"
+      },
+      {
+        "id": "crate-4466",
+        "name": "Boston 2018 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_boston2018_promo_de_overpass.0052a59731a791212ab021d5f6fbf839dbe70b3b.png"
+      },
+      {
+        "id": "crate-4543",
+        "name": "London 2018 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_overpass.951ad03c7109ed78658b951deb76bbc7808042a0.png"
+      },
+      {
+        "id": "crate-4593",
+        "name": "Katowice 2019 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_overpass.cd9bd1317243c478c3a072621e83988b37ab1df1.png"
+      },
+      {
+        "id": "crate-4663",
+        "name": "Berlin 2019 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_overpass.002b0661e317dbac2a511b900ac0cf53fb9e2801.png"
+      },
+      {
+        "id": "crate-4812",
+        "name": "Stockholm 2021 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_overpass.a1416d178c57d616ece474e36881ac3952a1d865.png"
+      },
+      {
+        "id": "crate-4838",
+        "name": "Antwerp 2022 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_overpass.b49a0cf31d712111df1f242aba93847c9957625d.png"
+      },
+      {
+        "id": "crate-4863",
+        "name": "Rio 2022 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_overpass.de315f096687f04c68bd32fdd31ae255d3859ca6.png"
+      },
+      {
+        "id": "crate-4896",
+        "name": "Paris 2023 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_overpass.caf1a3fa2e5f02388268dbdc6b7ae9957ff3be0e.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_cu_usp_sandpapered_light.png"
+  },
+  {
+    "id": "skin-3999024",
+    "name": "USP-S | Royal Blue",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "hy_indigo_usp",
+      "name": "Royal Blue"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "332",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-cobblestone",
+        "name": "The Cobblestone Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_cobblestone.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4027",
+        "name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_cbble.5db3a4b745facff2db79a3ee6819f007bee736c0.png"
+      },
+      {
+        "id": "crate-4036",
+        "name": "DreamHack 2014 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_dhw14_promo_de_cbble.37d5c8d671c3e181ea9844cd8147e454ae28e2f9.png"
+      },
+      {
+        "id": "crate-4084",
+        "name": "ESL One Katowice 2015 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslkatowice2015_promo_de_cbble.8650a00e848d547b173076d5cde6882ec4441c31.png"
+      },
+      {
+        "id": "crate-4134",
+        "name": "ESL One Cologne 2015 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslcologne2015_promo_de_cbble.62138434ebaeb6ebdc4ddf09647bf9d173929048.png"
+      },
+      {
+        "id": "crate-4179",
+        "name": "DreamHack Cluj-Napoca 2015 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cluj2015_promo_de_cbble.1edc97df2f655873fcaccdee15afce42581cddbc.png"
+      },
+      {
+        "id": "crate-4228",
+        "name": "MLG Columbus 2016 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_columbus2016_promo_de_cbble.3cf5fe89e7edaca0acf314b67cdd18c29ac785d5.png"
+      },
+      {
+        "id": "crate-4276",
+        "name": "Cologne 2016 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cologne2016_promo_de_cbble.ebac6436d59545e869f193eabb5b704f62d27f30.png"
+      },
+      {
+        "id": "crate-4346",
+        "name": "Atlanta 2017 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_atlanta2017_promo_de_cbble.01be0f6fe6487065bc77a8f032920cc192d3348d.png"
+      },
+      {
+        "id": "crate-4398",
+        "name": "Krakow 2017 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_krakow2017_promo_de_cbble.6bc507231c3886467a928b363a029483daf6066e.png"
+      },
+      {
+        "id": "crate-4465",
+        "name": "Boston 2018 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_boston2018_promo_de_cbble.f4720b59277ab16da508f76845f85f5dfe0d9df6.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_hy_indigo_usp_light.png"
+  },
+  {
+    "id": "skin-3999052",
+    "name": "USP-S | Caiman",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_kaiman",
+      "name": "Caiman"
+    },
+    "min_float": 0,
+    "max_float": 0.4,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "339",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-3",
+        "name": "The Huntsman Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_3.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4017",
+        "name": "Huntsman Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_3.ce832a92f9fc329dc87d7a802374b918b07cdb84.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_cu_kaiman_light.png"
+  },
+  {
+    "id": "skin-3999152",
+    "name": "USP-S | Business Class",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_luggage_usp-s",
+      "name": "Business Class"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "364",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-baggage",
+        "name": "The Baggage Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_baggage.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_cu_luggage_usp-s_light.png"
+  },
+  {
+    "id": "skin-3999468",
+    "name": "USP-S | Pathfinder",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "sp_labyrinth2",
+      "name": "Pathfinder"
+    },
+    "min_float": 0,
+    "max_float": 0.35,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "443",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-norse",
+        "name": "The Norse Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_norse.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_sp_labyrinth2_light.png"
+  },
+  {
+    "id": "skin-3999512",
+    "name": "USP-S | Para Green",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "so_khaki_green",
+      "name": "Para Green"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "454",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-chopshop",
+        "name": "The Chop Shop Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_chopshop.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_so_khaki_green_light.png"
+  },
+  {
+    "id": "skin-3999652",
+    "name": "USP-S | Torque",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_usp_progressiv",
+      "name": "Torque"
+    },
+    "min_float": 0,
+    "max_float": 0.46,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "489",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-8",
+        "name": "The Falchion Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_8.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4091",
+        "name": "Falchion Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_8.3cd07b46c7bcb7577453816c5d2f8afdbee98234.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_cu_usp_progressiv_light.png"
+  },
+  {
+    "id": "skin-3999712",
+    "name": "USP-S | Kill Confirmed",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_usp_kill_confirmed",
+      "name": "Kill Confirmed"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "504",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-9",
+        "name": "The Shadow Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_9.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4138",
+        "name": "Shadow Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_9.e8303075e1a0969497a4502140ea47ecc65b4c50.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_cu_usp_kill_confirmed_light.png"
+  },
+  {
+    "id": "skin-3999856",
+    "name": "USP-S | Lead Conduit",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "gs_usp_voltage",
+      "name": "Lead Conduit"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "540",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-11",
+        "name": "The Wildfire Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_11.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4187",
+        "name": "Operation Wildfire Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_11.4839d78c3416c2036da2ed42111df77177828399.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_gs_usp_voltage_light.png"
+  },
+  {
+    "id": "skin-4000244",
+    "name": "USP-S | Cyrex",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_usp_cyrex",
+      "name": "Cyrex"
+    },
+    "min_float": 0,
+    "max_float": 0.55,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "637",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-15",
+        "name": "The Glove Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_15.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_15.7dfa18f8f7ce3bc4e55aac0c566fe068e741bddf.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_cu_usp_cyrex_light.png"
+  },
+  {
+    "id": "skin-4000308",
+    "name": "USP-S | Neo-Noir",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_usps_noir",
+      "name": "Neo-Noir"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "653",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-16",
+        "name": "The Spectrum Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_16.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4351",
+        "name": "Spectrum Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_16.a2ec6a235e52612fa82e5858af3751b6e77f4ec2.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_cu_usps_noir_light.png"
+  },
+  {
+    "id": "skin-4000324",
+    "name": "USP-S | Blueprint",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_usps_blueprint",
+      "name": "Blueprint"
+    },
+    "min_float": 0,
+    "max_float": 0.86,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "657",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-17",
+        "name": "The Operation Hydra Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_17.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_17.8d4528eca229d65d0c19929ae2078aab38df1369.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_cu_usps_blueprint_light.png"
+  },
+  {
+    "id": "skin-4000516",
+    "name": "USP-S | Cortex",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_usp_cut",
+      "name": "Cortex"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "705",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-19",
+        "name": "The Clutch Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_19.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_19.982c3a44362ee65b192b359c12d3d3af9ecb56b2.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_cu_usp_cut_light.png"
+  },
+  {
+    "id": "skin-4000880",
+    "name": "USP-S | Check Engine",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "sp_mesh_safetyred",
+      "name": "Check Engine"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "796",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-inferno-2",
+        "name": "The 2018 Inferno Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_inferno_2.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4540",
+        "name": "London 2018 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_inferno.07dbf5526d87ab866da5af57682ffcdfd59362a5.png"
+      },
+      {
+        "id": "crate-4590",
+        "name": "Katowice 2019 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_inferno.d5b7d5c77ba7cf4e7f9296f8693e5cfae42f2644.png"
+      },
+      {
+        "id": "crate-4660",
+        "name": "Berlin 2019 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_inferno.00a259328607042322ca7cbc5fe16b2d4162f553.png"
+      },
+      {
+        "id": "crate-4809",
+        "name": "Stockholm 2021 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_inferno.db7770ae6dbb5369e8301eae1941fbaf342f9413.png"
+      },
+      {
+        "id": "crate-4835",
+        "name": "Antwerp 2022 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_inferno.bbafa6dc6366b53b52fe2e5505063c3d22a9d5e8.png"
+      },
+      {
+        "id": "crate-4860",
+        "name": "Rio 2022 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_inferno.8436644b919dfd7b507765755a2c6d947aa043bd.png"
+      },
+      {
+        "id": "crate-4893",
+        "name": "Paris 2023 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_inferno.6b9e8ab53a451035b0f38e60f64a531a64d83352.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_sp_mesh_safetyred_light.png"
+  },
+  {
+    "id": "skin-4000964",
+    "name": "USP-S | Flashback",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_usp_flashback",
+      "name": "Flashback"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "817",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-21",
+        "name": "The Danger Zone Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_21.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4548",
+        "name": "Danger Zone Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_21.0c6cec0c247809e291dea2fe514d46ea21607201.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_cu_usp_flashback_light.png"
+  },
+  {
+    "id": "skin-4000968",
+    "name": "USP-S | Purple DDPAT",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "am_ddpat_purple",
+      "name": "Purple DDPAT"
+    },
+    "min_float": 0,
+    "max_float": 0.55,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "818",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-mirage-2021",
+        "name": "The 2021 Mirage Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_mirage_2021.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4810",
+        "name": "Stockholm 2021 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_mirage.bc6d1bdc42baa20b92469f4e88c5d19f1db2f3a4.png"
+      },
+      {
+        "id": "crate-4836",
+        "name": "Antwerp 2022 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_mirage.6fd89e7b1aa99b499085b3ee4d1bc9babe9f0149.png"
+      },
+      {
+        "id": "crate-4861",
+        "name": "Rio 2022 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_mirage.090f18086981df3dbebc2e851f7902f6b9238c3c.png"
+      },
+      {
+        "id": "crate-4894",
+        "name": "Paris 2023 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_mirage.0e826d4e643335cc00448f83a61f68ed1f877bfe.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_am_ddpat_purple_light.png"
+  },
+  {
+    "id": "skin-4001384",
+    "name": "USP-S | Orange Anolis",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "am_lizard_red",
+      "name": "Orange Anolis"
+    },
+    "min_float": 0,
+    "max_float": 0.37,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "922",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-dust-2-2021",
+        "name": "The 2021 Dust 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2_2021.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4811",
+        "name": "Stockholm 2021 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_dust2.f63b1e6c0b61cbb091decd12b651c44b90952428.png"
+      },
+      {
+        "id": "crate-4837",
+        "name": "Antwerp 2022 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_dust2.34c2ad7fef5af8760c1b821cc291b2ae2aeaa46a.png"
+      },
+      {
+        "id": "crate-4862",
+        "name": "Rio 2022 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_dust2.f534f7ac83a32ec4917ec1fa488c5407b056b749.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_am_lizard_red_light.png"
+  },
+  {
+    "id": "skin-4001660",
+    "name": "USP-S | Monster Mashup",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_usp_krokos",
+      "name": "Monster Mashup"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "991",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-27",
+        "name": "The Operation Broken Fang Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_27.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_27.410809461956f26e23d1268152af7bdea7875fb0.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_cu_usp_krokos_light.png"
+  },
+  {
+    "id": "skin-4001804",
+    "name": "USP-S | Target Acquired",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "am_intelligence_magenta",
+      "name": "Target Acquired"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1027",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-op10-ct",
+        "name": "The Control Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_op10_ct.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_am_intelligence_magenta_light.png"
+  },
+  {
+    "id": "skin-4001820",
+    "name": "USP-S | Ancient Visions",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "sp_ancient_bright",
+      "name": "Ancient Visions"
+    },
+    "min_float": 0,
+    "max_float": 0.45,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "1031",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-op10-ancient",
+        "name": "The Ancient Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_op10_ancient.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4813",
+        "name": "Stockholm 2021 Ancient Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_ancient.29085e1a3b545970b4f323999169d711a73673d2.png"
+      },
+      {
+        "id": "crate-4839",
+        "name": "Antwerp 2022 Ancient Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_ancient.be9d7d23627870d11893a4dd8a57a063cec07b03.png"
+      },
+      {
+        "id": "crate-4864",
+        "name": "Rio 2022 Ancient Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_ancient.62851c1371620fd30067840032874561d5b0a5d3.png"
+      },
+      {
+        "id": "crate-4897",
+        "name": "Paris 2023 Ancient Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_ancient.3f0d4072a23afdf75c3f8faf739d85825dde9e7c.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_sp_ancient_bright_light.png"
+  },
+  {
+    "id": "skin-4001856",
+    "name": "USP-S | The Traitor",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "gs_usps_hangedman",
+      "name": "The Traitor"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1040",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-28",
+        "name": "The Snakebite Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_28.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_28.1f6e656d8fc297c9f2b65f2c05b8552d1cc63082.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_gs_usps_hangedman_light.png"
+  },
+  {
+    "id": "skin-4001956",
+    "name": "USP-S | Whiteout",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "so_whiteout_riptide",
+      "name": "Whiteout"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1065",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-train-2021",
+        "name": "The 2021 Train Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_train_2021.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_so_whiteout_riptide_light.png"
+  },
+  {
+    "id": "skin-4002104",
+    "name": "USP-S | Black Lotus",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_usp_black_lotus",
+      "name": "Black Lotus"
+    },
+    "min_float": 0,
+    "max_float": 0.9,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1102",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-29",
+        "name": "The Operation Riptide Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_29.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4790",
+        "name": "Operation Riptide Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_29.9b830067732b4de110c01fb24cd067a3061b43a8.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_cu_usp_black_lotus_light.png"
+  },
+  {
+    "id": "skin-4002240",
+    "name": "USP-S | Ticket to Hell",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_usp_to_hell",
+      "name": "Ticket to Hell"
+    },
+    "min_float": 0,
+    "max_float": 0.76,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1136",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-30",
+        "name": "The Dreams & Nightmares Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_30.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4818",
+        "name": "Dreams & Nightmares Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_30.c471a3f74a254c80754f7deec19adaf0df266e23.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_cu_usp_to_hell_light.png"
+  },
+  {
+    "id": "skin-4002264",
+    "name": "USP-S | Printstream",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_usp_printstream",
+      "name": "Printstream"
+    },
+    "min_float": 0,
+    "max_float": 0.85,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1142",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-31",
+        "name": "The Recoil Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_31.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_31.440b43f4ad3fcfe344ce63b5d8cf59cd8034ba1a.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_cu_usp_printstream_light.png"
+  },
+  {
+    "id": "skin-4002708",
+    "name": "USP-S | Desert Tactical",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
+    "weapon": {
+      "id": "weapon_usp_silencer",
+      "name": "USP-S"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "gs_usps_tactical_camo",
+      "name": "Desert Tactical"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "1253",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-anubis",
+        "name": "The Anubis Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/e2f2a36bd13cefa1f798e03e8f2cc98ee96c1304/public/images/set_anubis.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4882",
+        "name": "Anubis Collection Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_anubis_storepromo.652ce0f3f70f92157591a29d3e36f2cebcc27f64.png"
+      },
+      {
+        "id": "crate-4895",
+        "name": "Paris 2023 Anubis Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_anubis.eb3566385d460dd1510e0f147d9698309f5b7011.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_usp_silencer_gs_usps_tactical_camo_light.png"
+  }
+]

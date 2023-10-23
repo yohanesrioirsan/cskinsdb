@@ -1,0 +1,2128 @@
+[
+  {
+    "id": "skin-2621544",
+    "name": "SSG 08 | Lichen Dashed",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "sp_short_tape",
+      "name": "Lichen Dashed"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "26",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-aztec",
+        "name": "The Aztec Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_aztec.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_sp_short_tape_light.png"
+  },
+  {
+    "id": "skin-2621680",
+    "name": "SSG 08 | Dark Water",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "am_zebra_dark",
+      "name": "Dark Water"
+    },
+    "min_float": 0.1,
+    "max_float": 0.26,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "60",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-esports-iii",
+        "name": "The eSports 2014 Summer Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_esports_iii.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4019",
+        "name": "eSports 2014 Summer Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2014_summer.e579e3f7ca004fd9b51aa0f597590c936bb9f67c.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_am_zebra_dark_light.png"
+  },
+  {
+    "id": "skin-2621720",
+    "name": "SSG 08 | Carbon Fiber",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "am_carbon_fiber",
+      "name": "Carbon Fiber"
+    },
+    "min_float": 0,
+    "max_float": 0.12,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "70",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-vertigo-2021",
+        "name": "The 2021 Vertigo Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_vertigo_2021.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4815",
+        "name": "Stockholm 2021 Vertigo Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_vertigo.7080d66022a7ae14944279c0e0d3e1670bd94d9c.png"
+      },
+      {
+        "id": "crate-4841",
+        "name": "Antwerp 2022 Vertigo Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_vertigo.b6852a54ab50c53059d8d7a90998e500682d30be.png"
+      },
+      {
+        "id": "crate-4866",
+        "name": "Rio 2022 Vertigo Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_vertigo.7c239e2541a763caf8314bd1630b57fc59b9b18d.png"
+      },
+      {
+        "id": "crate-4899",
+        "name": "Paris 2023 Vertigo Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_vertigo.da26ce2a8461ef92d71ba5aa0a6502a9646fb336.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_am_carbon_fiber_light.png"
+  },
+  {
+    "id": "skin-2621824",
+    "name": "SSG 08 | Blue Spruce",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "so_moss",
+      "name": "Blue Spruce"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "96",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-safehouse",
+        "name": "The Safehouse Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_safehouse.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_so_moss_light.png"
+  },
+  {
+    "id": "skin-2621836",
+    "name": "SSG 08 | Sand Dune",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "so_sand",
+      "name": "Sand Dune"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "99",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-baggage",
+        "name": "The Baggage Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_baggage.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_so_sand_light.png"
+  },
+  {
+    "id": "skin-2622028",
+    "name": "SSG 08 | Jungle Dashed",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "sp_tape_short_jungle",
+      "name": "Jungle Dashed"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "147",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-op10-ancient",
+        "name": "The Ancient Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_op10_ancient.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4813",
+        "name": "Stockholm 2021 Ancient Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_ancient.29085e1a3b545970b4f323999169d711a73673d2.png"
+      },
+      {
+        "id": "crate-4839",
+        "name": "Antwerp 2022 Ancient Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_ancient.be9d7d23627870d11893a4dd8a57a063cec07b03.png"
+      },
+      {
+        "id": "crate-4864",
+        "name": "Rio 2022 Ancient Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_ancient.62851c1371620fd30067840032874561d5b0a5d3.png"
+      },
+      {
+        "id": "crate-4897",
+        "name": "Paris 2023 Ancient Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_ancient.3f0d4072a23afdf75c3f8faf739d85825dde9e7c.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_sp_tape_short_jungle_light.png"
+  },
+  {
+    "id": "skin-2622240",
+    "name": "SSG 08 | Mayan Dreams",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "hy_mayan_dreams_bravo",
+      "name": "Mayan Dreams"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "200",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-bravo-ii",
+        "name": "The Alpha Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_bravo_ii.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_hy_mayan_dreams_bravo_light.png"
+  },
+  {
+    "id": "skin-2622328",
+    "name": "SSG 08 | Blood in the Water",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_shark",
+      "name": "Blood in the Water"
+    },
+    "min_float": 0.06,
+    "max_float": 0.2,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "222",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-weapons-ii",
+        "name": "The Arms Deal 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_weapons_ii.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4004",
+        "name": "CS:GO Weapon Case 2",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_2.912031176f2320d2d39f449ab3e27c41f5ec7faa.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_cu_shark_light.png"
+  },
+  {
+    "id": "skin-2622372",
+    "name": "SSG 08 | Tropical Storm",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "sp_palm_shadow",
+      "name": "Tropical Storm"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "233",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-mirage",
+        "name": "The Mirage Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_mirage.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4024",
+        "name": "ESL One Cologne 2014 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_mirage.9b14fdeb121fc012013496c6e78ff1f7212135bb.png"
+      },
+      {
+        "id": "crate-4033",
+        "name": "DreamHack 2014 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_dhw14_promo_de_mirage.f7fd41fa75f398759589c4a42981c67693738f30.png"
+      },
+      {
+        "id": "crate-4081",
+        "name": "ESL One Katowice 2015 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslkatowice2015_promo_de_mirage.3c168637f2a150e95b0bc786dc364128a627d5d1.png"
+      },
+      {
+        "id": "crate-4132",
+        "name": "ESL One Cologne 2015 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslcologne2015_promo_de_mirage.cd633c421896f165a2575204d9d5f908499a918a.png"
+      },
+      {
+        "id": "crate-4177",
+        "name": "DreamHack Cluj-Napoca 2015 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cluj2015_promo_de_mirage.4bd48ff1973049af65f5439ca4d08cd91fb2b0c9.png"
+      },
+      {
+        "id": "crate-4226",
+        "name": "MLG Columbus 2016 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_columbus2016_promo_de_mirage.bbb2b84e6d14d9d7634475dad482ada35977eaa3.png"
+      },
+      {
+        "id": "crate-4275",
+        "name": "Cologne 2016 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cologne2016_promo_de_mirage.22a4700e330b3fbc7161c1b98c13aee8edeb2ba3.png"
+      },
+      {
+        "id": "crate-4345",
+        "name": "Atlanta 2017 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_atlanta2017_promo_de_mirage.e4743d9aff1ac76c8bd57c24706eb9bb7684e5ec.png"
+      },
+      {
+        "id": "crate-4397",
+        "name": "Krakow 2017 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_krakow2017_promo_de_mirage.ce90364134b366b08ec65f0048ba32f354a89f07.png"
+      },
+      {
+        "id": "crate-4464",
+        "name": "Boston 2018 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_boston2018_promo_de_mirage.35c3e485b0f955511dac55d6f4a817a57ea3dbe5.png"
+      },
+      {
+        "id": "crate-4541",
+        "name": "London 2018 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_mirage.009d901f9a204073dddea7113a5577ef5a360fc7.png"
+      },
+      {
+        "id": "crate-4591",
+        "name": "Katowice 2019 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_mirage.a8b296d35c5d363b65c6ee39fe9bb3f8febea2d3.png"
+      },
+      {
+        "id": "crate-4661",
+        "name": "Berlin 2019 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_mirage.10c013a74e2c34c2c51cd7183897b1f3f9075b21.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_sp_palm_shadow_light.png"
+  },
+  {
+    "id": "skin-2622452",
+    "name": "SSG 08 | Acid Fade",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "aa_fade_grassland",
+      "name": "Acid Fade"
+    },
+    "min_float": 0,
+    "max_float": 0.03,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "253",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-safehouse",
+        "name": "The Safehouse Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_safehouse.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_aa_fade_grassland_light.png"
+  },
+  {
+    "id": "skin-2622656",
+    "name": "SSG 08 | Slashed",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_ssg08_immortal",
+      "name": "Slashed"
+    },
+    "min_float": 0.15,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "304",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-3",
+        "name": "The Huntsman Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_3.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4017",
+        "name": "Huntsman Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_3.ce832a92f9fc329dc87d7a802374b918b07cdb84.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_cu_ssg08_immortal_light.png"
+  },
+  {
+    "id": "skin-2622716",
+    "name": "SSG 08 | Detour",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "hy_ssg08_marker",
+      "name": "Detour"
+    },
+    "min_float": 0,
+    "max_float": 0.43,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "319",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-overpass",
+        "name": "The Overpass Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_overpass.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4028",
+        "name": "ESL One Cologne 2014 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_overpass.8e84964930bb3bcd01328e9ec9d18246b701d815.png"
+      },
+      {
+        "id": "crate-4037",
+        "name": "DreamHack 2014 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_dhw14_promo_de_overpass.e20120d2211c054e3341ec973e420b2536acdc9e.png"
+      },
+      {
+        "id": "crate-4085",
+        "name": "ESL One Katowice 2015 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslkatowice2015_promo_de_overpass.f518bda0e34a1a12346009a5d0a1c0acf8a6efd0.png"
+      },
+      {
+        "id": "crate-4135",
+        "name": "ESL One Cologne 2015 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslcologne2015_promo_de_overpass.cadbf695630fb527e72f6e2df689aa186fc3dba0.png"
+      },
+      {
+        "id": "crate-4180",
+        "name": "DreamHack Cluj-Napoca 2015 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cluj2015_promo_de_overpass.c1e292eef9daecb7e3a39cd32793909dade27c98.png"
+      },
+      {
+        "id": "crate-4229",
+        "name": "MLG Columbus 2016 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_columbus2016_promo_de_overpass.6ca6faaa7e9bd88599ac9fd566624b82a49253dc.png"
+      },
+      {
+        "id": "crate-4277",
+        "name": "Cologne 2016 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cologne2016_promo_de_overpass.ae687c6e4b521a9617e982915266157aee4c48bf.png"
+      },
+      {
+        "id": "crate-4347",
+        "name": "Atlanta 2017 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_atlanta2017_promo_de_overpass.59427cdda056ed154d4c29df6417a852f56a7a4b.png"
+      },
+      {
+        "id": "crate-4399",
+        "name": "Krakow 2017 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_krakow2017_promo_de_overpass.e4a6cab0326599c25b29135013c3b22aabe2e8b0.png"
+      },
+      {
+        "id": "crate-4466",
+        "name": "Boston 2018 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_boston2018_promo_de_overpass.0052a59731a791212ab021d5f6fbf839dbe70b3b.png"
+      },
+      {
+        "id": "crate-4543",
+        "name": "London 2018 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_overpass.951ad03c7109ed78658b951deb76bbc7808042a0.png"
+      },
+      {
+        "id": "crate-4593",
+        "name": "Katowice 2019 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_overpass.cd9bd1317243c478c3a072621e83988b37ab1df1.png"
+      },
+      {
+        "id": "crate-4663",
+        "name": "Berlin 2019 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_overpass.002b0661e317dbac2a511b900ac0cf53fb9e2801.png"
+      },
+      {
+        "id": "crate-4812",
+        "name": "Stockholm 2021 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_overpass.a1416d178c57d616ece474e36881ac3952a1d865.png"
+      },
+      {
+        "id": "crate-4838",
+        "name": "Antwerp 2022 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_overpass.b49a0cf31d712111df1f242aba93847c9957625d.png"
+      },
+      {
+        "id": "crate-4863",
+        "name": "Rio 2022 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_overpass.de315f096687f04c68bd32fdd31ae255d3859ca6.png"
+      },
+      {
+        "id": "crate-4896",
+        "name": "Paris 2023 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_overpass.caf1a3fa2e5f02388268dbdc6b7ae9957ff3be0e.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_hy_ssg08_marker_light.png"
+  },
+  {
+    "id": "skin-2622884",
+    "name": "SSG 08 | Abyss",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "aq_leviathan",
+      "name": "Abyss"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "361",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-4",
+        "name": "The Breakout Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_4.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4018",
+        "name": "Operation Breakout Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_4.f0d23848527b7be0f1fc9556b1f3ecfb1193ee40.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_aq_leviathan_light.png"
+  },
+  {
+    "id": "skin-2623452",
+    "name": "SSG 08 | Big Iron",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_ssg08_technicality",
+      "name": "Big Iron"
+    },
+    "min_float": 0,
+    "max_float": 0.64,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "503",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-9",
+        "name": "The Shadow Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_9.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4138",
+        "name": "Shadow Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_9.e8303075e1a0969497a4502140ea47ecc65b4c50.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_cu_ssg08_technicality_light.png"
+  },
+  {
+    "id": "skin-2623592",
+    "name": "SSG 08 | Necropos",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_ssg08_necropos",
+      "name": "Necropos"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "538",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-11",
+        "name": "The Wildfire Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_11.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4187",
+        "name": "Operation Wildfire Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_11.4839d78c3416c2036da2ed42111df77177828399.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_cu_ssg08_necropos_light.png"
+  },
+  {
+    "id": "skin-2623656",
+    "name": "SSG 08 | Ghost Crusader",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "gs_ssg08_armacore",
+      "name": "Ghost Crusader"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "554",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-12",
+        "name": "The Chroma 3 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_12.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_12.7555fc0b45c4d1e0ff1c117af393463f29f20f66.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_gs_ssg08_armacore_light.png"
+  },
+  {
+    "id": "skin-2623936",
+    "name": "SSG 08 | Dragonfire",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_ssg08_dragonfire_scope",
+      "name": "Dragonfire"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "624",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-15",
+        "name": "The Glove Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_15.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_15.7dfa18f8f7ce3bc4e55aac0c566fe068e741bddf.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_cu_ssg08_dragonfire_scope_light.png"
+  },
+  {
+    "id": "skin-2624120",
+    "name": "SSG 08 | Death's Head",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_ssg08_deathshead",
+      "name": "Death's Head"
+    },
+    "min_float": 0,
+    "max_float": 0.51,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "670",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-17",
+        "name": "The Operation Hydra Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_17.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_17.8d4528eca229d65d0c19929ae2078aab38df1369.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_cu_ssg08_deathshead_light.png"
+  },
+  {
+    "id": "skin-2624412",
+    "name": "SSG 08 | Orange Filigree",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "hy_ren_orange",
+      "name": "Orange Filigree"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "743",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-canals",
+        "name": "The Canals Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_canals.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_hy_ren_orange_light.png"
+  },
+  {
+    "id": "skin-2624444",
+    "name": "SSG 08 | Hand Brake",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "gs_ssg08_checker",
+      "name": "Hand Brake"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "751",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-inferno-2",
+        "name": "The 2018 Inferno Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_inferno_2.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4540",
+        "name": "London 2018 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_inferno.07dbf5526d87ab866da5af57682ffcdfd59362a5.png"
+      },
+      {
+        "id": "crate-4590",
+        "name": "Katowice 2019 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_inferno.d5b7d5c77ba7cf4e7f9296f8693e5cfae42f2644.png"
+      },
+      {
+        "id": "crate-4660",
+        "name": "Berlin 2019 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_inferno.00a259328607042322ca7cbc5fe16b2d4162f553.png"
+      },
+      {
+        "id": "crate-4809",
+        "name": "Stockholm 2021 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_inferno.db7770ae6dbb5369e8301eae1941fbaf342f9413.png"
+      },
+      {
+        "id": "crate-4835",
+        "name": "Antwerp 2022 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_inferno.bbafa6dc6366b53b52fe2e5505063c3d22a9d5e8.png"
+      },
+      {
+        "id": "crate-4860",
+        "name": "Rio 2022 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_inferno.8436644b919dfd7b507765755a2c6d947aa043bd.png"
+      },
+      {
+        "id": "crate-4893",
+        "name": "Paris 2023 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_inferno.6b9e8ab53a451035b0f38e60f64a531a64d83352.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_gs_ssg08_checker_light.png"
+  },
+  {
+    "id": "skin-2624488",
+    "name": "SSG 08 | Red Stone",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "so_rune_stone",
+      "name": "Red Stone"
+    },
+    "min_float": 0.06,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "762",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-norse",
+        "name": "The Norse Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_norse.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_so_rune_stone_light.png"
+  },
+  {
+    "id": "skin-2624912",
+    "name": "SSG 08 | Sea Calico",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "hy_flowers_stmarc",
+      "name": "Sea Calico"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "868",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-stmarc",
+        "name": "The St. Marc Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_stmarc.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_hy_flowers_stmarc_light.png"
+  },
+  {
+    "id": "skin-2625036",
+    "name": "SSG 08 | Bloodshot",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_ssg08_tickler",
+      "name": "Bloodshot"
+    },
+    "min_float": 0.14,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "899",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-23",
+        "name": "The Shattered Web Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_23.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4620",
+        "name": "Shattered Web Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_23.3248a20393f5e73c0ee99448b994e89381565353.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_cu_ssg08_tickler_light.png"
+  },
+  {
+    "id": "skin-2625180",
+    "name": "SSG 08 | Prey",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "sp_zebracam_red",
+      "name": "Prey"
+    },
+    "min_float": 0,
+    "max_float": 0.48,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "935",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-mirage-2021",
+        "name": "The 2021 Mirage Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_mirage_2021.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4810",
+        "name": "Stockholm 2021 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_mirage.bc6d1bdc42baa20b92469f4e88c5d19f1db2f3a4.png"
+      },
+      {
+        "id": "crate-4836",
+        "name": "Antwerp 2022 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_mirage.6fd89e7b1aa99b499085b3ee4d1bc9babe9f0149.png"
+      },
+      {
+        "id": "crate-4861",
+        "name": "Rio 2022 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_mirage.090f18086981df3dbebc2e851f7902f6b9238c3c.png"
+      },
+      {
+        "id": "crate-4894",
+        "name": "Paris 2023 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_mirage.0e826d4e643335cc00448f83a61f68ed1f877bfe.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_sp_zebracam_red_light.png"
+  },
+  {
+    "id": "skin-2625264",
+    "name": "SSG 08 | Fever Dream",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_ssg08_fever_dream",
+      "name": "Fever Dream"
+    },
+    "min_float": 0,
+    "max_float": 0.72,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "956",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-25",
+        "name": "The Prisma 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_25.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4695",
+        "name": "Prisma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_25.ef3b4b9eeb6cd8c29eb79e23ceb8205d40df4b55.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_cu_ssg08_fever_dream_light.png"
+  },
+  {
+    "id": "skin-2625308",
+    "name": "SSG 08 | Mainframe 001",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_ssg08_mainframe",
+      "name": "Mainframe 001"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "967",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-26",
+        "name": "The Fracture Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_26.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4698",
+        "name": "Fracture Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_26.b25098af5a4285004052786e261be43dec5b89cf.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_cu_ssg08_mainframe_light.png"
+  },
+  {
+    "id": "skin-2625396",
+    "name": "SSG 08 | Parallax",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_ssg08_chromatic",
+      "name": "Parallax"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "989",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-27",
+        "name": "The Operation Broken Fang Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_27.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_27.410809461956f26e23d1268152af7bdea7875fb0.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_cu_ssg08_chromatic_light.png"
+  },
+  {
+    "id": "skin-2625424",
+    "name": "SSG 08 | Threat Detected",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "am_intelligence_orange",
+      "name": "Threat Detected"
+    },
+    "min_float": 0,
+    "max_float": 0.65,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "996",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-op10-ct",
+        "name": "The Control Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_op10_ct.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_am_intelligence_orange_light.png"
+  },
+  {
+    "id": "skin-2625648",
+    "name": "SSG 08 | Death Strike",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_ssg08_scorpion",
+      "name": "Death Strike"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "1052",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-dust-2-2021",
+        "name": "The 2021 Dust 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2_2021.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4811",
+        "name": "Stockholm 2021 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_dust2.f63b1e6c0b61cbb091decd12b651c44b90952428.png"
+      },
+      {
+        "id": "crate-4837",
+        "name": "Antwerp 2022 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_dust2.34c2ad7fef5af8760c1b821cc291b2ae2aeaa46a.png"
+      },
+      {
+        "id": "crate-4862",
+        "name": "Rio 2022 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_dust2.f534f7ac83a32ec4917ec1fa488c5407b056b749.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_cu_ssg08_scorpion_light.png"
+  },
+  {
+    "id": "skin-2625680",
+    "name": "SSG 08 | Spring Twilly",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "hy_trainarchitect_green",
+      "name": "Spring Twilly"
+    },
+    "min_float": 0,
+    "max_float": 0.55,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1060",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-train-2021",
+        "name": "The 2021 Train Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_train_2021.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_hy_trainarchitect_green_light.png"
+  },
+  {
+    "id": "skin-2625844",
+    "name": "SSG 08 | Turbo Peek",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_ssg_overtake",
+      "name": "Turbo Peek"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1101",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-29",
+        "name": "The Operation Riptide Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_29.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4790",
+        "name": "Operation Riptide Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_29.9b830067732b4de110c01fb24cd067a3061b43a8.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_cu_ssg_overtake_light.png"
+  },
+  {
+    "id": "skin-2626444",
+    "name": "SSG 08 | Azure Glyph",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
+    "weapon": {
+      "id": "weapon_ssg08",
+      "name": "SSG 08"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "gs_ssg08_anubis",
+      "name": "Azure Glyph"
+    },
+    "min_float": 0.01,
+    "max_float": 0.99,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "1251",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-anubis",
+        "name": "The Anubis Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/e2f2a36bd13cefa1f798e03e8f2cc98ee96c1304/public/images/set_anubis.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4882",
+        "name": "Anubis Collection Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_anubis_storepromo.652ce0f3f70f92157591a29d3e36f2cebcc27f64.png"
+      },
+      {
+        "id": "crate-4895",
+        "name": "Paris 2023 Anubis Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_anubis.eb3566385d460dd1510e0f147d9698309f5b7011.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_ssg08_gs_ssg08_anubis_light.png"
+  }
+]

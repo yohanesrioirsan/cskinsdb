@@ -1,0 +1,726 @@
+[
+  {
+    "id": "skin-33947668",
+    "name": "★ Survival Knife | Forest DDPAT",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts.",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_ddpat",
+      "name": "Forest DDPAT"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "5",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4620",
+        "name": "Shattered Web Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_23.3248a20393f5e73c0ee99448b994e89381565353.png"
+      },
+      {
+        "id": "crate-4698",
+        "name": "Fracture Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_26.b25098af5a4285004052786e261be43dec5b89cf.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_canis_hy_ddpat_light.png"
+  },
+  {
+    "id": "skin-33947696",
+    "name": "★ Survival Knife | Crimson Web",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts.",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_webs",
+      "name": "Crimson Web"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "12",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4620",
+        "name": "Shattered Web Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_23.3248a20393f5e73c0ee99448b994e89381565353.png"
+      },
+      {
+        "id": "crate-4698",
+        "name": "Fracture Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_26.b25098af5a4285004052786e261be43dec5b89cf.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_canis_hy_webs_light.png"
+  },
+  {
+    "id": "skin-33947800",
+    "name": "★ Survival Knife | Fade",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts.",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "aa_fade",
+      "name": "Fade"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "38",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4620",
+        "name": "Shattered Web Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_23.3248a20393f5e73c0ee99448b994e89381565353.png"
+      },
+      {
+        "id": "crate-4698",
+        "name": "Fracture Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_26.b25098af5a4285004052786e261be43dec5b89cf.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_canis_aa_fade_light.png"
+  },
+  {
+    "id": "skin-33947816",
+    "name": "★ Survival Knife | Blue Steel",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts.",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "aq_blued",
+      "name": "Blue Steel"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "42",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4620",
+        "name": "Shattered Web Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_23.3248a20393f5e73c0ee99448b994e89381565353.png"
+      },
+      {
+        "id": "crate-4698",
+        "name": "Fracture Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_26.b25098af5a4285004052786e261be43dec5b89cf.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_canis_aq_blued_light.png"
+  },
+  {
+    "id": "skin-33947820",
+    "name": "★ Survival Knife | Stained",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts.",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "aq_forced",
+      "name": "Stained"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "43",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4620",
+        "name": "Shattered Web Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_23.3248a20393f5e73c0ee99448b994e89381565353.png"
+      },
+      {
+        "id": "crate-4698",
+        "name": "Fracture Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_26.b25098af5a4285004052786e261be43dec5b89cf.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_canis_aq_forced_light.png"
+  },
+  {
+    "id": "skin-33947824",
+    "name": "★ Survival Knife | Case Hardened",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts.",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "aq_oiled",
+      "name": "Case Hardened"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "44",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4620",
+        "name": "Shattered Web Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_23.3248a20393f5e73c0ee99448b994e89381565353.png"
+      },
+      {
+        "id": "crate-4698",
+        "name": "Fracture Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_26.b25098af5a4285004052786e261be43dec5b89cf.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_canis_aq_oiled_light.png"
+  },
+  {
+    "id": "skin-33947884",
+    "name": "★ Survival Knife | Slaughter",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts.",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_zebra",
+      "name": "Slaughter"
+    },
+    "min_float": 0.01,
+    "max_float": 0.26,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "59",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4620",
+        "name": "Shattered Web Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_23.3248a20393f5e73c0ee99448b994e89381565353.png"
+      },
+      {
+        "id": "crate-4698",
+        "name": "Fracture Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_26.b25098af5a4285004052786e261be43dec5b89cf.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_canis_am_zebra_light.png"
+  },
+  {
+    "id": "skin-33947936",
+    "name": "★ Survival Knife | Safari Mesh",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts.",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_mesh_tan",
+      "name": "Safari Mesh"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "72",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4620",
+        "name": "Shattered Web Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_23.3248a20393f5e73c0ee99448b994e89381565353.png"
+      },
+      {
+        "id": "crate-4698",
+        "name": "Fracture Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_26.b25098af5a4285004052786e261be43dec5b89cf.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_canis_sp_mesh_tan_light.png"
+  },
+  {
+    "id": "skin-33947956",
+    "name": "★ Survival Knife | Boreal Forest",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts.",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_forest_boreal",
+      "name": "Boreal Forest"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "77",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4620",
+        "name": "Shattered Web Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_23.3248a20393f5e73c0ee99448b994e89381565353.png"
+      },
+      {
+        "id": "crate-4698",
+        "name": "Fracture Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_26.b25098af5a4285004052786e261be43dec5b89cf.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_canis_hy_forest_boreal_light.png"
+  },
+  {
+    "id": "skin-33948220",
+    "name": "★ Survival Knife | Urban Masked",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts.",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_tape_urban",
+      "name": "Urban Masked"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "143",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4620",
+        "name": "Shattered Web Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_23.3248a20393f5e73c0ee99448b994e89381565353.png"
+      },
+      {
+        "id": "crate-4698",
+        "name": "Fracture Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_26.b25098af5a4285004052786e261be43dec5b89cf.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_canis_sp_tape_urban_light.png"
+  },
+  {
+    "id": "skin-33948348",
+    "name": "★ Survival Knife | Scorched",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts.",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_dapple",
+      "name": "Scorched"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "175",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4620",
+        "name": "Shattered Web Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_23.3248a20393f5e73c0ee99448b994e89381565353.png"
+      },
+      {
+        "id": "crate-4698",
+        "name": "Fracture Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_26.b25098af5a4285004052786e261be43dec5b89cf.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_canis_sp_dapple_light.png"
+  },
+  {
+    "id": "skin-33950588",
+    "name": "★ Survival Knife | Night Stripe",
+    "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts.",
+    "weapon": {
+      "id": "weapon_knife_canis",
+      "name": "Survival Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_nightstripe",
+      "name": "Night Stripe"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "735",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4620",
+        "name": "Shattered Web Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_23.3248a20393f5e73c0ee99448b994e89381565353.png"
+      },
+      {
+        "id": "crate-4698",
+        "name": "Fracture Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_26.b25098af5a4285004052786e261be43dec5b89cf.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_canis_sp_nightstripe_light.png"
+  }
+]

@@ -1,0 +1,2415 @@
+[
+  {
+    "id": "skin-524324",
+    "name": "AUG | Bengal Tiger",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "hy_tiger",
+      "name": "Bengal Tiger"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "9",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-esports-iii",
+        "name": "The eSports 2014 Summer Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_esports_iii.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4019",
+        "name": "eSports 2014 Summer Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2014_summer.e579e3f7ca004fd9b51aa0f597590c936bb9f67c.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_hy_tiger_light.png"
+  },
+  {
+    "id": "skin-524328",
+    "name": "AUG | Copperhead",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "hy_copperhead",
+      "name": "Copperhead"
+    },
+    "min_float": 0.12,
+    "max_float": 0.38,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "10",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-dust",
+        "name": "The Dust Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_hy_copperhead_light.png"
+  },
+  {
+    "id": "skin-524420",
+    "name": "AUG | Hot Rod",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "an_red",
+      "name": "Hot Rod"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "33",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-assault",
+        "name": "The Assault Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_assault.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_an_red_light.png"
+  },
+  {
+    "id": "skin-524472",
+    "name": "AUG | Contractor",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "so_pmc",
+      "name": "Contractor"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "46",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-italy",
+        "name": "The Italy Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_italy.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_so_pmc_light.png"
+  },
+  {
+    "id": "skin-524476",
+    "name": "AUG | Colony",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "so_space_marine",
+      "name": "Colony"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "47",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-mirage",
+        "name": "The Mirage Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_mirage.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4024",
+        "name": "ESL One Cologne 2014 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_mirage.9b14fdeb121fc012013496c6e78ff1f7212135bb.png"
+      },
+      {
+        "id": "crate-4033",
+        "name": "DreamHack 2014 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_dhw14_promo_de_mirage.f7fd41fa75f398759589c4a42981c67693738f30.png"
+      },
+      {
+        "id": "crate-4081",
+        "name": "ESL One Katowice 2015 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslkatowice2015_promo_de_mirage.3c168637f2a150e95b0bc786dc364128a627d5d1.png"
+      },
+      {
+        "id": "crate-4132",
+        "name": "ESL One Cologne 2015 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslcologne2015_promo_de_mirage.cd633c421896f165a2575204d9d5f908499a918a.png"
+      },
+      {
+        "id": "crate-4177",
+        "name": "DreamHack Cluj-Napoca 2015 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cluj2015_promo_de_mirage.4bd48ff1973049af65f5439ca4d08cd91fb2b0c9.png"
+      },
+      {
+        "id": "crate-4226",
+        "name": "MLG Columbus 2016 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_columbus2016_promo_de_mirage.bbb2b84e6d14d9d7634475dad482ada35977eaa3.png"
+      },
+      {
+        "id": "crate-4275",
+        "name": "Cologne 2016 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cologne2016_promo_de_mirage.22a4700e330b3fbc7161c1b98c13aee8edeb2ba3.png"
+      },
+      {
+        "id": "crate-4345",
+        "name": "Atlanta 2017 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_atlanta2017_promo_de_mirage.e4743d9aff1ac76c8bd57c24706eb9bb7684e5ec.png"
+      },
+      {
+        "id": "crate-4397",
+        "name": "Krakow 2017 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_krakow2017_promo_de_mirage.ce90364134b366b08ec65f0048ba32f354a89f07.png"
+      },
+      {
+        "id": "crate-4464",
+        "name": "Boston 2018 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_boston2018_promo_de_mirage.35c3e485b0f955511dac55d6f4a817a57ea3dbe5.png"
+      },
+      {
+        "id": "crate-4541",
+        "name": "London 2018 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_mirage.009d901f9a204073dddea7113a5577ef5a360fc7.png"
+      },
+      {
+        "id": "crate-4591",
+        "name": "Katowice 2019 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_mirage.a8b296d35c5d363b65c6ee39fe9bb3f8febea2d3.png"
+      },
+      {
+        "id": "crate-4661",
+        "name": "Berlin 2019 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_mirage.10c013a74e2c34c2c51cd7183897b1f3f9075b21.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_so_space_marine_light.png"
+  },
+  {
+    "id": "skin-524580",
+    "name": "AUG | Wings",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "hy_feathers_aug",
+      "name": "Wings"
+    },
+    "min_float": 0,
+    "max_float": 0.14,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "73",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-weapons-i",
+        "name": "The Arms Deal Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_weapons_i.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4001",
+        "name": "CS:GO Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_1.23c783d005b446a1004c97057cfb5ac2d8dae186.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_hy_feathers_aug_light.png"
+  },
+  {
+    "id": "skin-524688",
+    "name": "AUG | Storm",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "so_stormfront",
+      "name": "Storm"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "100",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-lake",
+        "name": "The Lake Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_lake.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_so_stormfront_light.png"
+  },
+  {
+    "id": "skin-524728",
+    "name": "AUG | Condemned",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "sp_mesh_forest_fire",
+      "name": "Condemned"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "110",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-safehouse",
+        "name": "The Safehouse Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_safehouse.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_sp_mesh_forest_fire_light.png"
+  },
+  {
+    "id": "skin-525076",
+    "name": "AUG | Anodized Navy",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "an_navy_bravo",
+      "name": "Anodized Navy"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "197",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-bravo-ii",
+        "name": "The Alpha Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_bravo_ii.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_an_navy_bravo_light.png"
+  },
+  {
+    "id": "skin-525272",
+    "name": "AUG | Amber Fade",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "aa_fade_metallic",
+      "name": "Amber Fade"
+    },
+    "min_float": 0,
+    "max_float": 0.4,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "246",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-train-2021",
+        "name": "The 2021 Train Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_train_2021.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_aa_fade_metallic_light.png"
+  },
+  {
+    "id": "skin-525408",
+    "name": "AUG | Chameleon",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_aug_chameleonaire",
+      "name": "Chameleon"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "280",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-2",
+        "name": "The Phoenix Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_2.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4011",
+        "name": "Operation Phoenix Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_2.49174abddcccb6519b83d27d0cff476e1c44cc57.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_cu_aug_chameleonaire_light.png"
+  },
+  {
+    "id": "skin-525508",
+    "name": "AUG | Torque",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_aug_progressiv",
+      "name": "Torque"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "305",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-3",
+        "name": "The Huntsman Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_3.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4017",
+        "name": "Huntsman Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_3.ce832a92f9fc329dc87d7a802374b918b07cdb84.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_cu_aug_progressiv_light.png"
+  },
+  {
+    "id": "skin-525788",
+    "name": "AUG | Radiation Hazard",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "sp_nukestripe_orange_aug",
+      "name": "Radiation Hazard"
+    },
+    "min_float": 0,
+    "max_float": 0.55,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "375",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-cache",
+        "name": "The Cache Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_cache.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4026",
+        "name": "ESL One Cologne 2014 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_cache.374ca6f8841a65c1890fc6f24f2a084c523ea9f8.png"
+      },
+      {
+        "id": "crate-4035",
+        "name": "DreamHack 2014 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_dhw14_promo_de_cache.191893690c5fd8c410daf933071e9ffe22b655e4.png"
+      },
+      {
+        "id": "crate-4083",
+        "name": "ESL One Katowice 2015 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslkatowice2015_promo_de_cache.e3d4caa342c69142c0fb59c11b1bea091f5bc441.png"
+      },
+      {
+        "id": "crate-4136",
+        "name": "ESL One Cologne 2015 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslcologne2015_promo_de_cache.c9cea9d03c09a923524379c6706f3851ccc750df.png"
+      },
+      {
+        "id": "crate-4181",
+        "name": "DreamHack Cluj-Napoca 2015 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cluj2015_promo_de_cache.3bf78784a8d6b49ba2d1d95917b2edd167ef577a.png"
+      },
+      {
+        "id": "crate-4230",
+        "name": "MLG Columbus 2016 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_columbus2016_promo_de_cache.f0f2c5b00fca82486aa0dccf8b3c2200db618289.png"
+      },
+      {
+        "id": "crate-4278",
+        "name": "Cologne 2016 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cologne2016_promo_de_cache.6233f9fc52acf0956b23dc4b168f8d611d9ac8c7.png"
+      },
+      {
+        "id": "crate-4348",
+        "name": "Atlanta 2017 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_atlanta2017_promo_de_cache.6ec62b0923e3347faef891d0acff28ae37b1c1ae.png"
+      },
+      {
+        "id": "crate-4400",
+        "name": "Krakow 2017 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_krakow2017_promo_de_cache.d2e97ade896a42adbb7f16920cdeb9ce71281022.png"
+      },
+      {
+        "id": "crate-4467",
+        "name": "Boston 2018 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_boston2018_promo_de_cache.5b3feaa264381bb5eed8f06bf8a8df5ef6d59313.png"
+      },
+      {
+        "id": "crate-4544",
+        "name": "London 2018 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_cache.ecbdd69c85012fe6f09b83484572fcd430990571.png"
+      },
+      {
+        "id": "crate-4594",
+        "name": "Katowice 2019 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_cache.f450df7d0dd77551d2e8a4758737603919dc8582.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_sp_nukestripe_orange_aug_light.png"
+  },
+  {
+    "id": "skin-526064",
+    "name": "AUG | Daedalus",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "sp_labyrinth3",
+      "name": "Daedalus"
+    },
+    "min_float": 0,
+    "max_float": 0.55,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "444",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-gods-and-monsters",
+        "name": "The Gods and Monsters Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_gods_and_monsters.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_sp_labyrinth3_light.png"
+  },
+  {
+    "id": "skin-526108",
+    "name": "AUG | Akihabara Accept",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_anime_aug",
+      "name": "Akihabara Accept"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "455",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-kimono",
+        "name": "The Rising Sun Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_kimono.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_cu_anime_aug_light.png"
+  },
+  {
+    "id": "skin-526316",
+    "name": "AUG | Ricochet",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "am_aug_jumble",
+      "name": "Ricochet"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "507",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-10",
+        "name": "The Revolver Case Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_10.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4186",
+        "name": "Revolver Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_10.a7a2e0b4f6ee7a99b25c531b2d3bdef5147200f7.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_am_aug_jumble_light.png"
+  },
+  {
+    "id": "skin-526452",
+    "name": "AUG | Fleet Flock",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_aug_swallows",
+      "name": "Fleet Flock"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "541",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-12",
+        "name": "The Chroma 3 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_12.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_12.7555fc0b45c4d1e0ff1c117af393463f29f20f66.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_cu_aug_swallows_light.png"
+  },
+  {
+    "id": "skin-526620",
+    "name": "AUG | Aristocrat",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "gs_aug_aristocrat",
+      "name": "Aristocrat"
+    },
+    "min_float": 0,
+    "max_float": 0.66,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "583",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-13",
+        "name": "The Gamma Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_13.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4236",
+        "name": "Gamma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_13.9a7d2f757ddbdc915aa005def74ac186a457346a.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_gs_aug_aristocrat_light.png"
+  },
+  {
+    "id": "skin-526692",
+    "name": "AUG | Syd Mead",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "gs_aug_syd_mead",
+      "name": "Syd Mead"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "601",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-gamma-2",
+        "name": "The Gamma 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_gamma_2.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4281",
+        "name": "Gamma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_gamma_2.ab916b78e7093039642cc7538466bf87cf314363.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_gs_aug_syd_mead_light.png"
+  },
+  {
+    "id": "skin-526984",
+    "name": "AUG | Triqua",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_aug_orange_triangle",
+      "name": "Triqua"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "674",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-18",
+        "name": "The Spectrum 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_18.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4403",
+        "name": "Spectrum 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_18.4255d9e03d5dad034bbe868622733deeb81434c1.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_cu_aug_orange_triangle_light.png"
+  },
+  {
+    "id": "skin-527048",
+    "name": "AUG | Stymphalian",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "gs_aug_stymphalian_birds",
+      "name": "Stymphalian"
+    },
+    "min_float": 0,
+    "max_float": 0.63,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "690",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-19",
+        "name": "The Clutch Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_19.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4471",
+        "name": "Clutch Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_19.982c3a44362ee65b192b359c12d3d3af9ecb56b2.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_gs_aug_stymphalian_birds_light.png"
+  },
+  {
+    "id": "skin-527120",
+    "name": "AUG | Amber Slipstream",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "hy_aug_torn_orange",
+      "name": "Amber Slipstream"
+    },
+    "min_float": 0,
+    "max_float": 0.55,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "708",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-20",
+        "name": "The Horizon Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_20.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4482",
+        "name": "Horizon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_20.efee8198ed2e0b6ab4b5bb1e99be04a1308b43fe.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_hy_aug_torn_orange_light.png"
+  },
+  {
+    "id": "skin-527196",
+    "name": "AUG | Midnight Lily",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "am_bloom_blue",
+      "name": "Midnight Lily"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "727",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-stmarc",
+        "name": "The St. Marc Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_stmarc.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_am_bloom_blue_light.png"
+  },
+  {
+    "id": "skin-527248",
+    "name": "AUG | Navy Murano",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "hy_murano_blue",
+      "name": "Navy Murano"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "740",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-canals",
+        "name": "The Canals Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_canals.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_hy_murano_blue_light.png"
+  },
+  {
+    "id": "skin-527320",
+    "name": "AUG | Flame Jörmungandr",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "am_jorm_orange",
+      "name": "Flame Jörmungandr"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "758",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-norse",
+        "name": "The Norse Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_norse.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_am_jorm_orange_light.png"
+  },
+  {
+    "id": "skin-527404",
+    "name": "AUG | Random Access",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "am_circuitboard_orange",
+      "name": "Random Access"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "779",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-nuke-2",
+        "name": "The 2018 Nuke Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_nuke_2.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4546",
+        "name": "London 2018 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_nuke.c5a435706f7a023e26c27c4b44ecd5467a6a0751.png"
+      },
+      {
+        "id": "crate-4596",
+        "name": "Katowice 2019 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_nuke.11aecd5c30f7ff4a7e5633e11c1f92c7436f7238.png"
+      },
+      {
+        "id": "crate-4665",
+        "name": "Berlin 2019 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_nuke.d5ccbe093d09b47d2007ec613d1043debece329b.png"
+      },
+      {
+        "id": "crate-4814",
+        "name": "Stockholm 2021 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_nuke.1fe24dddabe5b67b42dc78fe9a4b05bbca5129ce.png"
+      },
+      {
+        "id": "crate-4840",
+        "name": "Antwerp 2022 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_nuke.4429df1cdac6206b27343c1b2187ddd17c1f735b.png"
+      },
+      {
+        "id": "crate-4865",
+        "name": "Rio 2022 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_nuke.77e9c0952c566be48bfe22d15fe1f19f4c975a22.png"
+      },
+      {
+        "id": "crate-4898",
+        "name": "Paris 2023 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_nuke.a486bc5278ce6d21c7dd9a41740af49e74c15726.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_am_circuitboard_orange_light.png"
+  },
+  {
+    "id": "skin-527464",
+    "name": "AUG | Sweeper",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "sp_mesh_safetyblack",
+      "name": "Sweeper"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "794",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-inferno-2",
+        "name": "The 2018 Inferno Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_inferno_2.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4540",
+        "name": "London 2018 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_inferno.07dbf5526d87ab866da5af57682ffcdfd59362a5.png"
+      },
+      {
+        "id": "crate-4590",
+        "name": "Katowice 2019 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_inferno.d5b7d5c77ba7cf4e7f9296f8693e5cfae42f2644.png"
+      },
+      {
+        "id": "crate-4660",
+        "name": "Berlin 2019 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_inferno.00a259328607042322ca7cbc5fe16b2d4162f553.png"
+      },
+      {
+        "id": "crate-4809",
+        "name": "Stockholm 2021 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_inferno.db7770ae6dbb5369e8301eae1941fbaf342f9413.png"
+      },
+      {
+        "id": "crate-4835",
+        "name": "Antwerp 2022 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_inferno.bbafa6dc6366b53b52fe2e5505063c3d22a9d5e8.png"
+      },
+      {
+        "id": "crate-4860",
+        "name": "Rio 2022 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_inferno.8436644b919dfd7b507765755a2c6d947aa043bd.png"
+      },
+      {
+        "id": "crate-4893",
+        "name": "Paris 2023 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_inferno.6b9e8ab53a451035b0f38e60f64a531a64d83352.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_sp_mesh_safetyblack_light.png"
+  },
+  {
+    "id": "skin-527580",
+    "name": "AUG | Sand Storm",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "gs_aug_sand_storm",
+      "name": "Sand Storm"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "823",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-mirage-2021",
+        "name": "The 2021 Mirage Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_mirage_2021.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4810",
+        "name": "Stockholm 2021 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_mirage.bc6d1bdc42baa20b92469f4e88c5d19f1db2f3a4.png"
+      },
+      {
+        "id": "crate-4836",
+        "name": "Antwerp 2022 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_mirage.6fd89e7b1aa99b499085b3ee4d1bc9babe9f0149.png"
+      },
+      {
+        "id": "crate-4861",
+        "name": "Rio 2022 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_mirage.090f18086981df3dbebc2e851f7902f6b9238c3c.png"
+      },
+      {
+        "id": "crate-4894",
+        "name": "Paris 2023 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_mirage.0e826d4e643335cc00448f83a61f68ed1f877bfe.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_gs_aug_sand_storm_light.png"
+  },
+  {
+    "id": "skin-527668",
+    "name": "AUG | Momentum",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_aug_momentum",
+      "name": "Momentum"
+    },
+    "min_float": 0.05,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "845",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-22",
+        "name": "The Prisma Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_22.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4598",
+        "name": "Prisma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_22.f223dd42c8d4c3ecf5a03b27416cb523f493d8af.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_cu_aug_momentum_light.png"
+  },
+  {
+    "id": "skin-527832",
+    "name": "AUG | Arctic Wolf",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_aug_whitefang",
+      "name": "Arctic Wolf"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "886",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-23",
+        "name": "The Shattered Web Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_23.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4620",
+        "name": "Shattered Web Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_23.3248a20393f5e73c0ee99448b994e89381565353.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_cu_aug_whitefang_light.png"
+  },
+  {
+    "id": "skin-527940",
+    "name": "AUG | Death by Puppy",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "am_aug_death_by_doggy",
+      "name": "Death by Puppy"
+    },
+    "min_float": 0,
+    "max_float": 0.4,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "913",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-24",
+        "name": "The CS20 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_24.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4669",
+        "name": "CS20 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_24.2b3bab86cb5b63a196342af58c0e4c82986ab54d.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_am_aug_death_by_doggy_light.png"
+  },
+  {
+    "id": "skin-527996",
+    "name": "AUG | Spalted Wood",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "hy_dry_wood",
+      "name": "Spalted Wood"
+    },
+    "min_float": 0,
+    "max_float": 0.48,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "927",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-dust-2-2021",
+        "name": "The 2021 Dust 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2_2021.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4811",
+        "name": "Stockholm 2021 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_dust2.f63b1e6c0b61cbb091decd12b651c44b90952428.png"
+      },
+      {
+        "id": "crate-4837",
+        "name": "Antwerp 2022 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_dust2.34c2ad7fef5af8760c1b821cc291b2ae2aeaa46a.png"
+      },
+      {
+        "id": "crate-4862",
+        "name": "Rio 2022 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_dust2.f534f7ac83a32ec4917ec1fa488c5407b056b749.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_hy_dry_wood_light.png"
+  },
+  {
+    "id": "skin-528056",
+    "name": "AUG | Tom Cat",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "gs_aug_thunderstorm",
+      "name": "Tom Cat"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "942",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-25",
+        "name": "The Prisma 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_25.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4695",
+        "name": "Prisma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_25.ef3b4b9eeb6cd8c29eb79e23ceb8205d40df4b55.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_gs_aug_thunderstorm_light.png"
+  },
+  {
+    "id": "skin-528268",
+    "name": "AUG | Surveillance",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "am_intelligence_grey",
+      "name": "Surveillance"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "995",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-op10-ct",
+        "name": "The Control Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_op10_ct.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_am_intelligence_grey_light.png"
+  },
+  {
+    "id": "skin-528420",
+    "name": "AUG | Carved Jade",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "am_jade",
+      "name": "Carved Jade"
+    },
+    "min_float": 0,
+    "max_float": 0.2,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "1033",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-op10-ancient",
+        "name": "The Ancient Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_op10_ancient.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4813",
+        "name": "Stockholm 2021 Ancient Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_ancient.29085e1a3b545970b4f323999169d711a73673d2.png"
+      },
+      {
+        "id": "crate-4839",
+        "name": "Antwerp 2022 Ancient Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_ancient.be9d7d23627870d11893a4dd8a57a063cec07b03.png"
+      },
+      {
+        "id": "crate-4864",
+        "name": "Rio 2022 Ancient Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_ancient.62851c1371620fd30067840032874561d5b0a5d3.png"
+      },
+      {
+        "id": "crate-4897",
+        "name": "Paris 2023 Ancient Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_ancient.3f0d4072a23afdf75c3f8faf739d85825dde9e7c.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_am_jade_light.png"
+  },
+  {
+    "id": "skin-528640",
+    "name": "AUG | Plague",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "gs_aug_plague",
+      "name": "Plague"
+    },
+    "min_float": 0,
+    "max_float": 0.76,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1088",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-29",
+        "name": "The Operation Riptide Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_29.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4790",
+        "name": "Operation Riptide Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_29.9b830067732b4de110c01fb24cd067a3061b43a8.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_gs_aug_plague_light.png"
+  },
+  {
+    "id": "skin-529284",
+    "name": "AUG | Snake Pit",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
+    "weapon": {
+      "id": "weapon_aug",
+      "name": "AUG"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "hy_dune_trap",
+      "name": "Snake Pit"
+    },
+    "min_float": 0,
+    "max_float": 0.55,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "1249",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-anubis",
+        "name": "The Anubis Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/e2f2a36bd13cefa1f798e03e8f2cc98ee96c1304/public/images/set_anubis.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4882",
+        "name": "Anubis Collection Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_anubis_storepromo.652ce0f3f70f92157591a29d3e36f2cebcc27f64.png"
+      },
+      {
+        "id": "crate-4895",
+        "name": "Paris 2023 Anubis Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_anubis.eb3566385d460dd1510e0f147d9698309f5b7011.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_aug_hy_dune_trap_light.png"
+  }
+]

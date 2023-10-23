@@ -1,0 +1,2542 @@
+[
+  {
+    "id": "skin-1966088",
+    "name": "Tec-9 | Groundwater",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "so_olive",
+      "name": "Groundwater"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "2",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-italy",
+        "name": "The Italy Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_italy.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_so_olive_light.png"
+  },
+  {
+    "id": "skin-1966148",
+    "name": "Tec-9 | Urban DDPAT",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "hy_ddpat_urb",
+      "name": "Urban DDPAT"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "17",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-bank",
+        "name": "The Bank Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_bank.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_hy_ddpat_urb_light.png"
+  },
+  {
+    "id": "skin-1966224",
+    "name": "Tec-9 | Ossified",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "am_ossify",
+      "name": "Ossified"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "36",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-aztec",
+        "name": "The Aztec Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_aztec.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_am_ossify_light.png"
+  },
+  {
+    "id": "skin-1966716",
+    "name": "Tec-9 | Brass",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "aq_brass",
+      "name": "Brass"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "159",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-inferno",
+        "name": "The Inferno Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_inferno.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4023",
+        "name": "ESL One Cologne 2014 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_inferno.625d3ec90aeead39c10cba620cd40e971beb84b1.png"
+      },
+      {
+        "id": "crate-4032",
+        "name": "DreamHack 2014 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_dhw14_promo_de_inferno.0c362d928c221f4f464238720874a6b1dfcb2616.png"
+      },
+      {
+        "id": "crate-4080",
+        "name": "ESL One Katowice 2015 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslkatowice2015_promo_de_inferno.20668cdf600cf5679345ee1bca188258312678af.png"
+      },
+      {
+        "id": "crate-4133",
+        "name": "ESL One Cologne 2015 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslcologne2015_promo_de_inferno.a0929e27c262e59b5b1198743bc2194d92aa2ff6.png"
+      },
+      {
+        "id": "crate-4178",
+        "name": "DreamHack Cluj-Napoca 2015 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cluj2015_promo_de_inferno.3ad3cf91ea2960546126bd11421e064a5716e93d.png"
+      },
+      {
+        "id": "crate-4227",
+        "name": "MLG Columbus 2016 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_columbus2016_promo_de_inferno.bc1ef2fd8a91d14c6c2e7e2a444e2c05feb4956e.png"
+      },
+      {
+        "id": "crate-4396",
+        "name": "Krakow 2017 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_krakow2017_promo_de_inferno.740191615458fa81ee37a4f374220e5dd3ad91ea.png"
+      },
+      {
+        "id": "crate-4463",
+        "name": "Boston 2018 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_boston2018_promo_de_inferno.ebe33e799b076d3842b02bdddc98b783ea0f5ce4.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_aq_brass_light.png"
+  },
+  {
+    "id": "skin-1966796",
+    "name": "Tec-9 | Nuclear Threat",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "sp_nukestripe_green_tec9",
+      "name": "Nuclear Threat"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "179",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-nuke",
+        "name": "The Nuke Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_nuke.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4025",
+        "name": "ESL One Cologne 2014 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_nuke.0f12d84b7859a10f2d54353bb93bad94a17a97ce.png"
+      },
+      {
+        "id": "crate-4034",
+        "name": "DreamHack 2014 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_dhw14_promo_de_nuke.5385c040bab29517b9cbaefb0f63af525f2fb04e.png"
+      },
+      {
+        "id": "crate-4082",
+        "name": "ESL One Katowice 2015 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslkatowice2015_promo_de_nuke.7c963862e4c4a2b783ac45893601dbf4520b0cab.png"
+      },
+      {
+        "id": "crate-4232",
+        "name": "MLG Columbus 2016 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_columbus2016_promo_de_nuke.7a231ae8e8be1de61cc92ee5d6ce6d7cd9e3e9c6.png"
+      },
+      {
+        "id": "crate-4280",
+        "name": "Cologne 2016 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cologne2016_promo_de_nuke.7f36906aa5ad77f39c0a17a9bcc0988b95d76157.png"
+      },
+      {
+        "id": "crate-4350",
+        "name": "Atlanta 2017 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_atlanta2017_promo_de_nuke.f9c3a5c9125a951181c52d43b6b123e21d867440.png"
+      },
+      {
+        "id": "crate-4402",
+        "name": "Krakow 2017 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_krakow2017_promo_de_nuke.e65a7276a2c7120a936a28fd620c8ad293b8d715.png"
+      },
+      {
+        "id": "crate-4469",
+        "name": "Boston 2018 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_boston2018_promo_de_nuke.9d83d9e841a7a06e01c0c7ce41b6af70026e6342.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_sp_nukestripe_green_tec9_light.png"
+  },
+  {
+    "id": "skin-1966904",
+    "name": "Tec-9 | Tornado",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "so_tornado_bravo",
+      "name": "Tornado"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "206",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-bravo-ii",
+        "name": "The Alpha Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_bravo_ii.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_so_tornado_bravo_light.png"
+  },
+  {
+    "id": "skin-1966944",
+    "name": "Tec-9 | Blue Titanium",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "an_titanium30v",
+      "name": "Blue Titanium"
+    },
+    "min_float": 0,
+    "max_float": 0.04,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "216",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-weapons-ii",
+        "name": "The Arms Deal 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_weapons_ii.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4004",
+        "name": "CS:GO Weapon Case 2",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_2.912031176f2320d2d39f449ab3e27c41f5ec7faa.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_an_titanium30v_light.png"
+  },
+  {
+    "id": "skin-1967020",
+    "name": "Tec-9 | VariCamo",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "hy_varicamo",
+      "name": "VariCamo"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "235",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-dust-2",
+        "name": "The Dust 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4022",
+        "name": "ESL One Cologne 2014 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_dust2.df8e342f4a1dcae65825ee67238c8c7319d35316.png"
+      },
+      {
+        "id": "crate-4031",
+        "name": "DreamHack 2014 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_dhw14_promo_de_dust2.1c381563a79ad42c2e10da7313f6b97242e97d2c.png"
+      },
+      {
+        "id": "crate-4079",
+        "name": "ESL One Katowice 2015 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslkatowice2015_promo_de_dust2.fdd533379af9f88b554611acfb06c49717109b3b.png"
+      },
+      {
+        "id": "crate-4131",
+        "name": "ESL One Cologne 2015 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslcologne2015_promo_de_dust2.ecdaa935c5df5e374878003893bb4ffec789aed3.png"
+      },
+      {
+        "id": "crate-4176",
+        "name": "DreamHack Cluj-Napoca 2015 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cluj2015_promo_de_dust2.d21a63669620383248e5ee41eae07233f60ba381.png"
+      },
+      {
+        "id": "crate-4225",
+        "name": "MLG Columbus 2016 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_columbus2016_promo_de_dust2.cf28c5c9360806999509a6adce1c02bf30421bf8.png"
+      },
+      {
+        "id": "crate-4274",
+        "name": "Cologne 2016 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cologne2016_promo_de_dust2.a2a6c0bfb1bedb62cab626eb18f3cabad99bd55c.png"
+      },
+      {
+        "id": "crate-4344",
+        "name": "Atlanta 2017 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_atlanta2017_promo_de_dust2.81f02d867347bef8e3b3148b212fa449f1ba135c.png"
+      },
+      {
+        "id": "crate-4542",
+        "name": "London 2018 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_dust2.1da791ddf20df4175cdaaedc1c45c174ac0fb0b1.png"
+      },
+      {
+        "id": "crate-4592",
+        "name": "Katowice 2019 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_dust2.612588f56092dad67e7ec82305d5e77bd3b11712.png"
+      },
+      {
+        "id": "crate-4662",
+        "name": "Berlin 2019 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_dust2.453710acd555cc42301fcfc948a5bd53f08b2ce5.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_hy_varicamo_light.png"
+  },
+  {
+    "id": "skin-1967048",
+    "name": "Tec-9 | Army Mesh",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "sp_mesh_army",
+      "name": "Army Mesh"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "242",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-safehouse",
+        "name": "The Safehouse Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_safehouse.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_sp_mesh_army_light.png"
+  },
+  {
+    "id": "skin-1967072",
+    "name": "Tec-9 | Red Quartz",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "am_crystallized",
+      "name": "Red Quartz"
+    },
+    "min_float": 0,
+    "max_float": 0.4,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "248",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-train",
+        "name": "The Train Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_train.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4137",
+        "name": "ESL One Cologne 2015 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslcologne2015_promo_de_train.a7f35dc2af6523bae268f2d289f8e2401cc93418.png"
+      },
+      {
+        "id": "crate-4182",
+        "name": "DreamHack Cluj-Napoca 2015 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cluj2015_promo_de_train.0d90a1abb8c5a7a925c964993fbe5fc491dbef7f.png"
+      },
+      {
+        "id": "crate-4231",
+        "name": "MLG Columbus 2016 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_columbus2016_promo_de_train.8e6d7a5c7031a0f374d5671ef2c3430521443813.png"
+      },
+      {
+        "id": "crate-4279",
+        "name": "Cologne 2016 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cologne2016_promo_de_train.9d07311ba0f80e6f9765fc0ce4e2198ed46d3c62.png"
+      },
+      {
+        "id": "crate-4349",
+        "name": "Atlanta 2017 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_atlanta2017_promo_de_train.094d87e1e59c1186ce31cc361215e93dbac5d68d.png"
+      },
+      {
+        "id": "crate-4401",
+        "name": "Krakow 2017 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_krakow2017_promo_de_train.218a403b03c551d7b4b33e9a921f705710959c4d.png"
+      },
+      {
+        "id": "crate-4468",
+        "name": "Boston 2018 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_boston2018_promo_de_train.43b502d91d47c530d5f2dc028c31ba42ec509b6f.png"
+      },
+      {
+        "id": "crate-4545",
+        "name": "London 2018 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_train.b4d9de3fe319af138e2406a878ac4618dabee907.png"
+      },
+      {
+        "id": "crate-4595",
+        "name": "Katowice 2019 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_train.7cea24a20f8bd7e630a8c13bd7f932ec3f2cbb01.png"
+      },
+      {
+        "id": "crate-4664",
+        "name": "Berlin 2019 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_train.ad635359a453056a3e8da96bbc1cf4dac74d3387.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_am_crystallized_light.png"
+  },
+  {
+    "id": "skin-1967168",
+    "name": "Tec-9 | Titanium Bit",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "am_fluted_tec9",
+      "name": "Titanium Bit"
+    },
+    "min_float": 0,
+    "max_float": 0.2,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "272",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-weapons-iii",
+        "name": "The Arms Deal 3 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_weapons_iii.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4010",
+        "name": "CS:GO Weapon Case 3",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_valve_3.b49dc22a06991946e849c7b364b7d5876534ef61.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_am_fluted_tec9_light.png"
+  },
+  {
+    "id": "skin-1967236",
+    "name": "Tec-9 | Sandstorm",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_tec9_sandstorm",
+      "name": "Sandstorm"
+    },
+    "min_float": 0.1,
+    "max_float": 0.7,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "289",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-2",
+        "name": "The Phoenix Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_2.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4011",
+        "name": "Operation Phoenix Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_2.49174abddcccb6519b83d27d0cff476e1c44cc57.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_cu_tec9_sandstorm_light.png"
+  },
+  {
+    "id": "skin-1967292",
+    "name": "Tec-9 | Isaac",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_tec9_asiimov",
+      "name": "Isaac"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "303",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-3",
+        "name": "The Huntsman Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_3.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4017",
+        "name": "Huntsman Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_3.ce832a92f9fc329dc87d7a802374b918b07cdb84.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_cu_tec9_asiimov_light.png"
+  },
+  {
+    "id": "skin-1967576",
+    "name": "Tec-9 | Toxic",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "hy_nuclear_skulls5_tec9",
+      "name": "Toxic"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "374",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-cache",
+        "name": "The Cache Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_cache.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4026",
+        "name": "ESL One Cologne 2014 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_cache.374ca6f8841a65c1890fc6f24f2a084c523ea9f8.png"
+      },
+      {
+        "id": "crate-4035",
+        "name": "DreamHack 2014 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_dhw14_promo_de_cache.191893690c5fd8c410daf933071e9ffe22b655e4.png"
+      },
+      {
+        "id": "crate-4083",
+        "name": "ESL One Katowice 2015 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslkatowice2015_promo_de_cache.e3d4caa342c69142c0fb59c11b1bea091f5bc441.png"
+      },
+      {
+        "id": "crate-4136",
+        "name": "ESL One Cologne 2015 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslcologne2015_promo_de_cache.c9cea9d03c09a923524379c6706f3851ccc750df.png"
+      },
+      {
+        "id": "crate-4181",
+        "name": "DreamHack Cluj-Napoca 2015 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cluj2015_promo_de_cache.3bf78784a8d6b49ba2d1d95917b2edd167ef577a.png"
+      },
+      {
+        "id": "crate-4230",
+        "name": "MLG Columbus 2016 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_columbus2016_promo_de_cache.f0f2c5b00fca82486aa0dccf8b3c2200db618289.png"
+      },
+      {
+        "id": "crate-4278",
+        "name": "Cologne 2016 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cologne2016_promo_de_cache.6233f9fc52acf0956b23dc4b168f8d611d9ac8c7.png"
+      },
+      {
+        "id": "crate-4348",
+        "name": "Atlanta 2017 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_atlanta2017_promo_de_cache.6ec62b0923e3347faef891d0acff28ae37b1c1ae.png"
+      },
+      {
+        "id": "crate-4400",
+        "name": "Krakow 2017 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_krakow2017_promo_de_cache.d2e97ade896a42adbb7f16920cdeb9ce71281022.png"
+      },
+      {
+        "id": "crate-4467",
+        "name": "Boston 2018 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_boston2018_promo_de_cache.5b3feaa264381bb5eed8f06bf8a8df5ef6d59313.png"
+      },
+      {
+        "id": "crate-4544",
+        "name": "London 2018 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_cache.ecbdd69c85012fe6f09b83484572fcd430990571.png"
+      },
+      {
+        "id": "crate-4594",
+        "name": "Katowice 2019 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_cache.f450df7d0dd77551d2e8a4758737603919dc8582.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_hy_nuclear_skulls5_tec9_light.png"
+  },
+  {
+    "id": "skin-1967836",
+    "name": "Tec-9 | Hades",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "hy_hades",
+      "name": "Hades"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "439",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-gods-and-monsters",
+        "name": "The Gods and Monsters Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_gods_and_monsters.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_hy_hades_light.png"
+  },
+  {
+    "id": "skin-1967916",
+    "name": "Tec-9 | Bamboo Forest",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "hy_bamboo_jungle",
+      "name": "Bamboo Forest"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "459",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-kimono",
+        "name": "The Rising Sun Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_kimono.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_hy_bamboo_jungle_light.png"
+  },
+  {
+    "id": "skin-1967932",
+    "name": "Tec-9 | Terrace",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "hy_geometric_steps_yellow",
+      "name": "Terrace"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "463",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-kimono",
+        "name": "The Rising Sun Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_kimono.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_hy_geometric_steps_yellow_light.png"
+  },
+  {
+    "id": "skin-1968160",
+    "name": "Tec-9 | Avalanche",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_tec9_avalanche",
+      "name": "Avalanche"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "520",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-10",
+        "name": "The Revolver Case Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_10.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4186",
+        "name": "Revolver Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_10.a7a2e0b4f6ee7a99b25c531b2d3bdef5147200f7.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_cu_tec9_avalanche_light.png"
+  },
+  {
+    "id": "skin-1968236",
+    "name": "Tec-9 | Jambiya",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "gs_tec9_jambiya",
+      "name": "Jambiya"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "539",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-11",
+        "name": "The Wildfire Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_11.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4187",
+        "name": "Operation Wildfire Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_11.4839d78c3416c2036da2ed42111df77177828399.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_gs_tec9_jambiya_light.png"
+  },
+  {
+    "id": "skin-1968300",
+    "name": "Tec-9 | Re-Entry",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "am_tec9_redblast",
+      "name": "Re-Entry"
+    },
+    "min_float": 0,
+    "max_float": 0.43,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "555",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-12",
+        "name": "The Chroma 3 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_12.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_12.7555fc0b45c4d1e0ff1c117af393463f29f20f66.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_am_tec9_redblast_light.png"
+  },
+  {
+    "id": "skin-1968476",
+    "name": "Tec-9 | Ice Cap",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "am_tec_9_sea_salt",
+      "name": "Ice Cap"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "599",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-13",
+        "name": "The Gamma Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_13.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4236",
+        "name": "Gamma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_13.9a7d2f757ddbdc915aa005def74ac186a457346a.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_am_tec_9_sea_salt_light.png"
+  },
+  {
+    "id": "skin-1968536",
+    "name": "Tec-9 | Fuel Injector",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "gs_tec9_supercharged",
+      "name": "Fuel Injector"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "614",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-gamma-2",
+        "name": "The Gamma 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_gamma_2.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4281",
+        "name": "Gamma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_gamma_2.ab916b78e7093039642cc7538466bf87cf314363.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_gs_tec9_supercharged_light.png"
+  },
+  {
+    "id": "skin-1968764",
+    "name": "Tec-9 | Cut Out",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "aq_tec9_chalk_pattern",
+      "name": "Cut Out"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "671",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-17",
+        "name": "The Operation Hydra Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_17.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_17.8d4528eca229d65d0c19929ae2078aab38df1369.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_aq_tec9_chalk_pattern_light.png"
+  },
+  {
+    "id": "skin-1968816",
+    "name": "Tec-9 | Cracked Opal",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_tec9_cracked_opal",
+      "name": "Cracked Opal"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "684",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-18",
+        "name": "The Spectrum 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_18.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4403",
+        "name": "Spectrum 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_18.4255d9e03d5dad034bbe868622733deeb81434c1.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_cu_tec9_cracked_opal_light.png"
+  },
+  {
+    "id": "skin-1968968",
+    "name": "Tec-9 | Snek-9",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_tec9_snake",
+      "name": "Snek-9"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "722",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-20",
+        "name": "The Horizon Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_20.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4482",
+        "name": "Horizon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_20.efee8198ed2e0b6ab4b5bb1e99be04a1308b43fe.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_cu_tec9_snake_light.png"
+  },
+  {
+    "id": "skin-1969012",
+    "name": "Tec-9 | Rust Leaf",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "sp_leaf_orange",
+      "name": "Rust Leaf"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "733",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-stmarc",
+        "name": "The St. Marc Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_stmarc.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_sp_leaf_orange_light.png"
+  },
+  {
+    "id": "skin-1969032",
+    "name": "Tec-9 | Orange Murano",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "hy_murano_orange",
+      "name": "Orange Murano"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "738",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-canals",
+        "name": "The Canals Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_canals.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_hy_murano_orange_light.png"
+  },
+  {
+    "id": "skin-1969244",
+    "name": "Tec-9 | Remote Control",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "gs_tec9_envoy",
+      "name": "Remote Control"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "791",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-nuke-2",
+        "name": "The 2018 Nuke Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_nuke_2.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4546",
+        "name": "London 2018 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_nuke.c5a435706f7a023e26c27c4b44ecd5467a6a0751.png"
+      },
+      {
+        "id": "crate-4596",
+        "name": "Katowice 2019 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_nuke.11aecd5c30f7ff4a7e5633e11c1f92c7436f7238.png"
+      },
+      {
+        "id": "crate-4665",
+        "name": "Berlin 2019 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_nuke.d5ccbe093d09b47d2007ec613d1043debece329b.png"
+      },
+      {
+        "id": "crate-4814",
+        "name": "Stockholm 2021 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_nuke.1fe24dddabe5b67b42dc78fe9a4b05bbca5129ce.png"
+      },
+      {
+        "id": "crate-4840",
+        "name": "Antwerp 2022 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_nuke.4429df1cdac6206b27343c1b2187ddd17c1f735b.png"
+      },
+      {
+        "id": "crate-4865",
+        "name": "Rio 2022 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_nuke.77e9c0952c566be48bfe22d15fe1f19f4c975a22.png"
+      },
+      {
+        "id": "crate-4898",
+        "name": "Paris 2023 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_nuke.a486bc5278ce6d21c7dd9a41740af49e74c15726.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_gs_tec9_envoy_light.png"
+  },
+  {
+    "id": "skin-1969260",
+    "name": "Tec-9 | Safety Net",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "hy_mesh_safetyorange",
+      "name": "Safety Net"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "795",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-train-2021",
+        "name": "The 2021 Train Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_train_2021.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_hy_mesh_safetyorange_light.png"
+  },
+  {
+    "id": "skin-1969344",
+    "name": "Tec-9 | Fubar",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "gs_tec9_fubar",
+      "name": "Fubar"
+    },
+    "min_float": 0.14,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "816",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-21",
+        "name": "The Danger Zone Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_21.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4548",
+        "name": "Danger Zone Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_21.0c6cec0c247809e291dea2fe514d46ea21607201.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_gs_tec9_fubar_light.png"
+  },
+  {
+    "id": "skin-1969436",
+    "name": "Tec-9 | Bamboozle",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_tec9_bamboo",
+      "name": "Bamboozle"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "839",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-22",
+        "name": "The Prisma Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_22.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4598",
+        "name": "Prisma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_22.f223dd42c8d4c3ecf5a03b27416cb523f493d8af.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_cu_tec9_bamboo_light.png"
+  },
+  {
+    "id": "skin-1969636",
+    "name": "Tec-9 | Decimator",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "gs_tec9_decimator",
+      "name": "Decimator"
+    },
+    "min_float": 0,
+    "max_float": 0.75,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "889",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-23",
+        "name": "The Shattered Web Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_23.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4620",
+        "name": "Shattered Web Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_23.3248a20393f5e73c0ee99448b994e89381565353.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_gs_tec9_decimator_light.png"
+  },
+  {
+    "id": "skin-1969700",
+    "name": "Tec-9 | Flash Out",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_tec9_flash",
+      "name": "Flash Out"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "905",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-24",
+        "name": "The CS20 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_24.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4669",
+        "name": "CS20 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_24.2b3bab86cb5b63a196342af58c0e4c82986ab54d.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_cu_tec9_flash_light.png"
+  },
+  {
+    "id": "skin-1969936",
+    "name": "Tec-9 | Brother",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "gs_tec9_guerilla",
+      "name": "Brother"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "964",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-26",
+        "name": "The Fracture Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_26.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4698",
+        "name": "Fracture Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_26.b25098af5a4285004052786e261be43dec5b89cf.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_gs_tec9_guerilla_light.png"
+  },
+  {
+    "id": "skin-1970120",
+    "name": "Tec-9 | Phoenix Chalk",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "hy_phoenix_tags_lilac",
+      "name": "Phoenix Chalk"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1010",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-op10-t",
+        "name": "The Havoc Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_op10_t.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_hy_phoenix_tags_lilac_light.png"
+  },
+  {
+    "id": "skin-1970176",
+    "name": "Tec-9 | Blast From the Past",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "hy_ancient_tiles_peach",
+      "name": "Blast From the Past"
+    },
+    "min_float": 0,
+    "max_float": 0.65,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "1024",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-op10-ancient",
+        "name": "The Ancient Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_op10_ancient.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4813",
+        "name": "Stockholm 2021 Ancient Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_ancient.29085e1a3b545970b4f323999169d711a73673d2.png"
+      },
+      {
+        "id": "crate-4839",
+        "name": "Antwerp 2022 Ancient Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_ancient.be9d7d23627870d11893a4dd8a57a063cec07b03.png"
+      },
+      {
+        "id": "crate-4864",
+        "name": "Rio 2022 Ancient Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_ancient.62851c1371620fd30067840032874561d5b0a5d3.png"
+      },
+      {
+        "id": "crate-4897",
+        "name": "Paris 2023 Ancient Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_ancient.3f0d4072a23afdf75c3f8faf739d85825dde9e7c.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_hy_ancient_tiles_peach_light.png"
+  },
+  {
+    "id": "skin-1971020",
+    "name": "Tec-9 | Rebel",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_tec9_freedom",
+      "name": "Rebel"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1235",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-32",
+        "name": "The Revolution Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_32.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4880",
+        "name": "Revolution Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_32.2d4bcc3d6832d2b4d1d11a273a4ff4bf55dc63a1.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_cu_tec9_freedom_light.png"
+  },
+  {
+    "id": "skin-1971088",
+    "name": "Tec-9 | Mummy's Rot",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
+    "weapon": {
+      "id": "weapon_tec9",
+      "name": "Tec-9"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_pistols",
+      "name": "Pistols"
+    },
+    "pattern": {
+      "id": "cu_tec9_mummy",
+      "name": "Mummy's Rot"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "1252",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-anubis",
+        "name": "The Anubis Collection",
+        "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/e2f2a36bd13cefa1f798e03e8f2cc98ee96c1304/public/images/set_anubis.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4882",
+        "name": "Anubis Collection Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_anubis_storepromo.652ce0f3f70f92157591a29d3e36f2cebcc27f64.png"
+      },
+      {
+        "id": "crate-4895",
+        "name": "Paris 2023 Anubis Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_anubis.eb3566385d460dd1510e0f147d9698309f5b7011.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_tec9_cu_tec9_mummy_light.png"
+  }
+]

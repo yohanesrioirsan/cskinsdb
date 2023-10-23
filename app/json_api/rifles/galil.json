@@ -1,0 +1,2182 @@
+[
+  {
+    "id": "skin-852272",
+    "name": "Galil AR | Winter Forest",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "hy_forest_winter",
+      "name": "Winter Forest"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "76",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-office",
+        "name": "The Office Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_office.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_hy_forest_winter_light.png"
+  },
+  {
+    "id": "skin-852300",
+    "name": "Galil AR | Orange DDPAT",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "hy_ddpat_orange",
+      "name": "Orange DDPAT"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "83",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-esports",
+        "name": "The eSports 2013 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_esports.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4002",
+        "name": "eSports 2013 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013.c4fd3c71742688383914a7ef7127652764f4567c.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_hy_ddpat_orange_light.png"
+  },
+  {
+    "id": "skin-852372",
+    "name": "Galil AR | Tornado",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "so_tornado",
+      "name": "Tornado"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "101",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-norse",
+        "name": "The Norse Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_norse.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_so_tornado_light.png"
+  },
+  {
+    "id": "skin-852444",
+    "name": "Galil AR | Sage Spray",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "sp_spray_desert_sage",
+      "name": "Sage Spray"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "119",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-lake",
+        "name": "The Lake Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_lake.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_sp_spray_desert_sage_light.png"
+  },
+  {
+    "id": "skin-852736",
+    "name": "Galil AR | Shattered",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "hy_crumple_bravo",
+      "name": "Shattered"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "192",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-bravo-i",
+        "name": "The Bravo Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_bravo_i.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4003",
+        "name": "Operation Bravo Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_operation_ii.5e5104a6291741c5693a1e78bd6ecc9560b51f0a.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_hy_crumple_bravo_light.png"
+  },
+  {
+    "id": "skin-852832",
+    "name": "Galil AR | Blue Titanium",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "an_titanium30v",
+      "name": "Blue Titanium"
+    },
+    "min_float": 0,
+    "max_float": 0.04,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "216",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-esports-ii",
+        "name": "The eSports 2013 Winter Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_esports_ii.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4005",
+        "name": "eSports 2013 Winter Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013_14.a83d1976bb20db8b4a64e7acad93aac87127ddd5.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_an_titanium30v_light.png"
+  },
+  {
+    "id": "skin-852908",
+    "name": "Galil AR | VariCamo",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "hy_varicamo",
+      "name": "VariCamo"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "235",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-safehouse",
+        "name": "The Safehouse Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_safehouse.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_hy_varicamo_light.png"
+  },
+  {
+    "id": "skin-852916",
+    "name": "Galil AR | Urban Rubble",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "hy_varicamo_urban",
+      "name": "Urban Rubble"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "237",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-chopshop",
+        "name": "The Chop Shop Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_chopshop.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_hy_varicamo_urban_light.png"
+  },
+  {
+    "id": "skin-852932",
+    "name": "Galil AR | Hunting Blind",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "sp_mesh_slashes",
+      "name": "Hunting Blind"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "241",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-mirage",
+        "name": "The Mirage Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_mirage.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4024",
+        "name": "ESL One Cologne 2014 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_mirage.9b14fdeb121fc012013496c6e78ff1f7212135bb.png"
+      },
+      {
+        "id": "crate-4033",
+        "name": "DreamHack 2014 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_dhw14_promo_de_mirage.f7fd41fa75f398759589c4a42981c67693738f30.png"
+      },
+      {
+        "id": "crate-4081",
+        "name": "ESL One Katowice 2015 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslkatowice2015_promo_de_mirage.3c168637f2a150e95b0bc786dc364128a627d5d1.png"
+      },
+      {
+        "id": "crate-4132",
+        "name": "ESL One Cologne 2015 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslcologne2015_promo_de_mirage.cd633c421896f165a2575204d9d5f908499a918a.png"
+      },
+      {
+        "id": "crate-4177",
+        "name": "DreamHack Cluj-Napoca 2015 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cluj2015_promo_de_mirage.4bd48ff1973049af65f5439ca4d08cd91fb2b0c9.png"
+      },
+      {
+        "id": "crate-4226",
+        "name": "MLG Columbus 2016 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_columbus2016_promo_de_mirage.bbb2b84e6d14d9d7634475dad482ada35977eaa3.png"
+      },
+      {
+        "id": "crate-4275",
+        "name": "Cologne 2016 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cologne2016_promo_de_mirage.22a4700e330b3fbc7161c1b98c13aee8edeb2ba3.png"
+      },
+      {
+        "id": "crate-4345",
+        "name": "Atlanta 2017 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_atlanta2017_promo_de_mirage.e4743d9aff1ac76c8bd57c24706eb9bb7684e5ec.png"
+      },
+      {
+        "id": "crate-4397",
+        "name": "Krakow 2017 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_krakow2017_promo_de_mirage.ce90364134b366b08ec65f0048ba32f354a89f07.png"
+      },
+      {
+        "id": "crate-4464",
+        "name": "Boston 2018 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_boston2018_promo_de_mirage.35c3e485b0f955511dac55d6f4a817a57ea3dbe5.png"
+      },
+      {
+        "id": "crate-4541",
+        "name": "London 2018 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_mirage.009d901f9a204073dddea7113a5577ef5a360fc7.png"
+      },
+      {
+        "id": "crate-4591",
+        "name": "Katowice 2019 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_mirage.a8b296d35c5d363b65c6ee39fe9bb3f8febea2d3.png"
+      },
+      {
+        "id": "crate-4661",
+        "name": "Berlin 2019 Mirage Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_mirage.10c013a74e2c34c2c51cd7183897b1f3f9075b21.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_sp_mesh_slashes_light.png"
+  },
+  {
+    "id": "skin-852952",
+    "name": "Galil AR | Amber Fade",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "aa_fade_metallic",
+      "name": "Amber Fade"
+    },
+    "min_float": 0,
+    "max_float": 0.4,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "246",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-dust-2-2021",
+        "name": "The 2021 Dust 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2_2021.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4811",
+        "name": "Stockholm 2021 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_dust2.f63b1e6c0b61cbb091decd12b651c44b90952428.png"
+      },
+      {
+        "id": "crate-4837",
+        "name": "Antwerp 2022 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_dust2.34c2ad7fef5af8760c1b821cc291b2ae2aeaa46a.png"
+      },
+      {
+        "id": "crate-4862",
+        "name": "Rio 2022 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_dust2.f534f7ac83a32ec4917ec1fa488c5407b056b749.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_aa_fade_metallic_light.png"
+  },
+  {
+    "id": "skin-853024",
+    "name": "Galil AR | Sandstorm",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_sandstorm",
+      "name": "Sandstorm"
+    },
+    "min_float": 0.1,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "264",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-1",
+        "name": "The Winter Offensive Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_1.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4009",
+        "name": "Winter Offensive Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_1.b176b8ca60249d0a2e7c6d72ec7d2d1a9632bd06.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_cu_sandstorm_light.png"
+  },
+  {
+    "id": "skin-853156",
+    "name": "Galil AR | Tuxedo",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "so_orca",
+      "name": "Tuxedo"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "297",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-bank",
+        "name": "The Bank Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_bank.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_so_orca_light.png"
+  },
+  {
+    "id": "skin-853200",
+    "name": "Galil AR | Kami",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "hy_galil_kami",
+      "name": "Kami"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "308",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-3",
+        "name": "The Huntsman Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_3.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4017",
+        "name": "Huntsman Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_3.ce832a92f9fc329dc87d7a802374b918b07cdb84.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_hy_galil_kami_light.png"
+  },
+  {
+    "id": "skin-853484",
+    "name": "Galil AR | Cerberus",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_cerbrus_galil",
+      "name": "Cerberus"
+    },
+    "min_float": 0,
+    "max_float": 0.9,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "379",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-cache",
+        "name": "The Cache Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_cache.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4026",
+        "name": "ESL One Cologne 2014 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_cache.374ca6f8841a65c1890fc6f24f2a084c523ea9f8.png"
+      },
+      {
+        "id": "crate-4035",
+        "name": "DreamHack 2014 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_dhw14_promo_de_cache.191893690c5fd8c410daf933071e9ffe22b655e4.png"
+      },
+      {
+        "id": "crate-4083",
+        "name": "ESL One Katowice 2015 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslkatowice2015_promo_de_cache.e3d4caa342c69142c0fb59c11b1bea091f5bc441.png"
+      },
+      {
+        "id": "crate-4136",
+        "name": "ESL One Cologne 2015 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslcologne2015_promo_de_cache.c9cea9d03c09a923524379c6706f3851ccc750df.png"
+      },
+      {
+        "id": "crate-4181",
+        "name": "DreamHack Cluj-Napoca 2015 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cluj2015_promo_de_cache.3bf78784a8d6b49ba2d1d95917b2edd167ef577a.png"
+      },
+      {
+        "id": "crate-4230",
+        "name": "MLG Columbus 2016 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_columbus2016_promo_de_cache.f0f2c5b00fca82486aa0dccf8b3c2200db618289.png"
+      },
+      {
+        "id": "crate-4278",
+        "name": "Cologne 2016 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cologne2016_promo_de_cache.6233f9fc52acf0956b23dc4b168f8d611d9ac8c7.png"
+      },
+      {
+        "id": "crate-4348",
+        "name": "Atlanta 2017 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_atlanta2017_promo_de_cache.6ec62b0923e3347faef891d0acff28ae37b1c1ae.png"
+      },
+      {
+        "id": "crate-4400",
+        "name": "Krakow 2017 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_krakow2017_promo_de_cache.d2e97ade896a42adbb7f16920cdeb9ce71281022.png"
+      },
+      {
+        "id": "crate-4467",
+        "name": "Boston 2018 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_boston2018_promo_de_cache.5b3feaa264381bb5eed8f06bf8a8df5ef6d59313.png"
+      },
+      {
+        "id": "crate-4544",
+        "name": "London 2018 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_cache.ecbdd69c85012fe6f09b83484572fcd430990571.png"
+      },
+      {
+        "id": "crate-4594",
+        "name": "Katowice 2019 Cache Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_cache.f450df7d0dd77551d2e8a4758737603919dc8582.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_cu_cerbrus_galil_light.png"
+  },
+  {
+    "id": "skin-853560",
+    "name": "Galil AR | Chatterbox",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_galil_abrasion",
+      "name": "Chatterbox"
+    },
+    "min_float": 0.35,
+    "max_float": 0.85,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "398",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-6",
+        "name": "The Chroma Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_6.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_6.4a84ff42a0e0149973c8580dd23f8ba6e7c68142.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_cu_galil_abrasion_light.png"
+  },
+  {
+    "id": "skin-853680",
+    "name": "Galil AR | Eco",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_galil_eco",
+      "name": "Eco"
+    },
+    "min_float": 0.1,
+    "max_float": 0.85,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "428",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-7",
+        "name": "The Chroma 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_7.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4089",
+        "name": "Chroma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_7.57286f710260d1a8eb4e93c4795ae7ca980ea981.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_cu_galil_eco_light.png"
+  },
+  {
+    "id": "skin-853808",
+    "name": "Galil AR | Aqua Terrace",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "am_geometric_steps",
+      "name": "Aqua Terrace"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "460",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-kimono",
+        "name": "The Rising Sun Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_kimono.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_am_geometric_steps_light.png"
+  },
+  {
+    "id": "skin-853880",
+    "name": "Galil AR | Rocket Pop",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_galilar_particles",
+      "name": "Rocket Pop"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "478",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-8",
+        "name": "The Falchion Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_8.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4091",
+        "name": "Falchion Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_8.3cd07b46c7bcb7577453816c5d2f8afdbee98234.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_cu_galilar_particles_light.png"
+  },
+  {
+    "id": "skin-853944",
+    "name": "Galil AR | Stone Cold",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "gs_galil_nightwing",
+      "name": "Stone Cold"
+    },
+    "min_float": 0,
+    "max_float": 0.9,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "494",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-9",
+        "name": "The Shadow Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_9.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4138",
+        "name": "Shadow Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_9.e8303075e1a0969497a4502140ea47ecc65b4c50.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_gs_galil_nightwing_light.png"
+  },
+  {
+    "id": "skin-854152",
+    "name": "Galil AR | Firefight",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "gs_galilar_incenerator",
+      "name": "Firefight"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "546",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-12",
+        "name": "The Chroma 3 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_12.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_12.7555fc0b45c4d1e0ff1c117af393463f29f20f66.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_gs_galilar_incenerator_light.png"
+  },
+  {
+    "id": "skin-854484",
+    "name": "Galil AR | Black Sand",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_galil_ar-camo",
+      "name": "Black Sand"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "629",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-15",
+        "name": "The Glove Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_15.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_15.7dfa18f8f7ce3bc4e55aac0c566fe068e741bddf.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_cu_galil_ar-camo_light.png"
+  },
+  {
+    "id": "skin-854556",
+    "name": "Galil AR | Crimson Tsunami",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "sp_galil_wave",
+      "name": "Crimson Tsunami"
+    },
+    "min_float": 0,
+    "max_float": 0.55,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "647",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-16",
+        "name": "The Spectrum Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_16.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4351",
+        "name": "Spectrum Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_16.a2ec6a235e52612fa82e5858af3751b6e77f4ec2.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_sp_galil_wave_light.png"
+  },
+  {
+    "id": "skin-854612",
+    "name": "Galil AR | Sugar Rush",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_galil_candychaos",
+      "name": "Sugar Rush"
+    },
+    "min_float": 0,
+    "max_float": 0.55,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "661",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-17",
+        "name": "The Operation Hydra Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_17.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4352",
+        "name": "Operation Hydra Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_17.8d4528eca229d65d0c19929ae2078aab38df1369.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_cu_galil_candychaos_light.png"
+  },
+  {
+    "id": "skin-855128",
+    "name": "Galil AR | Cold Fusion",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "hy_nuclear_skulls_aqua",
+      "name": "Cold Fusion"
+    },
+    "min_float": 0,
+    "max_float": 0.83,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "790",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-nuke-2",
+        "name": "The 2018 Nuke Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_nuke_2.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4546",
+        "name": "London 2018 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_nuke.c5a435706f7a023e26c27c4b44ecd5467a6a0751.png"
+      },
+      {
+        "id": "crate-4596",
+        "name": "Katowice 2019 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_nuke.11aecd5c30f7ff4a7e5633e11c1f92c7436f7238.png"
+      },
+      {
+        "id": "crate-4665",
+        "name": "Berlin 2019 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_nuke.d5ccbe093d09b47d2007ec613d1043debece329b.png"
+      },
+      {
+        "id": "crate-4814",
+        "name": "Stockholm 2021 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_nuke.1fe24dddabe5b67b42dc78fe9a4b05bbca5129ce.png"
+      },
+      {
+        "id": "crate-4840",
+        "name": "Antwerp 2022 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_nuke.4429df1cdac6206b27343c1b2187ddd17c1f735b.png"
+      },
+      {
+        "id": "crate-4865",
+        "name": "Rio 2022 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_nuke.77e9c0952c566be48bfe22d15fe1f19f4c975a22.png"
+      },
+      {
+        "id": "crate-4898",
+        "name": "Paris 2023 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_nuke.a486bc5278ce6d21c7dd9a41740af49e74c15726.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_hy_nuclear_skulls_aqua_light.png"
+  },
+  {
+    "id": "skin-855196",
+    "name": "Galil AR | Signal",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "hy_galil_signal_red",
+      "name": "Signal"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "807",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-21",
+        "name": "The Danger Zone Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_21.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4548",
+        "name": "Danger Zone Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_21.0c6cec0c247809e291dea2fe514d46ea21607201.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_hy_galil_signal_red_light.png"
+  },
+  {
+    "id": "skin-855336",
+    "name": "Galil AR | Akoben",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "sp_galil_akoben",
+      "name": "Akoben"
+    },
+    "min_float": 0,
+    "max_float": 0.75,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "842",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-22",
+        "name": "The Prisma Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_22.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4598",
+        "name": "Prisma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_22.f223dd42c8d4c3ecf5a03b27416cb523f493d8af.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_sp_galil_akoben_light.png"
+  },
+  {
+    "id": "skin-855856",
+    "name": "Galil AR | Connexion",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "gs_galil_phoenix",
+      "name": "Connexion"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "972",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-26",
+        "name": "The Fracture Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_26.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4698",
+        "name": "Fracture Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_26.b25098af5a4285004052786e261be43dec5b89cf.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_gs_galil_phoenix_light.png"
+  },
+  {
+    "id": "skin-855892",
+    "name": "Galil AR | Vandal",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "gs_galil_vandal",
+      "name": "Vandal"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "981",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-27",
+        "name": "The Operation Broken Fang Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_27.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4717",
+        "name": "Operation Broken Fang Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_27.410809461956f26e23d1268152af7bdea7875fb0.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_gs_galil_vandal_light.png"
+  },
+  {
+    "id": "skin-856020",
+    "name": "Galil AR | Phoenix Blacklight",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "sp_phoenix_tags_purple",
+      "name": "Phoenix Blacklight"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1013",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-op10-t",
+        "name": "The Havoc Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_op10_t.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_sp_phoenix_tags_purple_light.png"
+  },
+  {
+    "id": "skin-856096",
+    "name": "Galil AR | Dusk Ruins",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "hy_ruins_red",
+      "name": "Dusk Ruins"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "1032",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-op10-ancient",
+        "name": "The Ancient Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_op10_ancient.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4813",
+        "name": "Stockholm 2021 Ancient Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_ancient.29085e1a3b545970b4f323999169d711a73673d2.png"
+      },
+      {
+        "id": "crate-4839",
+        "name": "Antwerp 2022 Ancient Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_ancient.be9d7d23627870d11893a4dd8a57a063cec07b03.png"
+      },
+      {
+        "id": "crate-4864",
+        "name": "Rio 2022 Ancient Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_ancient.62851c1371620fd30067840032874561d5b0a5d3.png"
+      },
+      {
+        "id": "crate-4897",
+        "name": "Paris 2023 Ancient Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_ancient.3f0d4072a23afdf75c3f8faf739d85825dde9e7c.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_hy_ruins_red_light.png"
+  },
+  {
+    "id": "skin-856120",
+    "name": "Galil AR | Chromatic Aberration",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_galil_chroma_pink",
+      "name": "Chromatic Aberration"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1038",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-28",
+        "name": "The Snakebite Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_28.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4747",
+        "name": "Snakebite Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_28.1f6e656d8fc297c9f2b65f2c05b8552d1cc63082.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_cu_galil_chroma_pink_light.png"
+  },
+  {
+    "id": "skin-856252",
+    "name": "Galil AR | CAUTION!",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "sp_galil_caution",
+      "name": "CAUTION!"
+    },
+    "min_float": 0,
+    "max_float": 0.55,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "1071",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-vertigo-2021",
+        "name": "The 2021 Vertigo Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_vertigo_2021.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4815",
+        "name": "Stockholm 2021 Vertigo Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_vertigo.7080d66022a7ae14944279c0e0d3e1670bd94d9c.png"
+      },
+      {
+        "id": "crate-4841",
+        "name": "Antwerp 2022 Vertigo Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_vertigo.b6852a54ab50c53059d8d7a90998e500682d30be.png"
+      },
+      {
+        "id": "crate-4866",
+        "name": "Rio 2022 Vertigo Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_vertigo.7c239e2541a763caf8314bd1630b57fc59b9b18d.png"
+      },
+      {
+        "id": "crate-4899",
+        "name": "Paris 2023 Vertigo Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_vertigo.da26ce2a8461ef92d71ba5aa0a6502a9646fb336.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_sp_galil_caution_light.png"
+  },
+  {
+    "id": "skin-856556",
+    "name": "Galil AR | Destroyer",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
+    "weapon": {
+      "id": "weapon_galilar",
+      "name": "Galil AR"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_rifles",
+      "name": "Rifles"
+    },
+    "pattern": {
+      "id": "cu_galil_destroyer",
+      "name": "Destroyer"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1147",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-31",
+        "name": "The Recoil Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_31.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_31.440b43f4ad3fcfe344ce63b5d8cf59cd8034ba1a.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_galilar_cu_galil_destroyer_light.png"
+  }
+]

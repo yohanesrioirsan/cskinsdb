@@ -1,0 +1,2170 @@
+[
+  {
+    "id": "skin-1900564",
+    "name": "Sawed-Off | Forest DDPAT",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "hy_ddpat",
+      "name": "Forest DDPAT"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "5",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-bank",
+        "name": "The Bank Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_bank.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_hy_ddpat_light.png"
+  },
+  {
+    "id": "skin-1900664",
+    "name": "Sawed-Off | Snake Camo",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "sp_snake",
+      "name": "Snake Camo"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "30",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-dust-2",
+        "name": "The Dust 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4022",
+        "name": "ESL One Cologne 2014 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_dust2.df8e342f4a1dcae65825ee67238c8c7319d35316.png"
+      },
+      {
+        "id": "crate-4031",
+        "name": "DreamHack 2014 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_dhw14_promo_de_dust2.1c381563a79ad42c2e10da7313f6b97242e97d2c.png"
+      },
+      {
+        "id": "crate-4079",
+        "name": "ESL One Katowice 2015 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslkatowice2015_promo_de_dust2.fdd533379af9f88b554611acfb06c49717109b3b.png"
+      },
+      {
+        "id": "crate-4131",
+        "name": "ESL One Cologne 2015 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslcologne2015_promo_de_dust2.ecdaa935c5df5e374878003893bb4ffec789aed3.png"
+      },
+      {
+        "id": "crate-4176",
+        "name": "DreamHack Cluj-Napoca 2015 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cluj2015_promo_de_dust2.d21a63669620383248e5ee41eae07233f60ba381.png"
+      },
+      {
+        "id": "crate-4225",
+        "name": "MLG Columbus 2016 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_columbus2016_promo_de_dust2.cf28c5c9360806999509a6adce1c02bf30421bf8.png"
+      },
+      {
+        "id": "crate-4274",
+        "name": "Cologne 2016 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cologne2016_promo_de_dust2.a2a6c0bfb1bedb62cab626eb18f3cabad99bd55c.png"
+      },
+      {
+        "id": "crate-4344",
+        "name": "Atlanta 2017 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_atlanta2017_promo_de_dust2.81f02d867347bef8e3b3148b212fa449f1ba135c.png"
+      },
+      {
+        "id": "crate-4542",
+        "name": "London 2018 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_dust2.1da791ddf20df4175cdaaedc1c45c174ac0fb0b1.png"
+      },
+      {
+        "id": "crate-4592",
+        "name": "Katowice 2019 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_dust2.612588f56092dad67e7ec82305d5e77bd3b11712.png"
+      },
+      {
+        "id": "crate-4662",
+        "name": "Berlin 2019 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_dust2.453710acd555cc42301fcfc948a5bd53f08b2ce5.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_sp_snake_light.png"
+  },
+  {
+    "id": "skin-1900708",
+    "name": "Sawed-Off | Copper",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "aq_copper",
+      "name": "Copper"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "41",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-dust",
+        "name": "The Dust Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_aq_copper_light.png"
+  },
+  {
+    "id": "skin-1900876",
+    "name": "Sawed-Off | Orange DDPAT",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "hy_ddpat_orange",
+      "name": "Orange DDPAT"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "83",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-esports",
+        "name": "The eSports 2013 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_esports.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4002",
+        "name": "eSports 2013 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esports_2013.c4fd3c71742688383914a7ef7127652764f4567c.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_hy_ddpat_orange_light.png"
+  },
+  {
+    "id": "skin-1901020",
+    "name": "Sawed-Off | Sage Spray",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "sp_spray_desert_sage",
+      "name": "Sage Spray"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "119",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-overpass",
+        "name": "The Overpass Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_overpass.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4028",
+        "name": "ESL One Cologne 2014 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_overpass.8e84964930bb3bcd01328e9ec9d18246b701d815.png"
+      },
+      {
+        "id": "crate-4037",
+        "name": "DreamHack 2014 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_dhw14_promo_de_overpass.e20120d2211c054e3341ec973e420b2536acdc9e.png"
+      },
+      {
+        "id": "crate-4085",
+        "name": "ESL One Katowice 2015 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslkatowice2015_promo_de_overpass.f518bda0e34a1a12346009a5d0a1c0acf8a6efd0.png"
+      },
+      {
+        "id": "crate-4135",
+        "name": "ESL One Cologne 2015 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslcologne2015_promo_de_overpass.cadbf695630fb527e72f6e2df689aa186fc3dba0.png"
+      },
+      {
+        "id": "crate-4180",
+        "name": "DreamHack Cluj-Napoca 2015 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cluj2015_promo_de_overpass.c1e292eef9daecb7e3a39cd32793909dade27c98.png"
+      },
+      {
+        "id": "crate-4229",
+        "name": "MLG Columbus 2016 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_columbus2016_promo_de_overpass.6ca6faaa7e9bd88599ac9fd566624b82a49253dc.png"
+      },
+      {
+        "id": "crate-4277",
+        "name": "Cologne 2016 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cologne2016_promo_de_overpass.ae687c6e4b521a9617e982915266157aee4c48bf.png"
+      },
+      {
+        "id": "crate-4347",
+        "name": "Atlanta 2017 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_atlanta2017_promo_de_overpass.59427cdda056ed154d4c29df6417a852f56a7a4b.png"
+      },
+      {
+        "id": "crate-4399",
+        "name": "Krakow 2017 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_krakow2017_promo_de_overpass.e4a6cab0326599c25b29135013c3b22aabe2e8b0.png"
+      },
+      {
+        "id": "crate-4466",
+        "name": "Boston 2018 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_boston2018_promo_de_overpass.0052a59731a791212ab021d5f6fbf839dbe70b3b.png"
+      },
+      {
+        "id": "crate-4543",
+        "name": "London 2018 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_overpass.951ad03c7109ed78658b951deb76bbc7808042a0.png"
+      },
+      {
+        "id": "crate-4593",
+        "name": "Katowice 2019 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_overpass.cd9bd1317243c478c3a072621e83988b37ab1df1.png"
+      },
+      {
+        "id": "crate-4663",
+        "name": "Berlin 2019 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_overpass.002b0661e317dbac2a511b900ac0cf53fb9e2801.png"
+      },
+      {
+        "id": "crate-4812",
+        "name": "Stockholm 2021 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_overpass.a1416d178c57d616ece474e36881ac3952a1d865.png"
+      },
+      {
+        "id": "crate-4838",
+        "name": "Antwerp 2022 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_overpass.b49a0cf31d712111df1f242aba93847c9957625d.png"
+      },
+      {
+        "id": "crate-4863",
+        "name": "Rio 2022 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_overpass.de315f096687f04c68bd32fdd31ae255d3859ca6.png"
+      },
+      {
+        "id": "crate-4896",
+        "name": "Paris 2023 Overpass Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_overpass.caf1a3fa2e5f02388268dbdc6b7ae9957ff3be0e.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_sp_spray_desert_sage_light.png"
+  },
+  {
+    "id": "skin-1901228",
+    "name": "Sawed-Off | Irradiated Alert",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "sp_nukestripe_brown",
+      "name": "Irradiated Alert"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "171",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-nuke",
+        "name": "The Nuke Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_nuke.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4025",
+        "name": "ESL One Cologne 2014 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_nuke.0f12d84b7859a10f2d54353bb93bad94a17a97ce.png"
+      },
+      {
+        "id": "crate-4034",
+        "name": "DreamHack 2014 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_dhw14_promo_de_nuke.5385c040bab29517b9cbaefb0f63af525f2fb04e.png"
+      },
+      {
+        "id": "crate-4082",
+        "name": "ESL One Katowice 2015 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslkatowice2015_promo_de_nuke.7c963862e4c4a2b783ac45893601dbf4520b0cab.png"
+      },
+      {
+        "id": "crate-4232",
+        "name": "MLG Columbus 2016 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_columbus2016_promo_de_nuke.7a231ae8e8be1de61cc92ee5d6ce6d7cd9e3e9c6.png"
+      },
+      {
+        "id": "crate-4280",
+        "name": "Cologne 2016 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cologne2016_promo_de_nuke.7f36906aa5ad77f39c0a17a9bcc0988b95d76157.png"
+      },
+      {
+        "id": "crate-4350",
+        "name": "Atlanta 2017 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_atlanta2017_promo_de_nuke.f9c3a5c9125a951181c52d43b6b123e21d867440.png"
+      },
+      {
+        "id": "crate-4402",
+        "name": "Krakow 2017 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_krakow2017_promo_de_nuke.e65a7276a2c7120a936a28fd620c8ad293b8d715.png"
+      },
+      {
+        "id": "crate-4469",
+        "name": "Boston 2018 Nuke Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_boston2018_promo_de_nuke.9d83d9e841a7a06e01c0c7ce41b6af70026e6342.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_sp_nukestripe_brown_light.png"
+  },
+  {
+    "id": "skin-1901360",
+    "name": "Sawed-Off | Mosaico",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "hy_ali_tile_bravo",
+      "name": "Mosaico"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "204",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-bravo-ii",
+        "name": "The Alpha Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_bravo_ii.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_hy_ali_tile_bravo_light.png"
+  },
+  {
+    "id": "skin-1901528",
+    "name": "Sawed-Off | Amber Fade",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "aa_fade_metallic",
+      "name": "Amber Fade"
+    },
+    "min_float": 0,
+    "max_float": 0.4,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "246",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-train",
+        "name": "The Train Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_train.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4137",
+        "name": "ESL One Cologne 2015 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslcologne2015_promo_de_train.a7f35dc2af6523bae268f2d289f8e2401cc93418.png"
+      },
+      {
+        "id": "crate-4182",
+        "name": "DreamHack Cluj-Napoca 2015 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cluj2015_promo_de_train.0d90a1abb8c5a7a925c964993fbe5fc491dbef7f.png"
+      },
+      {
+        "id": "crate-4231",
+        "name": "MLG Columbus 2016 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_columbus2016_promo_de_train.8e6d7a5c7031a0f374d5671ef2c3430521443813.png"
+      },
+      {
+        "id": "crate-4279",
+        "name": "Cologne 2016 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cologne2016_promo_de_train.9d07311ba0f80e6f9765fc0ce4e2198ed46d3c62.png"
+      },
+      {
+        "id": "crate-4349",
+        "name": "Atlanta 2017 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_atlanta2017_promo_de_train.094d87e1e59c1186ce31cc361215e93dbac5d68d.png"
+      },
+      {
+        "id": "crate-4401",
+        "name": "Krakow 2017 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_krakow2017_promo_de_train.218a403b03c551d7b4b33e9a921f705710959c4d.png"
+      },
+      {
+        "id": "crate-4468",
+        "name": "Boston 2018 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_boston2018_promo_de_train.43b502d91d47c530d5f2dc028c31ba42ec509b6f.png"
+      },
+      {
+        "id": "crate-4545",
+        "name": "London 2018 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_train.b4d9de3fe319af138e2406a878ac4618dabee907.png"
+      },
+      {
+        "id": "crate-4595",
+        "name": "Katowice 2019 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_train.7cea24a20f8bd7e630a8c13bd7f932ec3f2cbb01.png"
+      },
+      {
+        "id": "crate-4664",
+        "name": "Berlin 2019 Train Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_train.ad635359a453056a3e8da96bbc1cf4dac74d3387.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_aa_fade_metallic_light.png"
+  },
+  {
+    "id": "skin-1901544",
+    "name": "Sawed-Off | Full Stop",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "hy_varicamo_red",
+      "name": "Full Stop"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "250",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-italy",
+        "name": "The Italy Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_italy.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_hy_varicamo_red_light.png"
+  },
+  {
+    "id": "skin-1901568",
+    "name": "Sawed-Off | The Kraken",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_sawedoff_octopump",
+      "name": "The Kraken"
+    },
+    "min_float": 0,
+    "max_float": 0.4,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "256",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-1",
+        "name": "The Winter Offensive Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_1.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4009",
+        "name": "Winter Offensive Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_1.b176b8ca60249d0a2e7c6d72ec7d2d1a9632bd06.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_cu_sawedoff_octopump_light.png"
+  },
+  {
+    "id": "skin-1901836",
+    "name": "Sawed-Off | Rust Coat",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "aq_steel",
+      "name": "Rust Coat"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_uncommon_weapon",
+      "name": "Industrial Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "323",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-cobblestone",
+        "name": "The Cobblestone Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_cobblestone.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4027",
+        "name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_cbble.5db3a4b745facff2db79a3ee6819f007bee736c0.png"
+      },
+      {
+        "id": "crate-4036",
+        "name": "DreamHack 2014 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_dhw14_promo_de_cbble.37d5c8d671c3e181ea9844cd8147e454ae28e2f9.png"
+      },
+      {
+        "id": "crate-4084",
+        "name": "ESL One Katowice 2015 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslkatowice2015_promo_de_cbble.8650a00e848d547b173076d5cde6882ec4441c31.png"
+      },
+      {
+        "id": "crate-4134",
+        "name": "ESL One Cologne 2015 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_eslcologne2015_promo_de_cbble.62138434ebaeb6ebdc4ddf09647bf9d173929048.png"
+      },
+      {
+        "id": "crate-4179",
+        "name": "DreamHack Cluj-Napoca 2015 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cluj2015_promo_de_cbble.1edc97df2f655873fcaccdee15afce42581cddbc.png"
+      },
+      {
+        "id": "crate-4228",
+        "name": "MLG Columbus 2016 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_columbus2016_promo_de_cbble.3cf5fe89e7edaca0acf314b67cdd18c29ac785d5.png"
+      },
+      {
+        "id": "crate-4276",
+        "name": "Cologne 2016 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_cologne2016_promo_de_cbble.ebac6436d59545e869f193eabb5b704f62d27f30.png"
+      },
+      {
+        "id": "crate-4346",
+        "name": "Atlanta 2017 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_atlanta2017_promo_de_cbble.01be0f6fe6487065bc77a8f032920cc192d3348d.png"
+      },
+      {
+        "id": "crate-4398",
+        "name": "Krakow 2017 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_krakow2017_promo_de_cbble.6bc507231c3886467a928b363a029483daf6066e.png"
+      },
+      {
+        "id": "crate-4465",
+        "name": "Boston 2018 Cobblestone Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_boston2018_promo_de_cbble.f4720b59277ab16da508f76845f85f5dfe0d9df6.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_aq_steel_light.png"
+  },
+  {
+    "id": "skin-1901924",
+    "name": "Sawed-Off | First Class",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_green_leather_sawedoff",
+      "name": "First Class"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "345",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-baggage",
+        "name": "The Baggage Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_baggage.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_cu_green_leather_sawedoff_light.png"
+  },
+  {
+    "id": "skin-1902104",
+    "name": "Sawed-Off | Highwayman",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "aq_sawedoff_blackgold",
+      "name": "Highwayman"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "390",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-5",
+        "name": "The Vanguard Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_5.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4029",
+        "name": "Operation Vanguard Weapon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_5.49a38d2d3afff918ae3b5c5bc2ba2f99b02888f3.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_aq_sawedoff_blackgold_light.png"
+  },
+  {
+    "id": "skin-1902164",
+    "name": "Sawed-Off | Serenity",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_sawedoff_deva",
+      "name": "Serenity"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "405",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-6",
+        "name": "The Chroma Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_6.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4061",
+        "name": "Chroma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_6.4a84ff42a0e0149973c8580dd23f8ba6e7c68142.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_cu_sawedoff_deva_light.png"
+  },
+  {
+    "id": "skin-1902280",
+    "name": "Sawed-Off | Origami",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_sawedoff_origami",
+      "name": "Origami"
+    },
+    "min_float": 0,
+    "max_float": 0.55,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "434",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-7",
+        "name": "The Chroma 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_7.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4089",
+        "name": "Chroma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_7.57286f710260d1a8eb4e93c4795ae7ca980ea981.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_cu_sawedoff_origami_light.png"
+  },
+  {
+    "id": "skin-1902376",
+    "name": "Sawed-Off | Bamboo Shadow",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "hy_bamboo_jungle_black",
+      "name": "Bamboo Shadow"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "458",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-kimono",
+        "name": "The Rising Sun Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_kimono.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_hy_bamboo_jungle_black_light.png"
+  },
+  {
+    "id": "skin-1902612",
+    "name": "Sawed-Off | Yorick",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "gs_sawedoff_necromancer",
+      "name": "Yorick"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "517",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-10",
+        "name": "The Revolver Case Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_10.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4186",
+        "name": "Revolver Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_10.a7a2e0b4f6ee7a99b25c531b2d3bdef5147200f7.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_gs_sawedoff_necromancer_light.png"
+  },
+  {
+    "id": "skin-1902752",
+    "name": "Sawed-Off | Fubar",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "gs_sawedoff_fubar",
+      "name": "Fubar"
+    },
+    "min_float": 0.4,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "552",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-12",
+        "name": "The Chroma 3 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_12.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4233",
+        "name": "Chroma 3 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_12.7555fc0b45c4d1e0ff1c117af393463f29f20f66.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_gs_sawedoff_fubar_light.png"
+  },
+  {
+    "id": "skin-1902928",
+    "name": "Sawed-Off | Limelight",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_sawed_off_lime",
+      "name": "Limelight"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "596",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-13",
+        "name": "The Gamma Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_13.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4236",
+        "name": "Gamma Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_13.9a7d2f757ddbdc915aa005def74ac186a457346a.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_cu_sawed_off_lime_light.png"
+  },
+  {
+    "id": "skin-1903096",
+    "name": "Sawed-Off | Wasteland Princess",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_wp_sawedoff",
+      "name": "Wasteland Princess"
+    },
+    "min_float": 0,
+    "max_float": 0.7,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "638",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-15",
+        "name": "The Glove Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_15.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4288",
+        "name": "Glove Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_15.7dfa18f8f7ce3bc4e55aac0c566fe068e741bddf.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_cu_wp_sawedoff_light.png"
+  },
+  {
+    "id": "skin-1903164",
+    "name": "Sawed-Off | Zander",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "aq_sawedoff_zander2",
+      "name": "Zander"
+    },
+    "min_float": 0.05,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "655",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-16",
+        "name": "The Spectrum Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_16.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4351",
+        "name": "Spectrum Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_16.a2ec6a235e52612fa82e5858af3751b6e77f4ec2.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_aq_sawedoff_zander2_light.png"
+  },
+  {
+    "id": "skin-1903236",
+    "name": "Sawed-Off | Morris",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "aq_sawed-off_flower",
+      "name": "Morris"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "673",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-18",
+        "name": "The Spectrum 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_18.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4403",
+        "name": "Spectrum 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_18.4255d9e03d5dad034bbe868622733deeb81434c1.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_aq_sawed-off_flower_light.png"
+  },
+  {
+    "id": "skin-1903424",
+    "name": "Sawed-Off | Devourer",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_sawedoff_devourer",
+      "name": "Devourer"
+    },
+    "min_float": 0,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "720",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-20",
+        "name": "The Horizon Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_20.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4482",
+        "name": "Horizon Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_20.efee8198ed2e0b6ab4b5bb1e99be04a1308b43fe.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_cu_sawedoff_devourer_light.png"
+  },
+  {
+    "id": "skin-1903732",
+    "name": "Sawed-Off | Brake Light",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "aa_vertigo_red",
+      "name": "Brake Light"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "797",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-inferno-2",
+        "name": "The 2018 Inferno Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_inferno_2.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4540",
+        "name": "London 2018 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_london2018_promo_de_inferno.07dbf5526d87ab866da5af57682ffcdfd59362a5.png"
+      },
+      {
+        "id": "crate-4590",
+        "name": "Katowice 2019 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_katowice2019_promo_de_inferno.d5b7d5c77ba7cf4e7f9296f8693e5cfae42f2644.png"
+      },
+      {
+        "id": "crate-4660",
+        "name": "Berlin 2019 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_berlin2019_promo_de_inferno.00a259328607042322ca7cbc5fe16b2d4162f553.png"
+      },
+      {
+        "id": "crate-4809",
+        "name": "Stockholm 2021 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_inferno.db7770ae6dbb5369e8301eae1941fbaf342f9413.png"
+      },
+      {
+        "id": "crate-4835",
+        "name": "Antwerp 2022 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_inferno.bbafa6dc6366b53b52fe2e5505063c3d22a9d5e8.png"
+      },
+      {
+        "id": "crate-4860",
+        "name": "Rio 2022 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_inferno.8436644b919dfd7b507765755a2c6d947aa043bd.png"
+      },
+      {
+        "id": "crate-4893",
+        "name": "Paris 2023 Inferno Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_paris2023_promo_de_inferno.6b9e8ab53a451035b0f38e60f64a531a64d83352.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_aa_vertigo_red_light.png"
+  },
+  {
+    "id": "skin-1903800",
+    "name": "Sawed-Off | Black Sand",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_sawedoff_black_sand",
+      "name": "Black Sand"
+    },
+    "min_float": 0,
+    "max_float": 0.9,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "814",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-21",
+        "name": "The Danger Zone Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_21.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4548",
+        "name": "Danger Zone Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_21.0c6cec0c247809e291dea2fe514d46ea21607201.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_cu_sawedoff_black_sand_light.png"
+  },
+  {
+    "id": "skin-1904024",
+    "name": "Sawed-Off | Jungle Thicket",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "sp_palm_green",
+      "name": "Jungle Thicket"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "870",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-stmarc",
+        "name": "The St. Marc Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_stmarc.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_sp_palm_green_light.png"
+  },
+  {
+    "id": "skin-1904064",
+    "name": "Sawed-Off | Parched",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "hy_desert_bloom",
+      "name": "Parched"
+    },
+    "min_float": 0,
+    "max_float": 0.49,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": true,
+    "paint_index": "880",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-dust-2-2021",
+        "name": "The 2021 Dust 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_dust_2_2021.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4811",
+        "name": "Stockholm 2021 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_dust2.f63b1e6c0b61cbb091decd12b651c44b90952428.png"
+      },
+      {
+        "id": "crate-4837",
+        "name": "Antwerp 2022 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_dust2.34c2ad7fef5af8760c1b821cc291b2ae2aeaa46a.png"
+      },
+      {
+        "id": "crate-4862",
+        "name": "Rio 2022 Dust II Souvenir Package",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_dust2.f534f7ac83a32ec4917ec1fa488c5407b056b749.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_hy_desert_bloom_light.png"
+  },
+  {
+    "id": "skin-1904356",
+    "name": "Sawed-Off | Apocalypto",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_sawedoff_apocalypto",
+      "name": "Apocalypto"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_mythical_weapon",
+      "name": "Restricted"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "953",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-25",
+        "name": "The Prisma 2 Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_25.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4695",
+        "name": "Prisma 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_25.ef3b4b9eeb6cd8c29eb79e23ceb8205d40df4b55.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_cu_sawedoff_apocalypto_light.png"
+  },
+  {
+    "id": "skin-1904600",
+    "name": "Sawed-Off | Clay Ambush",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "hy_tigers_tan",
+      "name": "Clay Ambush"
+    },
+    "min_float": 0,
+    "max_float": 0.6,
+    "rarity": {
+      "id": "rarity_common_weapon",
+      "name": "Consumer Grade"
+    },
+    "stattrak": false,
+    "souvenir": false,
+    "paint_index": "1014",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-op10-t",
+        "name": "The Havoc Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_op10_t.png"
+      }
+    ],
+    "crates": [],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_hy_tigers_tan_light.png"
+  },
+  {
+    "id": "skin-1905104",
+    "name": "Sawed-Off | Spirit Board",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_sawedoff_ouija",
+      "name": "Spirit Board"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_rare_weapon",
+      "name": "Mil-Spec Grade"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1140",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-30",
+        "name": "The Dreams & Nightmares Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_30.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4818",
+        "name": "Dreams & Nightmares Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_30.c471a3f74a254c80754f7deec19adaf0df266e23.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_cu_sawedoff_ouija_light.png"
+  },
+  {
+    "id": "skin-1905164",
+    "name": "Sawed-Off | Kiss♥Love",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
+    "weapon": {
+      "id": "weapon_sawedoff",
+      "name": "Sawed-Off"
+    },
+    "category": {
+      "id": "csgo_inventory_weapon_category_heavy",
+      "name": "Heavy"
+    },
+    "pattern": {
+      "id": "cu_sawedoff_kisslove",
+      "name": "Kiss♥Love"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_legendary_weapon",
+      "name": "Classified"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1155",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [
+      {
+        "id": "collection-set-community-31",
+        "name": "The Recoil Collection",
+        "image": "https://raw.githubusercontent.com/steamdatabase/gametracking-csgo/108f1682bf7eeb1420caaf2357da88b614a7e1b0/csgo/pak01_dir/resource/flash/econ/set_icons/set_community_31.png"
+      }
+    ],
+    "crates": [
+      {
+        "id": "crate-4846",
+        "name": "Recoil Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_31.440b43f4ad3fcfe344ce63b5d8cf59cd8034ba1a.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_sawedoff_cu_sawedoff_kisslove_light.png"
+  }
+]

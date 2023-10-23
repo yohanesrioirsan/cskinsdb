@@ -1,0 +1,37 @@
+[
+  {
+    "id": "skin-vanilla-weapon_knife_cord",
+    "name": "★ Paracord Knife",
+    "description": "This fixed-blade survival knife is designed to withstand being used as both a weapon and a tool, such as for setting traps, hunting animals or cutting foliage. The handle is wrapped in a length of multi-purpose paracord.",
+    "weapon": {
+      "id": "sfui_wpnhud_knife_cord",
+      "name": "Paracord Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {},
+    "min_float": {},
+    "max_float": {},
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "paint_index": {},
+    "crates": [
+      {
+        "id": "crate-4620",
+        "name": "Shattered Web Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_23.3248a20393f5e73c0ee99448b994e89381565353.png"
+      },
+      {
+        "id": "crate-4698",
+        "name": "Fracture Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_26.b25098af5a4285004052786e261be43dec5b89cf.png"
+      }
+    ],
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_cord.073b5fa991a256ec2264b1c1c581401631eb51cb.png"
+  }
+]

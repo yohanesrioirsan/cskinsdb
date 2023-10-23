@@ -1,0 +1,1862 @@
+[
+  {
+    "id": "skin-33554452",
+    "name": "★ Falchion Knife | Forest DDPAT",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_ddpat",
+      "name": "Forest DDPAT"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "5",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4091",
+        "name": "Falchion Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_8.3cd07b46c7bcb7577453816c5d2f8afdbee98234.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_hy_ddpat_light.png"
+  },
+  {
+    "id": "skin-33554480",
+    "name": "★ Falchion Knife | Crimson Web",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_webs",
+      "name": "Crimson Web"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "12",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4091",
+        "name": "Falchion Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_8.3cd07b46c7bcb7577453816c5d2f8afdbee98234.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_hy_webs_light.png"
+  },
+  {
+    "id": "skin-33554584",
+    "name": "★ Falchion Knife | Fade",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "aa_fade",
+      "name": "Fade"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "38",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4091",
+        "name": "Falchion Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_8.3cd07b46c7bcb7577453816c5d2f8afdbee98234.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_aa_fade_light.png"
+  },
+  {
+    "id": "skin-33554592",
+    "name": "★ Falchion Knife | Night",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "so_night",
+      "name": "Night"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "40",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4091",
+        "name": "Falchion Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_8.3cd07b46c7bcb7577453816c5d2f8afdbee98234.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_so_night_light.png"
+  },
+  {
+    "id": "skin-33554600",
+    "name": "★ Falchion Knife | Blue Steel",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "aq_blued",
+      "name": "Blue Steel"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "42",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4091",
+        "name": "Falchion Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_8.3cd07b46c7bcb7577453816c5d2f8afdbee98234.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_aq_blued_light.png"
+  },
+  {
+    "id": "skin-33554604",
+    "name": "★ Falchion Knife | Stained",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "aq_forced",
+      "name": "Stained"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "43",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4091",
+        "name": "Falchion Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_8.3cd07b46c7bcb7577453816c5d2f8afdbee98234.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_aq_forced_light.png"
+  },
+  {
+    "id": "skin-33554608",
+    "name": "★ Falchion Knife | Case Hardened",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "aq_oiled",
+      "name": "Case Hardened"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "44",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4091",
+        "name": "Falchion Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_8.3cd07b46c7bcb7577453816c5d2f8afdbee98234.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_aq_oiled_light.png"
+  },
+  {
+    "id": "skin-33554668",
+    "name": "★ Falchion Knife | Slaughter",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_zebra",
+      "name": "Slaughter"
+    },
+    "min_float": 0.01,
+    "max_float": 0.26,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "59",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4091",
+        "name": "Falchion Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_8.3cd07b46c7bcb7577453816c5d2f8afdbee98234.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_am_zebra_light.png"
+  },
+  {
+    "id": "skin-33554720",
+    "name": "★ Falchion Knife | Safari Mesh",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_mesh_tan",
+      "name": "Safari Mesh"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "72",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4091",
+        "name": "Falchion Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_8.3cd07b46c7bcb7577453816c5d2f8afdbee98234.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_sp_mesh_tan_light.png"
+  },
+  {
+    "id": "skin-33554740",
+    "name": "★ Falchion Knife | Boreal Forest",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_forest_boreal",
+      "name": "Boreal Forest"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "77",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4091",
+        "name": "Falchion Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_8.3cd07b46c7bcb7577453816c5d2f8afdbee98234.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_hy_forest_boreal_light.png"
+  },
+  {
+    "id": "skin-33555004",
+    "name": "★ Falchion Knife | Urban Masked",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_tape_urban",
+      "name": "Urban Masked"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "143",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4091",
+        "name": "Falchion Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_8.3cd07b46c7bcb7577453816c5d2f8afdbee98234.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_sp_tape_urban_light.png"
+  },
+  {
+    "id": "skin-33555132",
+    "name": "★ Falchion Knife | Scorched",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "sp_dapple",
+      "name": "Scorched"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "175",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4091",
+        "name": "Falchion Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_8.3cd07b46c7bcb7577453816c5d2f8afdbee98234.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_sp_dapple_light.png"
+  },
+  {
+    "id": "skin-33556068",
+    "name": "★ Falchion Knife | Tiger Tooth",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "an_tiger_orange",
+      "name": "Tiger Tooth"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "409",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4351",
+        "name": "Spectrum Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_16.a2ec6a235e52612fa82e5858af3751b6e77f4ec2.png"
+      },
+      {
+        "id": "crate-4403",
+        "name": "Spectrum 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_18.4255d9e03d5dad034bbe868622733deeb81434c1.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_an_tiger_orange_light.png"
+  },
+  {
+    "id": "skin-33556076",
+    "name": "★ Falchion Knife | Damascus Steel",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "aq_damascus_90",
+      "name": "Damascus Steel"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "411",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4351",
+        "name": "Spectrum Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_16.a2ec6a235e52612fa82e5858af3751b6e77f4ec2.png"
+      },
+      {
+        "id": "crate-4403",
+        "name": "Spectrum 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_18.4255d9e03d5dad034bbe868622733deeb81434c1.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_aq_damascus_90_light.png"
+  },
+  {
+    "id": "skin-33556084",
+    "name": "★ Falchion Knife | Marble Fade",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_marble_fade",
+      "name": "Marble Fade"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "413",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4351",
+        "name": "Spectrum Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_16.a2ec6a235e52612fa82e5858af3751b6e77f4ec2.png"
+      },
+      {
+        "id": "crate-4403",
+        "name": "Spectrum 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_18.4255d9e03d5dad034bbe868622733deeb81434c1.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_am_marble_fade_light.png"
+  },
+  {
+    "id": "skin-33556088",
+    "name": "★ Falchion Knife | Rust Coat",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "aq_steel_knife",
+      "name": "Rust Coat"
+    },
+    "min_float": 0.4,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "414",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4351",
+        "name": "Spectrum Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_16.a2ec6a235e52612fa82e5858af3751b6e77f4ec2.png"
+      },
+      {
+        "id": "crate-4403",
+        "name": "Spectrum 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_18.4255d9e03d5dad034bbe868622733deeb81434c1.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_aq_steel_knife_light.png"
+  },
+  {
+    "id": "skin-33556092",
+    "name": "★ Falchion Knife | Doppler",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_ruby_marbleized",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "415",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4351",
+        "name": "Spectrum Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_16.a2ec6a235e52612fa82e5858af3751b6e77f4ec2.png"
+      },
+      {
+        "id": "crate-4403",
+        "name": "Spectrum 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_18.4255d9e03d5dad034bbe868622733deeb81434c1.png"
+      }
+    ],
+    "phase": "Ruby",
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_am_ruby_marbleized_light.png"
+  },
+  {
+    "id": "skin-33556096",
+    "name": "★ Falchion Knife | Doppler",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_sapphire_marbleized",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "416",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4351",
+        "name": "Spectrum Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_16.a2ec6a235e52612fa82e5858af3751b6e77f4ec2.png"
+      },
+      {
+        "id": "crate-4403",
+        "name": "Spectrum 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_18.4255d9e03d5dad034bbe868622733deeb81434c1.png"
+      }
+    ],
+    "phase": "Sapphire",
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_am_sapphire_marbleized_light.png"
+  },
+  {
+    "id": "skin-33556100",
+    "name": "★ Falchion Knife | Doppler",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_blackpearl_marbleized",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "417",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4351",
+        "name": "Spectrum Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_16.a2ec6a235e52612fa82e5858af3751b6e77f4ec2.png"
+      },
+      {
+        "id": "crate-4403",
+        "name": "Spectrum 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_18.4255d9e03d5dad034bbe868622733deeb81434c1.png"
+      }
+    ],
+    "phase": "Black Pearl",
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_am_blackpearl_marbleized_light.png"
+  },
+  {
+    "id": "skin-33556104",
+    "name": "★ Falchion Knife | Doppler",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_doppler_phase1",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "418",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4351",
+        "name": "Spectrum Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_16.a2ec6a235e52612fa82e5858af3751b6e77f4ec2.png"
+      },
+      {
+        "id": "crate-4403",
+        "name": "Spectrum 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_18.4255d9e03d5dad034bbe868622733deeb81434c1.png"
+      }
+    ],
+    "phase": "Phase 1",
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_am_doppler_phase1_light.png"
+  },
+  {
+    "id": "skin-33556108",
+    "name": "★ Falchion Knife | Doppler",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_doppler_phase2",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "419",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4351",
+        "name": "Spectrum Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_16.a2ec6a235e52612fa82e5858af3751b6e77f4ec2.png"
+      },
+      {
+        "id": "crate-4403",
+        "name": "Spectrum 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_18.4255d9e03d5dad034bbe868622733deeb81434c1.png"
+      }
+    ],
+    "phase": "Phase 2",
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_am_doppler_phase2_light.png"
+  },
+  {
+    "id": "skin-33556112",
+    "name": "★ Falchion Knife | Doppler",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_doppler_phase3",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "420",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4351",
+        "name": "Spectrum Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_16.a2ec6a235e52612fa82e5858af3751b6e77f4ec2.png"
+      },
+      {
+        "id": "crate-4403",
+        "name": "Spectrum 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_18.4255d9e03d5dad034bbe868622733deeb81434c1.png"
+      }
+    ],
+    "phase": "Phase 3",
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_am_doppler_phase3_light.png"
+  },
+  {
+    "id": "skin-33556116",
+    "name": "★ Falchion Knife | Doppler",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_doppler_phase4",
+      "name": "Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "421",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4351",
+        "name": "Spectrum Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_16.a2ec6a235e52612fa82e5858af3751b6e77f4ec2.png"
+      },
+      {
+        "id": "crate-4403",
+        "name": "Spectrum 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_18.4255d9e03d5dad034bbe868622733deeb81434c1.png"
+      }
+    ],
+    "phase": "Phase 4",
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_am_doppler_phase4_light.png"
+  },
+  {
+    "id": "skin-33556704",
+    "name": "★ Falchion Knife | Gamma Doppler",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_emerald_marbleized",
+      "name": "Gamma Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "568",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4790",
+        "name": "Operation Riptide Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_29.9b830067732b4de110c01fb24cd067a3061b43a8.png"
+      },
+      {
+        "id": "crate-4818",
+        "name": "Dreams & Nightmares Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_30.c471a3f74a254c80754f7deec19adaf0df266e23.png"
+      }
+    ],
+    "phase": "Emerald",
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_am_emerald_marbleized_light.png"
+  },
+  {
+    "id": "skin-33556708",
+    "name": "★ Falchion Knife | Gamma Doppler",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_gamma_doppler_phase1",
+      "name": "Gamma Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "569",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4790",
+        "name": "Operation Riptide Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_29.9b830067732b4de110c01fb24cd067a3061b43a8.png"
+      },
+      {
+        "id": "crate-4818",
+        "name": "Dreams & Nightmares Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_30.c471a3f74a254c80754f7deec19adaf0df266e23.png"
+      }
+    ],
+    "phase": "Phase 1",
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_am_gamma_doppler_phase1_light.png"
+  },
+  {
+    "id": "skin-33556712",
+    "name": "★ Falchion Knife | Gamma Doppler",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_gamma_doppler_phase2",
+      "name": "Gamma Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "570",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4790",
+        "name": "Operation Riptide Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_29.9b830067732b4de110c01fb24cd067a3061b43a8.png"
+      },
+      {
+        "id": "crate-4818",
+        "name": "Dreams & Nightmares Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_30.c471a3f74a254c80754f7deec19adaf0df266e23.png"
+      }
+    ],
+    "phase": "Phase 2",
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_am_gamma_doppler_phase2_light.png"
+  },
+  {
+    "id": "skin-33556716",
+    "name": "★ Falchion Knife | Gamma Doppler",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_gamma_doppler_phase3",
+      "name": "Gamma Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "571",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4790",
+        "name": "Operation Riptide Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_29.9b830067732b4de110c01fb24cd067a3061b43a8.png"
+      },
+      {
+        "id": "crate-4818",
+        "name": "Dreams & Nightmares Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_30.c471a3f74a254c80754f7deec19adaf0df266e23.png"
+      }
+    ],
+    "phase": "Phase 3",
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_am_gamma_doppler_phase3_light.png"
+  },
+  {
+    "id": "skin-33556720",
+    "name": "★ Falchion Knife | Gamma Doppler",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_gamma_doppler_phase4",
+      "name": "Gamma Doppler"
+    },
+    "min_float": 0,
+    "max_float": 0.08,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "572",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4790",
+        "name": "Operation Riptide Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_29.9b830067732b4de110c01fb24cd067a3061b43a8.png"
+      },
+      {
+        "id": "crate-4818",
+        "name": "Dreams & Nightmares Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_30.c471a3f74a254c80754f7deec19adaf0df266e23.png"
+      }
+    ],
+    "phase": "Phase 4",
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_am_gamma_doppler_phase4_light.png"
+  },
+  {
+    "id": "skin-33556748",
+    "name": "★ Falchion Knife | Bright Water",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "hy_ocean_knife_90",
+      "name": "Bright Water"
+    },
+    "min_float": 0,
+    "max_float": 0.5,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "579",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4790",
+        "name": "Operation Riptide Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_29.9b830067732b4de110c01fb24cd067a3061b43a8.png"
+      },
+      {
+        "id": "crate-4818",
+        "name": "Dreams & Nightmares Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_30.c471a3f74a254c80754f7deec19adaf0df266e23.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_hy_ocean_knife_90_light.png"
+  },
+  {
+    "id": "skin-33556756",
+    "name": "★ Falchion Knife | Freehand",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "am_marked_up_90",
+      "name": "Freehand"
+    },
+    "min_float": 0,
+    "max_float": 0.48,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "581",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4790",
+        "name": "Operation Riptide Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_29.9b830067732b4de110c01fb24cd067a3061b43a8.png"
+      },
+      {
+        "id": "crate-4818",
+        "name": "Dreams & Nightmares Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_30.c471a3f74a254c80754f7deec19adaf0df266e23.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_am_marked_up_90_light.png"
+  },
+  {
+    "id": "skin-33556916",
+    "name": "★ Falchion Knife | Ultraviolet",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "so_purple_falchion",
+      "name": "Ultraviolet"
+    },
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "621",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4351",
+        "name": "Spectrum Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_16.a2ec6a235e52612fa82e5858af3751b6e77f4ec2.png"
+      },
+      {
+        "id": "crate-4403",
+        "name": "Spectrum 2 Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_18.4255d9e03d5dad034bbe868622733deeb81434c1.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_so_purple_falchion_light.png"
+  },
+  {
+    "id": "skin-33558856",
+    "name": "★ Falchion Knife | Lore",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "cu_falchion_lore",
+      "name": "Lore"
+    },
+    "min_float": 0,
+    "max_float": 0.65,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1106",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4790",
+        "name": "Operation Riptide Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_29.9b830067732b4de110c01fb24cd067a3061b43a8.png"
+      },
+      {
+        "id": "crate-4818",
+        "name": "Dreams & Nightmares Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_30.c471a3f74a254c80754f7deec19adaf0df266e23.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_cu_falchion_lore_light.png"
+  },
+  {
+    "id": "skin-33558876",
+    "name": "★ Falchion Knife | Black Laminate",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "gs_falchion_black_laminate",
+      "name": "Black Laminate"
+    },
+    "min_float": 0,
+    "max_float": 1,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1111",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4790",
+        "name": "Operation Riptide Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_29.9b830067732b4de110c01fb24cd067a3061b43a8.png"
+      },
+      {
+        "id": "crate-4818",
+        "name": "Dreams & Nightmares Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_30.c471a3f74a254c80754f7deec19adaf0df266e23.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_gs_falchion_black_laminate_light.png"
+  },
+  {
+    "id": "skin-33558896",
+    "name": "★ Falchion Knife | Autotronic",
+    "description": "A modern homage to a falchion sword, this clip point blade has a curved edge.",
+    "weapon": {
+      "id": "weapon_knife_falchion",
+      "name": "Falchion Knife"
+    },
+    "category": {
+      "id": "sfui_invpanel_filter_melee",
+      "name": "Knives"
+    },
+    "pattern": {
+      "id": "gs_falchion_autotronic",
+      "name": "Autotronic"
+    },
+    "min_float": 0,
+    "max_float": 0.85,
+    "rarity": {
+      "id": "rarity_ancient_weapon",
+      "name": "Covert"
+    },
+    "stattrak": true,
+    "souvenir": false,
+    "paint_index": "1116",
+    "wears": [
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_0",
+        "name": "Factory New"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_1",
+        "name": "Minimal Wear"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_2",
+        "name": "Field-Tested"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_3",
+        "name": "Well-Worn"
+      },
+      {
+        "id": "SFUI_InvTooltip_Wear_Amount_4",
+        "name": "Battle-Scarred"
+      }
+    ],
+    "collections": [],
+    "crates": [
+      {
+        "id": "crate-4790",
+        "name": "Operation Riptide Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_29.9b830067732b4de110c01fb24cd067a3061b43a8.png"
+      },
+      {
+        "id": "crate-4818",
+        "name": "Dreams & Nightmares Case",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_30.c471a3f74a254c80754f7deec19adaf0df266e23.png"
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/ByMykel/CSGO-API/4fdf048a2b6c21494df4fe915f5fdea5accc6a61/public/images/econ/default_generated/weapon_knife_falchion_gs_falchion_autotronic_light.png"
+  }
+]

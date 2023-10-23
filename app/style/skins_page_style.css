@@ -1,0 +1,54 @@
+.skins-container {
+  padding-top: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.skins-container,
+h1,
+p {
+  margin: 0;
+}
+
+.skins-container > h1 {
+  font-size: 36px;
+}
+
+.skins-container > p {
+  padding-top: 1rem;
+  width: 50%;
+  text-align: center;
+  font-size: 16px;
+}
+
+.c____container {
+  padding-top: 3rem;
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 768px) {
+  .skins-container > h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 26px;
+  }
+
+  .skins-container > p {
+    padding-top: 1rem;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+  }
+
+  .c____container {
+    padding-top: 3rem;
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
