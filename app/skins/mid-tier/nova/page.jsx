@@ -12,7 +12,7 @@ function Nova() {
       <div className="skins-container">
         <h1>Nova Skins</h1>
         <p>
-          The Nova's rock-bottom price tag makes it a great ambush weapon for a
+          The Novas rock-bottom price tag makes it a great ambush weapon for a
           cash-strapped team.
         </p>
       </div>

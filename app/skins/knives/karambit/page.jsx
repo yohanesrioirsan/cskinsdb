@@ -12,7 +12,7 @@ function Karambit() {
       <div className="skins-container">
         <h1>Karambit Skins</h1>
         <p>
-          With its curved blade mimicking a tiger's claw, the karambit was
+          With its curved blade mimicking a tigers claw, the karambit was
           developed as part of the southeast Asian martial discipline of silat.
           The knife is typically used with a reverse grip, with the finger ring
           on the index finger.

@@ -13,7 +13,7 @@ function SawedOff() {
         <h1>Sawed-Off Skins</h1>
         <p>
           The classic Sawed-Off deals very heavy close-range damage, but with
-          its low accuracy, high spread and slow rate of fire, you'd better kill
+          its low accuracy, high spread and slow rate of fire, youd better kill
           what you hit.
         </p>
       </div>

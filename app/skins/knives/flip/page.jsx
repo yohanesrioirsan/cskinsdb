@@ -14,7 +14,7 @@ function FlipKnife() {
         <p>
           Flip knives sport a Persian-style back-swept blade with an acute
           point. While the point itself may be fragile, the overall design of
-          the flip knife's design is surprisingly durable.
+          the flip knifes design is surprisingly durable.
         </p>
       </div>
       <div className="c____container">

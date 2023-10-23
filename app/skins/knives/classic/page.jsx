@@ -14,7 +14,7 @@ function ClassicKnife() {
         <p>
           A classic of the Counter-Strike series, the edge of this knife is
           press-fit Stellite perfectly held in place due to its precise fit with
-          the titanium on the blade's cheek and spine. The handle is fossilized
+          the titanium on the blades cheek and spine. The handle is fossilized
           mastodon ivory held in a carbon fibre pocket.
         </p>
       </div>
