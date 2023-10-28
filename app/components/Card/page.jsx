@@ -8,8 +8,8 @@ function Card({ weapon }) {
         <div className="weapon_image">
           <Image
             className="weapon_img"
-            src={weapon.image}
-            alt=""
+            src={weapon && weapon.image ? weapon.image : ""}
+            alt="weapon-image"
             width={350}
             height={300}
           />
