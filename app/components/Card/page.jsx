@@ -15,8 +15,8 @@ function Card({ weapon }) {
           />
         </div>
         <div className="weapon_name">
-          <h1>{weapon.weapon.name}</h1>
-          <h1>{weapon.pattern.name}</h1>
+          <h1>{weapon.weapon && weapon.weapon.name}</h1>
+          <h1>{weapon.pattern && weapon.pattern.name}</h1>
         </div>
         <div className="weapon_collections">
           {weapon.collections.map((collection) => (
@@ -26,8 +26,8 @@ function Card({ weapon }) {
         <div className="hr_line"></div>
         <div className="weapon_details">
           <div className="left_panel">
-            <p>Category: {weapon.category.name}</p>
-            <p>Rarity: {weapon.rarity.name}</p>
+            <p>Category: {weapon.category && weapon.category.name}</p>
+            <p>Rarity: {weapon.rarity && weapon.rarity.name}</p>
             <p>StatTrak Available: {weapon.stattrak ? "Yes" : "No"}</p>
           </div>
           <div className="right_panel">
