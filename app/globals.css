@@ -9,6 +9,12 @@ body {
   margin: 0;
 }
 
+.c___container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .container {
   height: 82vh;
   display: flex;
